@@ -286,6 +286,28 @@ a:hover {
   color: #7a4a0d;
 }
 
+.shots {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0.45rem;
+  margin-top: 0.7rem;
+  overflow-x: auto;
+  padding-bottom: 0.15rem;
+}
+
+.shots a {
+  flex: 0 0 auto;
+  line-height: 0;
+}
+
+.shots img {
+  height: 160px;
+  width: auto;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.5);
+}
+
 .side {
   display: flex;
   flex-direction: column;

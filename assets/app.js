@@ -43,6 +43,17 @@ function iconHtml(app) {
   return `<div class="icon" aria-hidden="true">${ch}</div>`;
 }
 
+function screenshotsHtml(app) {
+  const shots = (app.screenshots || []).filter(Boolean).slice(0, 4);
+  if (!shots.length) return "";
+  return `<div class="shots">${shots
+    .map(
+      (u) =>
+        `<a href="${u}" target="_blank" rel="noopener noreferrer"><img src="${u}" alt="" loading="lazy" height="160" /></a>`
+    )
+    .join("")}</div>`;
+}
+
 function badges(app) {
   const p = app.platforms || [];
   const bits = [];
@@ -115,6 +126,7 @@ function render() {
           <h2 class="name">${escapeHtml(app.name || "未命名应用")}</h2>
           <p class="summary">${escapeHtml(app.description || "暂无简介")}</p>
           <div class="badges">${badges(app)}</div>
+          ${screenshotsHtml(app)}
         </div>
         <div class="side">
           <div class="updated">更新 ${formatTime(app.updatedAt)}</div>
