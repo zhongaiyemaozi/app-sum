@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="AppTool 独立应用作品集：展示已上架应用名称、简介与官方下载入口，欢迎商务合作。"
+    />
+    <title>AppTool · 应用作品集</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,600;1,9..40,400&family=Fraunces:opsz,wght@9..144,500;9..144,650&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <header class="hero">
+        <h1 class="brand" id="brand">AppTool</h1>
+        <p class="tagline" id="tagline">
+          独立完成多款 iOS / 鸿蒙应用 · 欢迎商务合作与产品联名
+        </p>
+        <div class="meta-bar" aria-label="统计">
+          <span class="pill">应用 <strong id="stat-products">—</strong></span>
+          <span class="pill">iOS <strong id="stat-ios">—</strong></span>
+          <span class="pill">鸿蒙 <strong id="stat-harmony">—</strong></span>
+          <span class="pill"
+            >最近更新 <strong id="generated-at">—</strong></span
+          >
+        </div>
+      </header>
+
+      <section class="toolbar" aria-label="筛选">
+        <button type="button" data-filter="all" aria-pressed="true">全部</button>
+        <button type="button" data-filter="ios" aria-pressed="false">iOS</button>
+        <button type="button" data-filter="harmony" aria-pressed="false">
+          鸿蒙
+        </button>
+        <button type="button" data-filter="both" aria-pressed="false">
+          双端
+        </button>
+        <input
+          id="search"
+          type="search"
+          placeholder="搜索应用名称"
+          autocomplete="off"
+        />
+      </section>
+
+      <section id="list" class="list" aria-live="polite"></section>
+
+      <footer class="footer">
+        <span>展示内容：应用名称、简介、官方商店下载地址</span>
+        <a
+          id="contact"
+          href="https://github.com/zhongaiyemaozi"
+          target="_blank"
+          rel="noopener noreferrer"
+          >商务合作 / Contact</a
+        >
+      </footer>
+    </main>
+    <script src="./assets/app.js" type="module"></script>
+  </body>
+</html>

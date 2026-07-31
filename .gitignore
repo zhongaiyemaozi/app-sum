@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.idea/
+*.log
+
+# Local-only scanner / tooling (do not publish)
+scripts/
+registry.yaml
+scripts/.cache/
+_tmp_*.json
