@@ -31,7 +31,19 @@ function platformMatch(app, filter) {
 function textMatch(app, query) {
   if (!query) return true;
   const q = query.toLowerCase();
-  const hay = [app.name, app.description].filter(Boolean).join(" ").toLowerCase();
+  const listings = app.listings || {};
+  const hay = [
+    app.name,
+    app.summary,
+    app.description,
+    listings.ios?.description,
+    listings.ios?.name,
+    listings.harmony?.description,
+    listings.harmony?.name,
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
   return hay.includes(q);
 }
 
@@ -43,15 +55,58 @@ function iconHtml(app) {
   return `<div class="icon" aria-hidden="true">${ch}</div>`;
 }
 
-function screenshotsHtml(app) {
-  const shots = (app.screenshots || []).filter(Boolean).slice(0, 4);
+function shotsHtml(urls) {
+  const shots = (urls || []).filter(Boolean).slice(0, 4);
   if (!shots.length) return "";
   return `<div class="shots">${shots
     .map(
       (u) =>
-        `<a href="${u}" target="_blank" rel="noopener noreferrer"><img src="${u}" alt="" loading="lazy" height="160" /></a>`
+        `<a href="${u}" target="_blank" rel="noopener noreferrer"><img src="${u}" alt="" loading="lazy" height="140" /></a>`
     )
     .join("")}</div>`;
+}
+
+function listingBlock(plat, listing) {
+  if (!listing) return "";
+  const note =
+    listing.sourceNote ||
+    (plat === "ios"
+      ? "以下文案与截图来自 App Store"
+      : "以下文案与截图来自华为应用市场");
+  const desc = listing.description || "";
+  return `
+    <div class="listing ${plat}">
+      <p class="source-note">${escapeHtml(note)}</p>
+      ${
+        desc
+          ? `<p class="listing-desc">${escapeHtml(desc)}</p>`
+          : `<p class="listing-desc muted">暂无商店简介</p>`
+      }
+      ${shotsHtml(listing.screenshots)}
+    </div>`;
+}
+
+function listingsHtml(app) {
+  const L = app.listings || {};
+  const hasIos = !!L.ios;
+  const hasHarmony = !!L.harmony;
+  if (!hasIos && !hasHarmony) {
+    // TestFlight-only / override without store listing
+    const desc = app.summary || app.description || "";
+    return desc
+      ? `<p class="listing-desc">${escapeHtml(desc)}</p>`
+      : "";
+  }
+  if (hasIos && hasHarmony) {
+    return `<div class="listings dual">${listingBlock(
+      "ios",
+      L.ios
+    )}${listingBlock("harmony", L.harmony)}</div>`;
+  }
+  return `<div class="listings">${listingBlock(
+    hasIos ? "ios" : "harmony",
+    hasIos ? L.ios : L.harmony
+  )}</div>`;
 }
 
 function badges(app) {
@@ -122,11 +177,11 @@ function render() {
       return `
       <article class="row" style="animation-delay:${delay}s">
         ${iconHtml(app)}
-        <div>
+        <div class="body">
           <h2 class="name">${escapeHtml(app.name || "未命名应用")}</h2>
-          <p class="summary">${escapeHtml(app.description || "暂无简介")}</p>
+          <p class="summary">${escapeHtml(app.summary || "暂无简介")}</p>
           <div class="badges">${badges(app)}</div>
-          ${screenshotsHtml(app)}
+          ${listingsHtml(app)}
         </div>
         <div class="side">
           <div class="updated">更新 ${formatTime(app.updatedAt)}</div>
@@ -160,6 +215,7 @@ async function boot() {
   state.catalog = await res.json();
   const brand = state.catalog.brand || {};
   const stats = state.catalog.stats || {};
+  const notes = state.catalog.notes || {};
   $("#brand").textContent = brand.name || "AppTool";
   $("#tagline").textContent =
     brand.tagline || "独立应用作品集 · 欢迎商务合作";
@@ -167,6 +223,12 @@ async function boot() {
   $("#stat-ios").textContent = String(stats.ios ?? "—");
   $("#stat-harmony").textContent = String(stats.harmony ?? "—");
   $("#generated-at").textContent = formatTime(state.catalog.updatedAt);
+  const noteEl = $("#asset-note");
+  if (noteEl) {
+    noteEl.textContent =
+      notes.assets ||
+      "各平台文案/截图分别取自对应商店；双端应用两边素材可能不同。";
+  }
   document.title = `${brand.name || "AppTool"} · 全栈工程师作品集`;
   render();
 }

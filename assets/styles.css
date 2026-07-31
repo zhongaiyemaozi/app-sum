@@ -206,7 +206,7 @@ a:hover {
   display: grid;
   grid-template-columns: 64px 1fr auto;
   gap: 1rem;
-  align-items: center;
+  align-items: start;
   padding: 1rem 1.1rem;
   border: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.42);
@@ -257,6 +257,64 @@ a:hover {
   overflow: hidden;
 }
 
+.asset-note {
+  margin: 0.9rem 0 0;
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  max-width: 40rem;
+}
+
+.body {
+  min-width: 0;
+}
+
+.listings {
+  margin-top: 0.75rem;
+  display: grid;
+  gap: 0.65rem;
+}
+
+.listings.dual {
+  gap: 0.75rem;
+}
+
+.listing {
+  padding: 0.65rem 0.75rem;
+  border: 1px dashed var(--line);
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.listing.ios {
+  border-color: rgba(201, 133, 42, 0.35);
+}
+
+.listing.harmony {
+  border-color: rgba(31, 107, 87, 0.35);
+}
+
+.source-note {
+  margin: 0;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.02em;
+  color: var(--moss-deep);
+}
+
+.listing-desc {
+  margin: 0.35rem 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  white-space: pre-wrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.listing-desc.muted {
+  opacity: 0.7;
+}
+
 .badges {
   display: flex;
   flex-wrap: wrap;
@@ -301,7 +359,7 @@ a:hover {
 }
 
 .shots img {
-  height: 160px;
+  height: 140px;
   width: auto;
   border-radius: 10px;
   border: 1px solid var(--line);
