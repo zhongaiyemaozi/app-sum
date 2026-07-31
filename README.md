@@ -23,7 +23,7 @@
 
 - 全栈：客户端（iOS / 鸿蒙）+ 配套工程 / 发版 / 上架流程
 - 已上架应用可直接在商店下载验证
-- 当前公开统计：**34** 款应用 · iOS **34** · 鸿蒙 **8** · 双端 **8**
+- 当前公开统计：**31** 款应用 · iOS **31** · 鸿蒙 **8** · 双端 **8**
 - 目录更新时间：2026-07-31
 
 ---
@@ -273,24 +273,6 @@ Clover Blocks is a classic falling-block stage game built for players who want p
 [App Store 下载](https://apps.apple.com/us/app/clover-blocks/id6762731116?uo=4)
 
 最近更新：2026-05-15
-
-#### Blow a Trillion
-
-[App Store 下载](https://apps.apple.com/app/id6789487448)
-
-最近更新：—
-
-#### LaunchPro
-
-[App Store 下载](https://apps.apple.com/app/id6776916016)
-
-最近更新：—
-
-#### Talk-Timer
-
-[App Store 下载](https://apps.apple.com/app/id6795022587)
-
-最近更新：—
 
 #### VPNova  
 `未上架 · 提供 TestFlight`

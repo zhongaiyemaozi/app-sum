@@ -9,8 +9,8 @@
     "pages": "https://zhongaiyemaozi.github.io/app-sum/"
   },
   "stats": {
-    "products": 34,
-    "ios": 34,
+    "products": 31,
+    "ios": 31,
     "harmony": 8,
     "both": 8
   },
@@ -389,42 +389,6 @@
       ],
       "downloads": {
         "ios": "https://apps.apple.com/us/app/clover-blocks/id6762731116?uo=4"
-      }
-    },
-    {
-      "name": "Blow a Trillion",
-      "description": "",
-      "icon": null,
-      "updatedAt": null,
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/app/id6789487448"
-      }
-    },
-    {
-      "name": "LaunchPro",
-      "description": "",
-      "icon": null,
-      "updatedAt": null,
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/app/id6776916016"
-      }
-    },
-    {
-      "name": "Talk-Timer",
-      "description": "",
-      "icon": null,
-      "updatedAt": null,
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/app/id6795022587"
       }
     },
     {
