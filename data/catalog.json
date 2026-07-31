@@ -2,13 +2,17 @@
   "updatedAt": "2026-07-31T07:27:47Z",
   "brand": {
     "name": "AppTool",
-    "tagline": "独立完成多款 iOS / 鸿蒙应用 · 欢迎商务合作与产品联名",
-    "contact": "https://github.com/zhongaiyemaozi"
+    "title": "全栈工程师",
+    "tagline": "独立完成多款 iOS / 鸿蒙应用上架与迭代 · 欢迎商务合作",
+    "email": "876503129@qq.com",
+    "github": "https://github.com/zhongaiyemaozi",
+    "pages": "https://zhongaiyemaozi.github.io/app-sum/"
   },
   "stats": {
     "products": 34,
     "ios": 34,
-    "harmony": 8
+    "harmony": 8,
+    "both": 8
   },
   "apps": [
     {

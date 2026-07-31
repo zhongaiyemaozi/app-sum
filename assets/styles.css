@@ -62,9 +62,48 @@ a:hover {
   z-index: 1;
 }
 
-.hero {
+.hero,
+.coop {
   padding: 4.5rem 0 2.25rem;
   animation: rise 0.7s ease both;
+}
+
+.coop {
+  border: 1px solid rgba(31, 107, 87, 0.28);
+  background:
+    linear-gradient(135deg, rgba(31, 107, 87, 0.12), rgba(201, 133, 42, 0.1)),
+    rgba(255, 255, 255, 0.55);
+  padding: 2rem 1.4rem 1.6rem;
+  margin-top: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.coop-kicker {
+  margin: 0 0 0.75rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--moss-deep);
+  font-weight: 650;
+}
+
+.coop-title {
+  margin: 0.75rem 0 0;
+  font-size: 1.2rem;
+  font-weight: 650;
+  color: var(--ink);
+}
+
+.coop-mail {
+  margin: 1.1rem 0 0;
+  font-size: 1.15rem;
+}
+
+.coop-mail a {
+  color: var(--moss-deep);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .brand {

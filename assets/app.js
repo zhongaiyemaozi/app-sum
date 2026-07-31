@@ -136,11 +136,7 @@ async function boot() {
   $("#stat-ios").textContent = String(stats.ios ?? "—");
   $("#stat-harmony").textContent = String(stats.harmony ?? "—");
   $("#generated-at").textContent = formatTime(state.catalog.updatedAt);
-  const contact = $("#contact");
-  if (contact && brand.contact) {
-    contact.href = brand.contact;
-  }
-  document.title = `${brand.name || "AppTool"} · 应用作品集`;
+  document.title = `${brand.name || "AppTool"} · 全栈工程师作品集`;
   render();
 }
 
