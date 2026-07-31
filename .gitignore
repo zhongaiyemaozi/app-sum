@@ -8,5 +8,6 @@ __pycache__/
 # Local-only scanner / tooling (do not publish)
 scripts/
 registry.yaml
+overrides.json
 scripts/.cache/
 _tmp_*.json

@@ -292,9 +292,12 @@ Clover Blocks is a classic falling-block stage game built for players who want p
 
 最近更新：—
 
-#### VPNova
+#### VPNova  
+`未上架 · 提供 TestFlight`
 
-[App Store 下载](https://apps.apple.com/app/id6773611538)
+VPNova 是一款 VPN 客户端，用于安全网络连接与日常隐私保护。当前尚未正式上架 App Store，已通过 TestFlight 审核，可直接通过下方链接安装体验。
+
+[TestFlight 下载](https://testflight.apple.com/join/xgwEPtp2)
 
 最近更新：—
 

@@ -280,6 +280,12 @@ a:hover {
   border-color: rgba(31, 107, 87, 0.45);
 }
 
+.badge.warn {
+  border-color: rgba(201, 133, 42, 0.55);
+  background: rgba(201, 133, 42, 0.12);
+  color: #7a4a0d;
+}
+
 .side {
   display: flex;
   flex-direction: column;

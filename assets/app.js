@@ -46,17 +46,36 @@ function iconHtml(app) {
 function badges(app) {
   const p = app.platforms || [];
   const bits = [];
-  if (p.includes("ios")) bits.push(`<span class="badge ios">App Store</span>`);
-  if (p.includes("harmony")) bits.push(`<span class="badge harmony">华为应用市场</span>`);
+  if (app.status === "unpublished" || app.statusLabel) {
+    bits.push(
+      `<span class="badge warn">${escapeHtml(
+        app.statusLabel || "未上架 · 提供 TestFlight"
+      )}</span>`
+    );
+  }
+  if (p.includes("ios") && app.downloads?.ios) {
+    bits.push(`<span class="badge ios">App Store</span>`);
+  }
+  if (app.downloads?.testflight) {
+    bits.push(`<span class="badge ios">TestFlight</span>`);
+  }
+  if (p.includes("harmony") && app.downloads?.harmony) {
+    bits.push(`<span class="badge harmony">华为应用市场</span>`);
+  }
   return bits.join("");
 }
 
 function links(app) {
   const d = app.downloads || {};
   const items = [];
+  if (d.testflight) {
+    items.push(
+      `<a class="primary" href="${d.testflight}" target="_blank" rel="noopener noreferrer">TestFlight 下载</a>`
+    );
+  }
   if (d.ios) {
     items.push(
-      `<a class="primary" href="${d.ios}" target="_blank" rel="noopener noreferrer">App Store 下载</a>`
+      `<a class="${d.testflight ? "" : "primary"}" href="${d.ios}" target="_blank" rel="noopener noreferrer">App Store 下载</a>`
     );
   }
   if (d.harmony) {
