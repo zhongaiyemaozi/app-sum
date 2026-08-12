@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-31T08:15:53Z",
+  "updatedAt": "2026-08-12T07:26:30Z",
   "brand": {
     "name": "AppTool",
     "title": "全栈工程师",
     "tagline": "独立完成多款 iOS / 鸿蒙应用上架与迭代 · 欢迎商务合作",
-    "email": "876503129@qq.com",
+    "email": "yemaozi2026@outlook.com",
     "github": "https://github.com/zhongaiyemaozi",
     "pages": "https://zhongaiyemaozi.github.io/app-sum/"
   },
@@ -13,12 +13,606 @@
     "detail": "完整介绍与截图见 GitHub Pages。"
   },
   "stats": {
-    "products": 31,
-    "ios": 31,
-    "harmony": 8,
+    "products": 33,
+    "ios": 32,
+    "harmony": 9,
     "both": 8
   },
   "apps": [
+    {
+      "id": "com-sycyouerqim-app",
+      "name": "Kids Learning Park: Preschool",
+      "summary": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore…",
+      "icon": "./media/com-sycyouerqim-app/ios/icon.jpg",
+      "updatedAt": "2026-08-12T02:32:26Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/kids-learning-park-preschool/id6763489174?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917604081697145714"
+      },
+      "listings": {
+        "ios": {
+          "name": "Kids Learning Park: Preschool",
+          "description": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore ABC phonics, early math, Mandarin, handwriting, stories, and playful learning games with Lucky, a friendly clover mascot. WHY PARENTS TRUST IT • Core learning works offline • No ads and no account required • No third-party analytics or tracking SDKs • Child progress stays on the device • Parent Area protects external links, purchases, documents, and content downloads LEARN AND PLAY • ABC, ",
+          "icon": "./media/com-sycyouerqim-app/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-sycyouerqim-app/ios/shot-0.jpg",
+            "./media/com-sycyouerqim-app/ios/shot-1.jpg",
+            "./media/com-sycyouerqim-app/ios/shot-2.jpg",
+            "./media/com-sycyouerqim-app/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "幼儿启蒙早教识字",
+          "description": "幼儿启蒙早教识字面向家庭启蒙场景，提供适龄学习内容、朗读、游戏和测验，帮助孩子在家长陪伴下进行基础认知练习。 核心功能： - 内置启蒙学习内容，覆盖基础认知、词汇和互动测验 - 支持 TTS 朗读，帮助孩子听读结合 - 游戏与测验练习，巩固学习内容 - 家长专区集中放置设置、隐私、协议和自定义内容 - 支持自定义学习内容，数据保存在本机 - 深浅色跟随系统，中英双语结构已预留 儿童合规说明： - 不接广告，不做用户追踪 - 当前无账号体系，不向儿童展示付费触点 - 家长专区作为设置和后续付费操作的入口屏障 - 后续提交前需补齐儿童个人信息保护规则/儿童隐私章节",
+          "icon": "./media/com-sycyouerqim-app/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-sycyouerqim-app/harmony/shot-0.jpg",
+            "./media/com-sycyouerqim-app/harmony/shot-1.jpg",
+            "./media/com-sycyouerqim-app/harmony/shot-2.jpg",
+            "./media/com-sycyouerqim-app/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-countday",
+      "name": "盼日·纪念日倒计时",
+      "summary": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什…",
+      "icon": "./media/com-apptool-countday/ios/icon.jpg",
+      "updatedAt": "2026-08-11T19:34:33Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%9B%BC%E6%97%A5-%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6/id6761182380?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611667880659579"
+      },
+      "listings": {
+        "ios": {
+          "name": "盼日·纪念日倒计时",
+          "description": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什么选择我们】 • 倒计 + 正数双模式：未来的日子帮你倒计时，过去的日子帮你数着过（在一起 365 天）。 • 桌面小组件：多种尺寸小组件，重要日子直接显示在主屏幕，一眼可见。 • Apple Watch：抬腕即可查看最近的倒计时，重要日子随身带。 【强大好用的功能】 • 重复提醒：生日、纪念日支持每月 / 每年自动循环，永远不会算错日子。 • 分类与笔记本：恋爱、生日、节日、学习、工作、生活随心归类，清爽不乱。 • 日记与照片：为每个日子写下心情、贴上照片，留住值得纪念的瞬间。 • 通知提醒：临近重要日子自动提醒，按你的节奏推送。 • iCloud 同步：登录 Apple 账户即可把数据安全同步到 iCloud，换机不丢失。 • 本地优先 & 备份导出：游客模式数据存本机，支持一键导入 / 导出备份。 【适合这些场景】 恋爱纪念日、结婚周年、宝宝生日、生日倒计时、考试倒计时",
+          "icon": "./media/com-apptool-countday/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-countday/ios/shot-0.jpg",
+            "./media/com-apptool-countday/ios/shot-1.jpg",
+            "./media/com-apptool-countday/ios/shot-2.jpg",
+            "./media/com-apptool-countday/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "盼日",
+          "description": "盼日帮你守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日还剩几天？ 核心功能： 倒计 + 正数双模式，一屏看清还剩几天 / 已过几天 公历 / 农历目标日；单次 / 每月 / 每年重复 按需同步到系统日历，可设置当天或提前 1 / 3 / 7 天提醒 本子分类、封面图、备注与多条文本笔记 常用日子模板（六分类、搜索、大卡/双列） 本地备份导出 / 导入 / 恢复最近备份 无广告、无在线内容源、无需登录",
+          "icon": "./media/com-apptool-countday/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-countday/harmony/shot-0.jpg",
+            "./media/com-apptool-countday/harmony/shot-1.jpg",
+            "./media/com-apptool-countday/harmony/shot-2.jpg",
+            "./media/com-apptool-countday/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-sparksapp-couplegames",
+      "name": "Sparks: Couple Games",
+      "summary": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with…",
+      "icon": "./media/com-sparksapp-couplegames/ios/icon.jpg",
+      "updatedAt": "2026-08-11T19:30:32Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/sparks-couple-games/id6774053891?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "Sparks: Couple Games",
+          "description": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with your partner using a single 6-digit code, and everything syncs in real time across both phones via iCloud. Perfect for date nights AND long-distance relationships. Whether you just got together or have been side by side for years, Sparks helps you spark new conversations, create little surprises, and understand each other better the more you play. WAYS TO PLAY — AND GROWING Truth or Dare Th",
+          "icon": "./media/com-sparksapp-couplegames/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-sparksapp-couplegames/ios/shot-0.jpg",
+            "./media/com-sparksapp-couplegames/ios/shot-1.jpg",
+            "./media/com-sparksapp-couplegames/ios/shot-2.jpg",
+            "./media/com-sparksapp-couplegames/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-diesfaustussyc-app",
+      "name": "吉日历-老黄历万年历·黄道吉日",
+      "summary": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不…",
+      "icon": "./media/com-diesfaustussyc-app/ios/icon.jpg",
+      "updatedAt": "2026-08-11T19:29:49Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E5%90%89%E6%97%A5%E5%8E%86-%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6762102654?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "吉日历-老黄历万年历·黄道吉日",
+          "description": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 · 公历、农历、干支、生肖、星座一屏看全 · 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 · 时辰吉凶实时更新，当前时辰吉凶随手可见 【黄道吉日·择吉】 · 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 · 每个推荐日附评分与理由，点开即看完整黄历详情 · Pro 支持一年内任意范围与高级过滤（避开周末、法定工作日等） 【万年历·月历】 · 农历、节气、法定节假日、传统节日直观标注 · 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 · 收藏心仪吉日，自动倒数还有几天 · 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 · 农历生日提醒：按农历自动每年提醒，长辈生日再不会忘 · 每日黄历推送：每天早上送达当日宜忌，不错过任何好日子 【桌面小组",
+          "icon": "./media/com-diesfaustussyc-app/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-diesfaustussyc-app/ios/shot-0.jpg",
+            "./media/com-diesfaustussyc-app/ios/shot-1.jpg",
+            "./media/com-diesfaustussyc-app/ios/shot-2.jpg",
+            "./media/com-diesfaustussyc-app/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-idphotomaker-app",
+      "name": "证件照大师-免冠寸照签证照制作换底色",
+      "summary": "证件照大师】是一款完全本地处理的证件照制作工具。无需注册登录、无需联网上传，拍照或从相册导入一张生活照，自动抠图、一键换底色、按规格裁剪，几秒钟生成可直接提交的标准证件照，并…",
+      "icon": "./media/com-idphotomaker-app/ios/icon.jpg",
+      "updatedAt": "2026-08-11T19:29:23Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%A4%A7%E5%B8%88-%E5%85%8D%E5%86%A0%E5%AF%B8%E7%85%A7%E7%AD%BE%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E6%8D%A2%E5%BA%95%E8%89%B2/id6761751168?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "证件照大师-免冠寸照签证照制作换底色",
+          "description": "证件照大师】是一款完全本地处理的证件照制作工具。无需注册登录、无需联网上传，拍照或从相册导入一张生活照，自动抠图、一键换底色、按规格裁剪，几秒钟生成可直接提交的标准证件照，并支持保存到相册与打印排版。 ◆ 为什么选择证件照大师 • 全程本地处理：人脸检测、人像抠图、换底、合成均在你的手机上完成，照片绝不上传服务器 • 无需登录：打开即用，不要账号、不要手机号 • 免费可用：拍摄/导入、基础抠图、常用规格、基础换底、单张生成与保存全部免费 • 质量校验：自动检测人脸姿态、清晰度与构图，不合格会明确提示原因 ◆ 核心功能 • 智能人像抠图：本地 AI 分割，边缘干净自然 • 一键换底色：白底、蓝底、红底即时切换，Pro 支持任意自定义颜色 • 海量规格：一寸、二寸、小一寸、大一寸、身份证、驾驶证、社保卡、公务员考试、教师资格证、四六级、考研、护照、美国签证、申根签证、日本签证、韩国签证等数十种常见规格 • 自定义规格：按毫米与 DPI 自由设置宽高，满足特殊要求 • 精细调整：拖动、缩放、旋转，支持全屏像素级精调 • 自动构图：智能识别头肩位置，避免",
+          "icon": "./media/com-idphotomaker-app/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-idphotomaker-app/ios/shot-0.jpg",
+            "./media/com-idphotomaker-app/ios/shot-1.jpg",
+            "./media/com-idphotomaker-app/ios/shot-2.jpg",
+            "./media/com-idphotomaker-app/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-snoresleepsyc-app",
+      "name": "眠声鼾记",
+      "summary": "眠声鼾记是一款专注睡眠声音记录与鼾声趋势复盘的工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。 你可以用它： - 记录整晚环境声音，回看明显鼾声与梦话…",
+      "icon": "./media/com-snoresleepsyc-app/ios/icon.jpg",
+      "updatedAt": "2026-08-11T17:34:14Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%9C%A0%E5%A3%B0%E9%BC%BE%E8%AE%B0/id6761602554?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "眠声鼾记",
+          "description": "眠声鼾记是一款专注睡眠声音记录与鼾声趋势复盘的工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。 你可以用它： - 记录整晚环境声音，回看明显鼾声与梦话片段 - 查看睡眠分数、鼾声占比、呼吸稳定性等趋势 - 标记饮酒、晚餐、压力、疲劳等生活因素 - 记录侧睡、鼻贴、加湿器等夜间尝试，比较变化 - 通过 iCloud 同步和导出报告，保留长期记录 高级版一次购买永久使用，可解锁完整录音复盘、深度趋势洞察、专业报告和疗法实验对比。 免责声明：本 App 仅用于个人睡眠声音记录和趋势参考，不是医疗器械，不能用于诊断、治疗或监测睡眠呼吸暂停等疾病。如有持续严重打鼾、憋醒、白天嗜睡或其他健康担忧，请咨询医生。",
+          "icon": "./media/com-snoresleepsyc-app/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-snoresleepsyc-app/ios/shot-0.jpg",
+            "./media/com-snoresleepsyc-app/ios/shot-1.jpg",
+            "./media/com-snoresleepsyc-app/ios/shot-2.jpg",
+            "./media/com-snoresleepsyc-app/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-cloverled",
+      "name": "手持弹幕-LED跑马灯灯牌滚动字幕应援神器",
+      "summary": "手持弹幕 —— 一句话，秒变手持LED灯牌、跑马灯和现场气氛灯。 无论是演唱会为爱豆应援打call、机场高铁接机寻人、勇敢表白告白求婚、生日惊喜，还是运动会加油、节日祝福、朋…",
+      "icon": "./media/com-apptool-cloverled/ios/icon.jpg",
+      "updatedAt": "2026-08-11T16:08:24Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E6%89%8B%E6%8C%81%E5%BC%B9%E5%B9%95-led%E8%B7%91%E9%A9%AC%E7%81%AF%E7%81%AF%E7%89%8C%E6%BB%9A%E5%8A%A8%E5%AD%97%E5%B9%95%E5%BA%94%E6%8F%B4%E7%A5%9E%E5%99%A8/id6761797073?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917604251909409133"
+      },
+      "listings": {
+        "ios": {
+          "name": "手持弹幕-LED跑马灯灯牌滚动字幕应援神器",
+          "description": "手持弹幕 —— 一句话，秒变手持LED灯牌、跑马灯和现场气氛灯。 无论是演唱会为爱豆应援打call、机场高铁接机寻人、勇敢表白告白求婚、生日惊喜，还是运动会加油、节日祝福、朋友聚会整活，输入一句话，立刻做出全场最亮的滚动字幕灯牌。小红书、抖音同款应援神器，新手 10 秒上手。 【为什么选它】 · 真正好看的 LED 显示屏效果，点阵 / 发光 / 霓虹边框，现场更出片 · 横滚、竖滚、静止任意切换，速度字号一键微调 · 闪烁、呼吸、高亮发光多种动效，远处也能一眼看到 · 7 款特色字体（穿越体、机械体、萌趣、奶糖体等），文字 / 底色 / 图片背景自由搭配 · 一键导出 GIF / MP4 保存到相册，方便发朋友圈、小红书、抖音 · 适配 iPhone 与 iPad，深色 / 浅色双主题 【海量场景模板，一键套用】 · 演唱会应援：为你打CALL、全场最亮的星、应援口号、星海灯牌 · 接机寻人：机场接机、欢迎回国、张先生这边、家人来接你啦 · 表白告白：我喜欢你、嫁给我好吗、你的名字会发光、约会邀请 · 运动加油：必胜必胜、我们是冠军、MVP、主",
+          "icon": "./media/com-apptool-cloverled/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-cloverled/ios/shot-0.jpg",
+            "./media/com-apptool-cloverled/ios/shot-1.jpg",
+            "./media/com-apptool-cloverled/ios/shot-2.jpg",
+            "./media/com-apptool-cloverled/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "LED手持弹幕跑马灯",
+          "description": "LED手持弹幕跑马灯 是一款本地 LED 手持弹幕工具，适合演唱会应援、机场接机、活动引导、生日祝福、告白和现场提示。 核心功能： - 自由输入弹幕文字，调节字号、速度、颜色、背景色和循环间距 - 支持静止、向左、向右、向上、向下 5 种播放方向 - 支持闪烁、呼吸、发光等 LED 动效，以及镜像播放 - 内置接机、演唱会、告白、运动、节日、整活 6 类模板 - 全屏横屏播放，播放时保持屏幕常亮，点按屏幕隐藏或显示控件 - 最近作品本地保存，可再次使用、复制、删除或清空 - 无账号体系，作品和设置仅保存在本机 适用场景： 演唱会打 Call、粉丝见面会、机场接人、活动签到、运动比赛助威、生日派对、求婚告白、临时大字提示。",
+          "icon": "./media/com-apptool-cloverled/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-cloverled/harmony/shot-0.jpg",
+            "./media/com-apptool-cloverled/harmony/shot-1.jpg",
+            "./media/com-apptool-cloverled/harmony/shot-2.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-draftcode-editor",
+      "name": "DraftCode: Code & Text Editor",
+      "summary": "DraftCode is a free, private code, text and Markdown editor for Mac, iPhone and iPad. O…",
+      "icon": "./media/com-draftcode-editor/ios/icon.jpg",
+      "updatedAt": "2026-08-11T16:08:02Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/draftcode-code-text-editor/id6770432142?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917612118140510302"
+      },
+      "listings": {
+        "ios": {
+          "name": "DraftCode: Code & Text Editor",
+          "description": "DraftCode is a free, private code, text and Markdown editor for Mac, iPhone and iPad. Open local files or folders, start typing immediately and keep your work in standard file formats. No ads, account, tracking, subscription or in-app purchase. EDIT CODE AND TEXT • Syntax highlighting and language detection for 57 languages • Tabs, split editing, line numbers, minimap, bookmarks and code snippets • Auto-indent, bracket pairing, comments and a scrollable code-key toolbar • Ope",
+          "icon": "./media/com-draftcode-editor/ios/icon.jpg",
+          "screenshots": [],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "DraftCode",
+          "description": "DraftCode 是一款完全免费的离线本地代码、纯文本与 Markdown 编辑器。首次阅读并同意用户协议与隐私政策后即可使用；未同意前不读取你的文件、不申请权限。 核心功能： - 多标签编辑；起始菜单新建、打开文件、打开示例 - 系统文件选择器打开 / 另存为；最近文件快速重开 - 查找替换、跳转行号、大纲与 TODO 面板 - Markdown 预览；命令面板与常用文本工具 - 差异对比、代码片段、语言识别（含 ArkTS / ets / JSON5 等） - 只读 Git 分支提示（不提供云同步或远程推送） 完全离线、完全免费：无登录、无内购、无广告。文件仅在你主动选择的本机路径读写；设置与最近记录保存在应用本地。适合在手机、平板与二合一设备上快速改配置、写笔记或预览 Markdown。 联系邮箱：chenxianliang520@foxmail.com QQ：645863335",
+          "icon": "./media/com-draftcode-editor/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-draftcode-editor/harmony/shot-0.jpg",
+            "./media/com-draftcode-editor/harmony/shot-1.jpg",
+            "./media/com-draftcode-editor/harmony/shot-2.jpg",
+            "./media/com-draftcode-editor/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-falconmenu-app",
+      "name": "FalconMenu Quick",
+      "summary": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，…",
+      "icon": "./media/com-falconmenu-app/ios/icon.jpg",
+      "updatedAt": "2026-08-11T15:41:27Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/falconmenu-%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B/id6768915910?mt=12&uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "FalconMenu Quick",
+          "description": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，用常用应用打开所选项目，在当前位置打开终端，管理常用文件夹，批量重命名，压缩或解压 ZIP 文件，并使用本地图片与文件效率工具。 主要功能： - 为日常文件操作设计的 Finder 右键菜单。 - 新建文件夹、空白文件和模板文件。 - 复制路径、POSIX 路径、文件 URL、文件名和 Shell 转义路径。 - 使用兼容应用或收藏应用打开所选文件。 - 在当前 Finder 位置打开终端。 - 管理常用文件夹，快速打开、复制到或移动到。 - 支持带预览思路的批量重命名流程。 - 本地转换图片并生成图标资源。 - 压缩和解压 ZIP 文件。 - 在设置中提供 Finder 扩展、沙盒和文件夹访问引导。 FalconMenu 在 Mac 本地运行，不需要账号、服务器或网络自动化。文件操作由用户主动触发，遵循沙盒访问规则，并保持 Finder 菜单生成快速响应。",
+          "icon": "./media/com-falconmenu-app/ios/icon.jpg",
+          "screenshots": [],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-woodenfish",
+      "name": "禅音木鱼-解压放松专注神器",
+      "summary": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打…",
+      "icon": "./media/com-apptool-woodenfish/ios/icon.jpg",
+      "updatedAt": "2026-08-11T07:33:24Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%A6%85%E9%9F%B3%E6%9C%A8%E9%B1%BC-%E8%A7%A3%E5%8E%8B%E6%94%BE%E6%9D%BE%E4%B8%93%E6%B3%A8%E7%A5%9E%E5%99%A8/id6762326224?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611774109335319"
+      },
+      "listings": {
+        "ios": {
+          "name": "禅音木鱼-解压放松专注神器",
+          "description": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打开白噪音音色，让节律带你慢下来。界面安静、克制、有高级感，每一次轻敲都更有仪式感。 - 真实木鱼音色，低延迟、可连击，敲起来就上瘾 - 多种木鱼样式、音色与节奏，自由切换主题与显示语言 - 自动模式保持稳定节奏，专注、冥想、念诵都合适 - 白噪音 / 助眠场景，睡前安静收心 - 单次、今日、累计计数，随时看见自己的坚持 - 连续打卡与 7 日趋势，把习惯变得看得见 - 支持 Apple Watch 与锁屏小组件，随手就能敲 - 可分享到 iMessage，和朋友一起积功德 核心木鱼体验永久免费。当你想要更深入的练习，可一次性买断解锁 Pro：高级每日目标（500 / 1000）与 10–99999 的自定义目标次数，付费只服务于需要更多控制的用户，绝不影响免费体验。 无论是工作间隙解压、睡前助眠，还是每日静心功课，禅音木鱼都陪你慢下来。",
+          "icon": "./media/com-apptool-woodenfish/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-woodenfish/ios/shot-0.jpg",
+            "./media/com-apptool-woodenfish/ios/shot-1.jpg",
+            "./media/com-apptool-woodenfish/ios/shot-2.jpg",
+            "./media/com-apptool-woodenfish/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "禅音木鱼",
+          "description": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量电子木鱼。首页提供短时静心、专注节律、睡前放松3类场景，可一键配置音色、节奏与目标并进入计时引导；也可轻敲屏幕中央的木鱼，立即获得清脆音效与轻柔震动反馈。 主要能力： - 短时静心、专注节律、睡前放松3类计时引导场景 - 真实木鱼音色，低延迟、可连击 - 12种木鱼样式、12种音色与12档节奏 - 自动模式与自定义节奏 - 单次、今日、累计计数，连续打卡、7日趋势与月历 - 自定义目标、仪式模板、完整历史及CSV/成就分享 - 跟随系统深浅色，一键清除本机数据 禅音木鱼不含广告、行为追踪、强制登录、订阅或任何购买相关界面。数据仅保存在本机，不提供云同步。",
+          "icon": "./media/com-apptool-woodenfish/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-woodenfish/harmony/shot-0.jpg",
+            "./media/com-apptool-woodenfish/harmony/shot-1.jpg",
+            "./media/com-apptool-woodenfish/harmony/shot-2.jpg",
+            "./media/com-apptool-woodenfish/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-focuslist",
+      "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
+      "summary": "【日签打卡 FocusList — 待办、打卡、专注，一个 App 全搞定】 日签打卡把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专…",
+      "icon": "./media/com-apptool-focuslist/ios/icon.jpg",
+      "updatedAt": "2026-08-11T07:31:28Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E6%97%A5%E7%AD%BE%E6%89%93%E5%8D%A1-%E5%BE%85%E5%8A%9E%E6%89%93%E5%8D%A1%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E7%95%AA%E8%8C%84%E9%92%9F%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%97%A5%E7%A8%8B/id6760835368?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611318297759728"
+      },
+      "listings": {
+        "ios": {
+          "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
+          "description": "【日签打卡 FocusList — 待办、打卡、专注，一个 App 全搞定】 日签打卡把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专注与自律都安排得明明白白。界面简洁清爽，上手零门槛，越用越高效。 ■ 待办清单 & 任务管理 · 快速记录待办事项，设置优先级、截止日期与提醒 · 按日 / 周 / 月查看日程，合理规划时间 · 完成即打勾，清空清单的成就感拉满 ■ 习惯养成 & 每日打卡 · 自定义习惯，灵活设置打卡频率与提醒时间 · 连续打卡天数（Streak）一目了然，坚持更有动力 · 喝水、早睡、运动、学习、阅读……养成好习惯，告别拖延 ■ 专注番茄钟 & 计时器 · 内置番茄工作法计时器，专注与休息自由切换 · 倒计时 + 专注统计，培养深度专注力 · 学习、工作、写作，进入心流不被打扰 ■ 数据统计 & 可视化 · 打卡日历、完成率、专注时长全方位统计 · 趋势图表清晰呈现你的成长轨迹 · 支持导出图片，记录与分享你的坚持 ■ 多端同步 & 贴心体验 · iCloud 多设备自动同步，换机不丢数据",
+          "icon": "./media/com-apptool-focuslist/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-focuslist/ios/shot-0.jpg",
+            "./media/com-apptool-focuslist/ios/shot-1.jpg",
+            "./media/com-apptool-focuslist/ios/shot-2.jpg",
+            "./media/com-apptool-focuslist/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "日签打卡",
+          "description": "专注清单是一款简洁、私密的习惯打卡与统计工具。你可以从常用模板快速开始，也可以自定义频率、周期、提醒和记录字段，在日历中补录历史打卡，并通过周、月、年视图回顾变化。 核心数据默认保存在本机，无需注册账号即可创建、打卡、统计、导入、导出和备份。需要换机时，可导出完整备份并在另一台设备恢复，全程不需要账号。 主要能力： 创建、编辑、归档、恢复和删除习惯 每天、每周和自定义星期计划，以及固定起止周期 快速打卡与详细打卡，支持备注、数值和血压字段 最多 10 个按需开启的本地提醒 日历补录、连续打卡、完成率和周/月/年统计 CSV 与兼容 Excel 的 XML 数据导入导出 本地备份、恢复与全部数据删除 无账号完整备份迁移，方便换机恢复打卡数据 步数、饮水等健康习惯的手动记录 跟随系统深浅色与多种现代主题色 专注清单不包含广告、行为追踪、强制登录或订阅，首版主题色和数据能力全部免费。",
+          "icon": "./media/com-apptool-focuslist/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-focuslist/harmony/shot-0.jpg",
+            "./media/com-apptool-focuslist/harmony/shot-1.jpg",
+            "./media/com-apptool-focuslist/harmony/shot-2.jpg",
+            "./media/com-apptool-focuslist/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-sycmarkdown-app",
+      "name": "MDQuill Markdown编辑器",
+      "summary": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看…",
+      "icon": "./media/com-sycmarkdown-app/ios/icon.jpg",
+      "updatedAt": "2026-08-11T07:08:37Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/mdquill-markdown%E7%BC%96%E8%BE%91%E5%99%A8/id6762508307?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917603630742734228"
+      },
+      "listings": {
+        "ios": {
+          "name": "MDQuill Markdown编辑器",
+          "description": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看清爽预览，也可以随时切回编辑，继续整理笔记、文档、清单、技术说明和个人知识库。 为什么选择 MDQuill Studio？ • 本地优先：文档保存在你的设备上，不强制注册账号，不把写作内容上传到服务器。 • 打开即预览：从 Files、分享菜单或其他 App 打开 Markdown 文件，先进入预览页面，阅读确认后再切回编辑。 • 原生编辑体验：支持 Markdown 常用语法、工具栏快捷插入、查找替换、大纲导航和最近文档管理。 • 实时预览：标题、列表、引用、代码块、表格、任务列表、链接和图片都能清楚呈现。 • 多设备体验：iPhone 轻量记录，iPad 分栏写作，Mac 使用桌面窗口和文档工作流。 • 导出分享：可导出 Markdown、TXT、HTML 和 PDF，适合归档、打印、邮件发送和跨平台分享。 • 模板与工作流：使用内置模板快速开始，也可以保存自己的常用结构",
+          "icon": "./media/com-sycmarkdown-app/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-sycmarkdown-app/ios/shot-0.jpg",
+            "./media/com-sycmarkdown-app/ios/shot-1.jpg",
+            "./media/com-sycmarkdown-app/ios/shot-2.jpg",
+            "./media/com-sycmarkdown-app/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "MDQuill Studio",
+          "description": "MDQuill Studio 是一款面向写作、笔记、技术文档和 Markdown 学习的本地编辑器。应用支持文档管理、Markdown 编辑、实时预览和多格式导出，适合在手机、平板和二合一设备上整理灵感、草稿、会议纪要和技术笔记。 核心功能： 新建、导入、保存、重命名、删除 Markdown/TXT 文档 Markdown 快捷工具栏、自动配对、列表续行和模板新建 实时预览，支持标题、列表、任务列表、表格、代码块等常用语法 手机/平板/二合一自适应布局，支持编辑、预览和分栏 导出 MD、TXT、HTML、PDF 最近列表、收藏、集合、导出历史和清缓存 无账号体系，文档默认保存在本地",
+          "icon": "./media/com-sycmarkdown-app/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-sycmarkdown-app/harmony/shot-0.jpg",
+            "./media/com-sycmarkdown-app/harmony/shot-1.jpg",
+            "./media/com-sycmarkdown-app/harmony/shot-2.jpg",
+            "./media/com-sycmarkdown-app/harmony/shot-3.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-promptleaf",
+      "name": "映词提词器",
+      "summary": "",
+      "icon": null,
+      "updatedAt": "2026-08-11T06:49:02Z",
+      "platforms": [
+        "harmony"
+      ],
+      "downloads": {
+        "harmony": "https://appgallery.huawei.com/app/C6917613368024624501"
+      },
+      "listings": {
+        "harmony": {
+          "name": "映词提词器",
+          "description": "",
+          "icon": null,
+          "screenshots": [],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-d7w87bycpk-skillforge",
+      "name": "SkillForge - Agent Skills",
+      "summary": "SkillForge is a native, privacy-first app for discovering and managing open-source Agen…",
+      "icon": "./media/com-d7w87bycpk-skillforge/ios/icon.jpg",
+      "updatedAt": "2026-08-10T14:36:39Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/skillforge-agent-skills/id6778345242?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "SkillForge - Agent Skills",
+          "description": "SkillForge is a native, privacy-first app for discovering and managing open-source Agent Skills — reusable SKILL.md building blocks for AI coding agents. Works with Claude Code, Codex, Cursor, Copilot and Gemini CLI. BROWSE BY PROFESSION • Jump straight to skills for frontend, backend, mobile, data, design, product, marketing, writing, security, legal, finance, office work and more. • Or browse by category: documents, development, creative, enterprise and productivity. POWERF",
+          "icon": "./media/com-d7w87bycpk-skillforge/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-d7w87bycpk-skillforge/ios/shot-0.jpg",
+            "./media/com-d7w87bycpk-skillforge/ios/shot-1.jpg",
+            "./media/com-d7w87bycpk-skillforge/ios/shot-2.jpg",
+            "./media/com-d7w87bycpk-skillforge/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-leafread",
+      "name": "青页小说阅读器·TXT/EPUB/MD",
+      "summary": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…",
+      "icon": "./media/com-apptool-leafread/ios/icon.jpg",
+      "updatedAt": "2026-08-10T12:56:39Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611665788662118"
+      },
+      "listings": {
+        "ios": {
+          "name": "青页小说阅读器·TXT/EPUB/MD",
+          "description": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识别编码，海量长篇也能秒开 • EPUB 电子书，保留章节目录与排版 • Markdown（.md）文档，按标题自动分章 【听书朗读】 • 内置语音朗读，自动选择合适的声音，解放双眼 • 可调节朗读语速，支持定时停止，睡前听书不费电 • 朗读时同步高亮当前语句，并自动翻页 【沉浸阅读】 • 多种翻页方式：仿真、滑动、上下滚动、淡入等（部分为 Pro） • 日间 / 夜间 / 护眼多主题，可调亮度，长时间阅读更护眼 • 丰富字体与字号、行间距、段间距、页边距自由调整 • iPad 支持双栏阅读，平板大屏更高效 【贴心功能】 • 自动记忆阅读进度，随时续读，绝不丢页 • 章节目录快速跳转，全文搜索定位 • 书签收藏、文字高亮与笔记标注（分类与导出为 Pro） • 阅读时长与字数统计，量化你的阅读习惯 • 桌面小组件，一眼看到正在读的书与进度 【隐私优先】 • 完全离线，书籍只存在你",
+          "icon": "./media/com-apptool-leafread/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-leafread/ios/shot-0.jpg",
+            "./media/com-apptool-leafread/ios/shot-1.jpg",
+            "./media/com-apptool-leafread/ios/shot-2.jpg",
+            "./media/com-apptool-leafread/ios/shot-3.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        },
+        "harmony": {
+          "name": "青页",
+          "description": "青页是一款简洁、私密的本机小说与文档阅读器。通过系统文件选择器导入 TXT、EPUB 或 Markdown，阅读进度与统计保存在本机。 主要能力：EPUB 解包并提取 XHTML 正文；书架列表或网格及三种排序；书籍详情、续读和重命名；目录、搜索、书签和进度；系统朗读与自动阅读；9 套主题、上下滚动、左右滑动、直接切换与阅读亮度；阅读统计、无登录备份、文件管理、缓存清理与设置重置。 青页不接入在线书源、下载站或爬虫，不含广告、行为追踪、强制登录、订阅或购买界面。",
+          "icon": "./media/com-apptool-leafread/harmony/icon.jpg",
+          "screenshots": [
+            "./media/com-apptool-leafread/harmony/shot-0.jpg"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-imagebatch",
+      "name": "ImageBatch: Resize & Compress",
+      "summary": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip…",
+      "icon": "./media/com-zhongaiyemaozi-imagebatch/ios/icon.jpg",
+      "updatedAt": "2026-08-06T06:32:33Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/imagebatch-resize-compress/id6782480697?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "ImageBatch: Resize & Compress",
+          "description": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip private metadata, and rename. Everything runs on your device — nothing uploaded. One-time purchase. Yours forever. No subscription. FEATURES - Batch compress by quality, target file size, or longest-edge pixels - Quick setups for email, web upload, and private sharing - Batch resize by pixels / percent / common presets, keeping aspect ratio - Convert to JPEG / PNG / HEIC / GIF / BMP - One-",
+          "icon": "./media/com-zhongaiyemaozi-imagebatch/ios/icon.jpg",
+          "screenshots": [
+            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-0.jpg",
+            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-1.jpg",
+            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-2.jpg"
+          ],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-marbleparlor",
+      "name": "WallMark: AR Wall Planner",
+      "summary": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation…",
+      "icon": "./media/com-zhongaiyemaozi-marbleparlor/ios/icon.jpg",
+      "updatedAt": "2026-08-06T06:27:13Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/wallmark-ar-wall-planner/id6790336494?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "WallMark: AR Wall Planner",
+          "description": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation points, attach wall photos, create rule-based planning insights, and export PDF reports. FEATURES - AR wall measurement and reference markers - Drill, TV, shelf, curtain, and custom points - Drill planning checklists - RoomPlan scanning on supported LiDAR devices, with manual fallback - Rule-based room insights and risk summaries processed on device - Projects, rooms, walls, photos, and his",
+          "icon": "./media/com-zhongaiyemaozi-marbleparlor/ios/icon.jpg",
+          "screenshots": [],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
+    {
+      "id": "siyecao-ppttime",
+      "name": "Talk-Timer",
+      "summary": "TalkTimer is a simple, focused countdown timer designed for presentations, timed speaki…",
+      "icon": "./media/siyecao-ppttime/ios/icon.jpg",
+      "updatedAt": "2026-08-05T06:55:23Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/talk-timer/id6795022587?mt=12&uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "Talk-Timer",
+          "description": "TalkTimer is a simple, focused countdown timer designed for presentations, timed speaking, meetings, workshops, and deep work. Keep the timer visible above your slides or other apps while you present. Its compact floating window shows exactly how much time remains without taking attention away from your content. Choose a rectangular or circular presentation style, resize the timer to suit your workspace, and position it wherever it is easiest to see. TalkTimer remembers your ",
+          "icon": "./media/siyecao-ppttime/ios/icon.jpg",
+          "screenshots": [],
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store"
+        }
+      }
+    },
     {
       "id": "com-zhongaiyemaozi-habitpulse",
       "name": "HabitPulse: Habit Tracker",
@@ -128,353 +722,6 @@
       }
     },
     {
-      "id": "com-apptool-woodenfish",
-      "name": "禅音木鱼-解压放松专注神器",
-      "summary": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打…",
-      "icon": "./media/com-apptool-woodenfish/ios/icon.jpg",
-      "updatedAt": "2026-07-30T11:35:25Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E7%A6%85%E9%9F%B3%E6%9C%A8%E9%B1%BC-%E8%A7%A3%E5%8E%8B%E6%94%BE%E6%9D%BE%E4%B8%93%E6%B3%A8%E7%A5%9E%E5%99%A8/id6762326224?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611774109335319"
-      },
-      "listings": {
-        "ios": {
-          "name": "禅音木鱼-解压放松专注神器",
-          "description": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打开白噪音音色，让节律带你慢下来。界面安静、克制、有高级感，每一次轻敲都更有仪式感。 - 真实木鱼音色，低延迟、可连击，敲起来就上瘾 - 多种木鱼样式、音色与节奏，自由切换主题与显示语言 - 自动模式保持稳定节奏，专注、冥想、念诵都合适 - 白噪音 / 助眠场景，睡前安静收心 - 单次、今日、累计计数，随时看见自己的坚持 - 连续打卡与 7 日趋势，把习惯变得看得见 - 支持 Apple Watch 与锁屏小组件，随手就能敲 - 可分享到 iMessage，和朋友一起积功德 核心木鱼体验永久免费。当你想要更深入的练习，可一次性买断解锁 Pro：高级每日目标（500 / 1000）与 10–99999 的自定义目标次数，付费只服务于需要更多控制的用户，绝不影响免费体验。 无论是工作间隙解压、睡前助眠，还是每日静心功课，禅音木鱼都陪你慢下来。",
-          "icon": "./media/com-apptool-woodenfish/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-woodenfish/ios/shot-0.jpg",
-            "./media/com-apptool-woodenfish/ios/shot-1.jpg",
-            "./media/com-apptool-woodenfish/ios/shot-2.jpg",
-            "./media/com-apptool-woodenfish/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "禅音木鱼",
-          "description": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量电子木鱼。首页提供短时静心、专注节律、睡前放松3类场景，可一键配置音色、节奏与目标并进入计时引导；也可轻敲屏幕中央的木鱼，立即获得清脆音效与轻柔震动反馈。 主要能力： - 短时静心、专注节律、睡前放松3类计时引导场景 - 真实木鱼音色，低延迟、可连击 - 12种木鱼样式、12种音色与12档节奏 - 自动模式与自定义节奏 - 单次、今日、累计计数，连续打卡、7日趋势与月历 - 自定义目标、仪式模板、完整历史及CSV/成就分享 - 跟随系统深浅色，一键清除本机数据 禅音木鱼不含广告、行为追踪、强制登录、订阅或任何购买相关界面。数据仅保存在本机，不提供云同步。",
-          "icon": "./media/com-apptool-woodenfish/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-woodenfish/harmony/shot-0.jpg",
-            "./media/com-apptool-woodenfish/harmony/shot-1.jpg",
-            "./media/com-apptool-woodenfish/harmony/shot-2.jpg",
-            "./media/com-apptool-woodenfish/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-draftcode-editor",
-      "name": "DraftCode: Code Editor",
-      "summary": "DraftCode is a completely free code, text, and Markdown editor built for iPhone, iPad,…",
-      "icon": "./media/com-draftcode-editor/ios/icon.jpg",
-      "updatedAt": "2026-07-30T07:19:06Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/draftcode-code-editor/id6770432142?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917612118140510302"
-      },
-      "listings": {
-        "ios": {
-          "name": "DraftCode: Code Editor",
-          "description": "DraftCode is a completely free code, text, and Markdown editor built for iPhone, iPad, and Mac. No ads, no in-app purchases, no account — and it works fully offline. Your files belong to you. Launch the app and you land on a blank, editable page — just like a desktop editor. Start typing instantly. New, Open, Recent, and Settings live in a tidy top-left menu, so startup is fast and distraction-free. Whether you are a developer, a technical writer, a DevOps engineer, or someon",
-          "icon": "./media/com-draftcode-editor/ios/icon.jpg",
-          "screenshots": [],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "DraftCode",
-          "description": "DraftCode 是一款完全免费的离线本地代码、纯文本与 Markdown 编辑器。首次阅读并同意用户协议与隐私政策后即可使用；未同意前不读取你的文件、不申请权限。 核心功能： - 多标签编辑；起始菜单新建、打开文件、打开示例 - 系统文件选择器打开 / 另存为；最近文件快速重开 - 查找替换、跳转行号、大纲与 TODO 面板 - Markdown 预览；命令面板与常用文本工具 - 差异对比、代码片段、语言识别（含 ArkTS / ets / JSON5 等） - 只读 Git 分支提示（不提供云同步或远程推送） 完全离线、完全免费：无登录、无内购、无广告。文件仅在你主动选择的本机路径读写；设置与最近记录保存在应用本地。适合在手机、平板与二合一设备上快速改配置、写笔记或预览 Markdown。 联系邮箱：chenxianliang520@foxmail.com QQ：645863335",
-          "icon": "./media/com-draftcode-editor/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-draftcode-editor/harmony/shot-0.jpg",
-            "./media/com-draftcode-editor/harmony/shot-1.jpg",
-            "./media/com-draftcode-editor/harmony/shot-2.jpg",
-            "./media/com-draftcode-editor/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-focuslist",
-      "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
-      "summary": "专注清单 FocusList — 待办、打卡、专注，一个 App 全搞定】 专注清单把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专注…",
-      "icon": "./media/com-apptool-focuslist/ios/icon.jpg",
-      "updatedAt": "2026-07-29T09:52:03Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E4%B8%93%E6%B3%A8%E6%B8%85%E5%8D%95-%E5%BE%85%E5%8A%9E%E6%89%93%E5%8D%A1%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E7%95%AA%E8%8C%84%E9%92%9F%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%97%A5%E7%A8%8B/id6760835368?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611318297759728"
-      },
-      "listings": {
-        "ios": {
-          "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
-          "description": "专注清单 FocusList — 待办、打卡、专注，一个 App 全搞定】 专注清单把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专注与自律都安排得明明白白。界面简洁清爽，上手零门槛，越用越高效。 ■ 待办清单 & 任务管理 · 快速记录待办事项，设置优先级、截止日期与提醒 · 按日 / 周 / 月查看日程，合理规划时间 · 完成即打勾，清空清单的成就感拉满 ■ 习惯养成 & 每日打卡 · 自定义习惯，灵活设置打卡频率与提醒时间 · 连续打卡天数（Streak）一目了然，坚持更有动力 · 喝水、早睡、运动、学习、阅读……养成好习惯，告别拖延 ■ 专注番茄钟 & 计时器 · 内置番茄工作法计时器，专注与休息自由切换 · 倒计时 + 专注统计，培养深度专注力 · 学习、工作、写作，进入心流不被打扰 ■ 数据统计 & 可视化 · 打卡日历、完成率、专注时长全方位统计 · 趋势图表清晰呈现你的成长轨迹 · 支持导出图片，记录与分享你的坚持 ■ 多端同步 & 贴心体验 · iCloud 多设备自动同步，换机不丢数据 ",
-          "icon": "./media/com-apptool-focuslist/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-focuslist/ios/shot-0.jpg",
-            "./media/com-apptool-focuslist/ios/shot-1.jpg",
-            "./media/com-apptool-focuslist/ios/shot-2.jpg",
-            "./media/com-apptool-focuslist/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "日签打卡",
-          "description": "专注清单是一款简洁、私密的习惯打卡与统计工具。你可以从常用模板快速开始，也可以自定义频率、周期、提醒和记录字段，在日历中补录历史打卡，并通过周、月、年视图回顾变化。 核心数据默认保存在本机，无需注册账号即可创建、打卡、统计、导入、导出和备份。需要换机时，可导出完整备份并在另一台设备恢复，全程不需要账号。 主要能力： 创建、编辑、归档、恢复和删除习惯 每天、每周和自定义星期计划，以及固定起止周期 快速打卡与详细打卡，支持备注、数值和血压字段 最多 10 个按需开启的本地提醒 日历补录、连续打卡、完成率和周/月/年统计 CSV 与兼容 Excel 的 XML 数据导入导出 本地备份、恢复与全部数据删除 无账号完整备份迁移，方便换机恢复打卡数据 步数、饮水等健康习惯的手动记录 跟随系统深浅色与多种现代主题色 专注清单不包含广告、行为追踪、强制登录或订阅，首版主题色和数据能力全部免费。",
-          "icon": "./media/com-apptool-focuslist/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-focuslist/harmony/shot-0.jpg",
-            "./media/com-apptool-focuslist/harmony/shot-1.jpg",
-            "./media/com-apptool-focuslist/harmony/shot-2.jpg",
-            "./media/com-apptool-focuslist/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-countday",
-      "name": "倒计日·纪念日倒计时",
-      "summary": "倒计日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什…",
-      "icon": "./media/com-apptool-countday/ios/icon.jpg",
-      "updatedAt": "2026-07-28T14:00:00Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E5%80%92%E8%AE%A1%E6%97%A5-%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6/id6761182380?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611667880659579"
-      },
-      "listings": {
-        "ios": {
-          "name": "倒计日·纪念日倒计时",
-          "description": "倒计日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什么选择我们】 • 倒计 + 正数双模式：未来的日子帮你倒计时，过去的日子帮你数着过（在一起 365 天）。 • 桌面小组件：多种尺寸小组件，重要日子直接显示在主屏幕，一眼可见。 • Apple Watch：抬腕即可查看最近的倒计时，重要日子随身带。 • iMessage：把你的倒计时做成贴纸，发给恋人和朋友一起期待。 【强大好用的功能】 • 重复提醒：生日、纪念日支持每月 / 每年自动循环，永远不会算错日子。 • 分类与笔记本：恋爱、生日、节日、学习、工作、生活随心归类，清爽不乱。 • 日记与照片：为每个日子写下心情、贴上照片，留住值得纪念的瞬间。 • 通知提醒：临近重要日子自动提醒，按你的节奏推送。 • iCloud 同步：登录 Apple 账户即可把数据安全同步到 iCloud，换机不丢失。 • 本地优先 & 备份导出：游客模式数据存本机，支持一键导入 / 导出备份。 【",
-          "icon": "./media/com-apptool-countday/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-countday/ios/shot-0.jpg",
-            "./media/com-apptool-countday/ios/shot-1.jpg",
-            "./media/com-apptool-countday/ios/shot-2.jpg",
-            "./media/com-apptool-countday/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "日念",
-          "description": "日念帮你守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日还剩几天？ 核心功能： 倒计 + 正数双模式，一屏看清还剩几天 / 已过几天 公历 / 农历目标日；单次 / 每月 / 每年重复 本子分类、封面图、备注与多条文本笔记 常用日子模板（六分类、搜索、大卡/双列） 本地备份导出 / 导入 / 恢复最近备份 无广告、无在线内容源、无需登录",
-          "icon": "./media/com-apptool-countday/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-countday/harmony/shot-0.jpg",
-            "./media/com-apptool-countday/harmony/shot-1.jpg",
-            "./media/com-apptool-countday/harmony/shot-2.jpg",
-            "./media/com-apptool-countday/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-zhongaiyemaozi-marbleparlor",
-      "name": "WallMark: AR Wall Planner",
-      "summary": "Plan rooms and walls with AR. Measure distances, mark drill points, save wall photos, g…",
-      "icon": "./media/com-zhongaiyemaozi-marbleparlor/ios/icon.jpg",
-      "updatedAt": "2026-07-28T08:09:35Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/wallmark-ar-wall-planner/id6790336494?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "WallMark: AR Wall Planner",
-          "description": "Plan rooms and walls with AR. Measure distances, mark drill points, save wall photos, get on-device AI risk summaries, and export PDF reports. One-time purchase. Yours forever. No subscription. FEATURES - AR measure walls and rooms - Mark drill, TV, shelf, and install points - Drill planning checklists - Room scan with LiDAR when available (manual fallback) - On-device AI insights and risk reference - Projects and full history - PDF report export - Magnetic field and pipe-ris",
-          "icon": "./media/com-zhongaiyemaozi-marbleparlor/ios/icon.jpg",
-          "screenshots": [],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-leafread",
-      "name": "青页小说阅读器·TXT/EPUB/MD",
-      "summary": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…",
-      "icon": "./media/com-apptool-leafread/ios/icon.jpg",
-      "updatedAt": "2026-07-28T06:13:15Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611665788662118"
-      },
-      "listings": {
-        "ios": {
-          "name": "青页小说阅读器·TXT/EPUB/MD",
-          "description": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识别编码，海量长篇也能秒开 • EPUB 电子书，保留章节目录与排版 • Markdown（.md）文档，按标题自动分章 【听书朗读】 • 内置语音朗读，自动选择合适的声音，解放双眼 • 可调节朗读语速，支持定时停止，睡前听书不费电 • 朗读时同步高亮当前语句，并自动翻页 【沉浸阅读】 • 多种翻页方式：仿真、滑动、上下滚动、淡入等（部分为 Pro） • 日间 / 夜间 / 护眼多主题，可调亮度，长时间阅读更护眼 • 丰富字体与字号、行间距、段间距、页边距自由调整 • iPad 支持双栏阅读，平板大屏更高效 【贴心功能】 • 自动记忆阅读进度，随时续读，绝不丢页 • 章节目录快速跳转，全文搜索定位 • 书签收藏、文字高亮与笔记标注（分类与导出为 Pro） • 阅读时长与字数统计，量化你的阅读习惯 • 桌面小组件，一眼看到正在读的书与进度 【隐私优先】 • 完全离线，书籍只存在你",
-          "icon": "./media/com-apptool-leafread/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-leafread/ios/shot-0.jpg",
-            "./media/com-apptool-leafread/ios/shot-1.jpg",
-            "./media/com-apptool-leafread/ios/shot-2.jpg",
-            "./media/com-apptool-leafread/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "青页",
-          "description": "青页是一款简洁、私密的本机小说 / 文档阅读器。通过系统文件选择器导入 TXT、EPUB 或 Markdown，自动识别章节，支持目录跳转、全文搜索、书签、听书朗读与自动翻章，阅读进度与统计保存在本机。 青页不接入任何在线书源、下载站或爬虫：你导入什么，就读什么。支持导出/导入本地备份（不含书籍正文文件，换机请自行保管原文件）。 主要能力： 本机导入 TXT / EPUB / Markdown，自动识别章节 书架与阅读历史 阅读器：目录、搜索、书签、进度、剩余时间估算 听书（系统朗读）与自动阅读 阅读设置：字号与多种主题（全部免费） 今日阅读时长、连续阅读天数与近 7 天统计 无登录备份导出/导入 跟随系统深浅色；一键清除本机数据 青页不含广告、行为追踪、强制登录、订阅或任何购买相关界面。本应用为单机应用，核心功能不依赖网络，不提供检查更新入口。",
-          "icon": "./media/com-apptool-leafread/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-leafread/harmony/shot-0.jpg",
-            "./media/com-apptool-leafread/harmony/shot-1.jpg",
-            "./media/com-apptool-leafread/harmony/shot-2.jpg",
-            "./media/com-apptool-leafread/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-sycmarkdown-app",
-      "name": "MDQuill Markdown编辑器",
-      "summary": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作与文档管理工具。 支持打开、编辑、预览和导出 Markdown 文件…",
-      "icon": "./media/com-sycmarkdown-app/ios/icon.jpg",
-      "updatedAt": "2026-07-24T15:16:19Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/mdquill-markdown%E7%BC%96%E8%BE%91%E5%99%A8/id6762508307?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917603630742734228"
-      },
-      "listings": {
-        "ios": {
-          "name": "MDQuill Markdown编辑器",
-          "description": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作与文档管理工具。 支持打开、编辑、预览和导出 Markdown 文件，帮助你整理笔记、技术文档、README、项目记录和个人知识库。 主要功能： • 本地优先： 文档保存在设备本地，不强制注册账号，不上传你的写作内容。 • Markdown 编辑： 支持 Markdown 语法、实时预览、代码块、表格、任务列表、链接和图片展示。 • 智能文档导入： 支持将 PDF、Word、HTML、文本和图片内容转换为 Markdown 工作流，继续编辑、整理和导出。 • 文档中心： 支持最近文档、收藏、分类、标签管理，并提供列表、网格等多种展示方式。 • 搜索体验： 快速查找文档和内容，Mac 支持快捷搜索入口，提高桌面写作效率。 • Apple 设备体验： iPhone 快速记录，iPad 分栏写作，Mac 支持窗口化工作流和键盘快捷操作。 • 导出分享： 支持 Markdown、TXT、HTML 和 PDF 导出。 适用于： 学习笔记、会议记录、技术",
-          "icon": "./media/com-sycmarkdown-app/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-sycmarkdown-app/ios/shot-0.jpg",
-            "./media/com-sycmarkdown-app/ios/shot-1.jpg",
-            "./media/com-sycmarkdown-app/ios/shot-2.jpg",
-            "./media/com-sycmarkdown-app/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "MDQuill Studio",
-          "description": "MDQuill Studio 是一款面向写作、笔记、技术文档和 Markdown 学习的本地编辑器。应用支持文档管理、Markdown 编辑、实时预览和多格式导出，适合在手机、平板和二合一设备上整理灵感、草稿、会议纪要和技术笔记。 核心功能： 新建、导入、保存、重命名、删除 Markdown/TXT 文档 Markdown 快捷工具栏、自动配对、列表续行和模板新建 实时预览，支持标题、列表、任务列表、表格、代码块等常用语法 手机/平板/二合一自适应布局，支持编辑、预览和分栏 导出 MD、TXT、HTML、PDF 最近列表、收藏、集合、导出历史和清缓存 无账号体系，文档默认保存在本地",
-          "icon": "./media/com-sycmarkdown-app/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-sycmarkdown-app/harmony/shot-0.jpg",
-            "./media/com-sycmarkdown-app/harmony/shot-1.jpg",
-            "./media/com-sycmarkdown-app/harmony/shot-2.jpg",
-            "./media/com-sycmarkdown-app/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-d7w87bycpk-skillforge",
-      "name": "SkillForge - Agent Skills",
-      "summary": "SkillForge is a native, privacy-first app for discovering and managing open-source Agen…",
-      "icon": "./media/com-d7w87bycpk-skillforge/ios/icon.jpg",
-      "updatedAt": "2026-07-20T15:14:13Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/skillforge-agent-skills/id6778345242?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "SkillForge - Agent Skills",
-          "description": "SkillForge is a native, privacy-first app for discovering and managing open-source Agent Skills — reusable SKILL.md building blocks for AI coding agents. Works with Claude Code, Codex, Cursor, Copilot and Gemini CLI. BROWSE BY PROFESSION • Jump straight to skills for frontend, backend, mobile, data, design, product, marketing, writing, security, legal, finance, office work and more. • Or browse by category: documents, development, creative, enterprise and productivity. POWERF",
-          "icon": "./media/com-d7w87bycpk-skillforge/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-d7w87bycpk-skillforge/ios/shot-0.jpg",
-            "./media/com-d7w87bycpk-skillforge/ios/shot-1.jpg",
-            "./media/com-d7w87bycpk-skillforge/ios/shot-2.jpg",
-            "./media/com-d7w87bycpk-skillforge/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-sycyouerqim-app",
-      "name": "Kids Learning Park: Preschool",
-      "summary": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore…",
-      "icon": "./media/com-sycyouerqim-app/ios/icon.jpg",
-      "updatedAt": "2026-07-15T01:32:31Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/kids-learning-park-preschool/id6763489174?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917604081697145714"
-      },
-      "listings": {
-        "ios": {
-          "name": "Kids Learning Park: Preschool",
-          "description": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore ABC phonics, early math, Mandarin, handwriting, stories, and playful learning games with Lucky, a friendly clover mascot. WHY PARENTS TRUST IT • Core learning works offline • No ads and no account required • No third-party analytics or tracking SDKs • Child progress stays on the device • Parent Area protects external links, purchases, documents, and content downloads LEARN AND PLAY • ABC, ",
-          "icon": "./media/com-sycyouerqim-app/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-sycyouerqim-app/ios/shot-0.jpg",
-            "./media/com-sycyouerqim-app/ios/shot-1.jpg",
-            "./media/com-sycyouerqim-app/ios/shot-2.jpg",
-            "./media/com-sycyouerqim-app/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "幼儿启蒙早教识字",
-          "description": "幼儿启蒙早教识字面向家庭启蒙场景，提供适龄学习内容、朗读、游戏和测验，帮助孩子在家长陪伴下进行基础认知练习。 核心功能： - 内置启蒙学习内容，覆盖基础认知、词汇和互动测验 - 支持 TTS 朗读，帮助孩子听读结合 - 游戏与测验练习，巩固学习内容 - 家长专区集中放置设置、隐私、协议和自定义内容 - 支持自定义学习内容，数据保存在本机 - 深浅色跟随系统，中英双语结构已预留 儿童合规说明： - 不接广告，不做用户追踪 - 当前无账号体系，不向儿童展示付费触点 - 家长专区作为设置和后续付费操作的入口屏障 - 后续提交前需补齐儿童个人信息保护规则/儿童隐私章节",
-          "icon": "./media/com-sycyouerqim-app/harmony/icon.jpg",
-          "screenshots": [
-            "./media/com-sycyouerqim-app/harmony/shot-0.jpg",
-            "./media/com-sycyouerqim-app/harmony/shot-1.jpg",
-            "./media/com-sycyouerqim-app/harmony/shot-2.jpg",
-            "./media/com-sycyouerqim-app/harmony/shot-3.jpg"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
       "id": "com-intimasyc-app",
       "name": "Memoir Lock: Diary",
       "summary": "心迹密记，是一个本机优先的私密日记空间。你可以保存重要日期、生活记录、照片、视频、备注和回忆，并通过私密锁保护内容。不做公开动态，不建立陌生人社区，也不依赖开发者服务器保存你…",
@@ -531,44 +778,6 @@
       }
     },
     {
-      "id": "com-apptool-cloverled",
-      "name": "手持弹幕-LED跑马灯灯牌滚动字幕应援神器",
-      "summary": "手持弹幕 —— 一句话，秒变手持LED灯牌、跑马灯和现场气氛灯。 无论是演唱会为爱豆应援打call、机场高铁接机寻人、勇敢表白告白求婚、生日惊喜，还是运动会加油、节日祝福、朋…",
-      "icon": "./media/com-apptool-cloverled/ios/icon.jpg",
-      "updatedAt": "2026-07-10T08:48:57Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E6%89%8B%E6%8C%81%E5%BC%B9%E5%B9%95-led%E8%B7%91%E9%A9%AC%E7%81%AF%E7%81%AF%E7%89%8C%E6%BB%9A%E5%8A%A8%E5%AD%97%E5%B9%95%E5%BA%94%E6%8F%B4%E7%A5%9E%E5%99%A8/id6761797073?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917604251909409133"
-      },
-      "listings": {
-        "ios": {
-          "name": "手持弹幕-LED跑马灯灯牌滚动字幕应援神器",
-          "description": "手持弹幕 —— 一句话，秒变手持LED灯牌、跑马灯和现场气氛灯。 无论是演唱会为爱豆应援打call、机场高铁接机寻人、勇敢表白告白求婚、生日惊喜，还是运动会加油、节日祝福、朋友聚会整活，输入一句话，立刻做出全场最亮的滚动字幕灯牌。小红书、抖音同款应援神器，新手 10 秒上手。 【为什么选它】 · 真正好看的 LED 显示屏效果，点阵 / 发光 / 霓虹边框，现场更出片 · 横滚、竖滚、静止任意切换，速度字号一键微调 · 闪烁、呼吸、高亮发光多种动效，远处也能一眼看到 · 7 款特色字体（穿越体、机械体、萌趣、奶糖体等），文字 / 底色 / 图片背景自由搭配 · 一键导出 GIF / MP4 保存到相册，方便发朋友圈、小红书、抖音 · 适配 iPhone 与 iPad，深色 / 浅色双主题 【海量场景模板，一键套用】 · 演唱会应援：为你打CALL、全场最亮的星、应援口号、星海灯牌 · 接机寻人：机场接机、欢迎回国、张先生这边、家人来接你啦 · 表白告白：我喜欢你、嫁给我好吗、你的名字会发光、约会邀请 · 运动加油：必胜必胜、我们是冠军、MVP、主",
-          "icon": "./media/com-apptool-cloverled/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-apptool-cloverled/ios/shot-0.jpg",
-            "./media/com-apptool-cloverled/ios/shot-1.jpg",
-            "./media/com-apptool-cloverled/ios/shot-2.jpg",
-            "./media/com-apptool-cloverled/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        },
-        "harmony": {
-          "name": "LED手持弹幕跑马灯",
-          "description": "LED手持弹幕跑马灯 是一款本地 LED 手持弹幕工具，适合演唱会应援、机场接机、活动引导、生日祝福、告白和现场提示。 核心功能： - 自由输入弹幕文字，调节字号、速度、颜色、背景色和循环间距 - 支持静止、向左、向右、向上、向下 5 种播放方向 - 支持闪烁、呼吸、发光等 LED 动效，以及镜像播放 - 内置接机、演唱会、告白、运动、节日、整活 6 类模板 - 全屏横屏播放，播放时保持屏幕常亮，点按屏幕隐藏或显示控件 - 最近作品本地保存，可再次使用、复制、删除或清空 - 无账号体系，作品和设置仅保存在本机 适用场景： 演唱会打 Call、粉丝见面会、机场接人、活动签到、运动比赛助威、生日派对、求婚告白、临时大字提示。",
-          "icon": "./media/com-apptool-cloverled/harmony/icon.jpg",
-          "screenshots": [],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
       "id": "com-sjgjuhui-app",
       "name": "Night Owl Games",
       "summary": "Night Owl Games is a collection of interactive mini-games made for date nights, two-pla…",
@@ -588,61 +797,6 @@
           "screenshots": [
             "./media/com-sjgjuhui-app/ios/shot-0.jpg",
             "./media/com-sjgjuhui-app/ios/shot-1.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-sparksapp-couplegames",
-      "name": "Sparks: Couple Games",
-      "summary": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with…",
-      "icon": "./media/com-sparksapp-couplegames/ios/icon.jpg",
-      "updatedAt": "2026-07-07T22:55:24Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/sparks-couple-games/id6774053891?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "Sparks: Couple Games",
-          "description": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with your partner using a single 6-digit code, and everything syncs in real time across both phones via iCloud. Perfect for date nights AND long-distance relationships. Whether you just got together or have been side by side for years, Sparks helps you spark new conversations, create little surprises, and understand each other better the more you play. WAYS TO PLAY — AND GROWING Truth or Dare Th",
-          "icon": "./media/com-sparksapp-couplegames/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-sparksapp-couplegames/ios/shot-0.jpg",
-            "./media/com-sparksapp-couplegames/ios/shot-1.jpg",
-            "./media/com-sparksapp-couplegames/ios/shot-2.jpg",
-            "./media/com-sparksapp-couplegames/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-zhongaiyemaozi-imagebatch",
-      "name": "ImageBatch: Resize & Compress",
-      "summary": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip…",
-      "icon": "./media/com-zhongaiyemaozi-imagebatch/ios/icon.jpg",
-      "updatedAt": "2026-07-07T09:27:01Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/imagebatch-resize-compress/id6782480697?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "ImageBatch: Resize & Compress",
-          "description": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip private metadata, and rename. Everything runs on your device — nothing uploaded. One-time purchase. Yours forever. No subscription. FEATURES - Batch compress by quality, target file size, or longest-edge pixels - Batch resize by pixels / percent / common presets, keeping aspect ratio - Convert between HEIC / JPG / PNG / WebP - One-tap EXIF/GPS removal for privacy - Batch rename with index ",
-          "icon": "./media/com-zhongaiyemaozi-imagebatch/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-0.jpg",
-            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-1.jpg",
-            "./media/com-zhongaiyemaozi-imagebatch/ios/shot-2.jpg"
           ],
           "source": "App Store",
           "sourceNote": "以下文案与截图来自 App Store"
@@ -670,34 +824,6 @@
             "./media/com-zhongaiyemaozi-cutoutkit/ios/shot-0.jpg",
             "./media/com-zhongaiyemaozi-cutoutkit/ios/shot-1.jpg",
             "./media/com-zhongaiyemaozi-cutoutkit/ios/shot-2.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-diesfaustussyc-app",
-      "name": "吉日历-老黄历万年历·黄道吉日",
-      "summary": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不…",
-      "icon": "./media/com-diesfaustussyc-app/ios/icon.jpg",
-      "updatedAt": "2026-07-03T15:46:38Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E5%90%89%E6%97%A5%E5%8E%86-%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6762102654?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "吉日历-老黄历万年历·黄道吉日",
-          "description": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 · 公历、农历、干支、生肖、星座一屏看全 · 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 · 时辰吉凶实时更新，当前时辰吉凶随手可见 【黄道吉日·择吉】 · 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 · 每个推荐日附评分与理由，点开即看完整黄历详情 · Pro 支持一年内任意范围与高级过滤（避开周末、法定工作日等） 【万年历·月历】 · 农历、节气、法定节假日、传统节日直观标注 · 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 · 收藏心仪吉日，自动倒数还有几天 · 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 · 农历生日提醒：按农历自动每年提醒，长辈生日再不会忘 · 每日黄历推送：每天早上送达当日宜忌，不错过任何好日子 【桌面小组",
-          "icon": "./media/com-diesfaustussyc-app/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-diesfaustussyc-app/ios/shot-0.jpg",
-            "./media/com-diesfaustussyc-app/ios/shot-1.jpg",
-            "./media/com-diesfaustussyc-app/ios/shot-2.jpg",
-            "./media/com-diesfaustussyc-app/ios/shot-3.jpg"
           ],
           "source": "App Store",
           "sourceNote": "以下文案与截图来自 App Store"
@@ -733,62 +859,6 @@
       }
     },
     {
-      "id": "com-snoresleepsyc-app",
-      "name": "眠声鼾记",
-      "summary": "眠声鼾记是一款专注睡眠声音记录与鼾声趋势复盘的工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。 你可以用它： - 记录整晚环境声音，回看明显鼾声与梦话…",
-      "icon": "./media/com-snoresleepsyc-app/ios/icon.jpg",
-      "updatedAt": "2026-07-02T18:43:31Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E7%9C%A0%E5%A3%B0%E9%BC%BE%E8%AE%B0/id6761602554?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "眠声鼾记",
-          "description": "眠声鼾记是一款专注睡眠声音记录与鼾声趋势复盘的工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。 你可以用它： - 记录整晚环境声音，回看明显鼾声与梦话片段 - 查看睡眠分数、鼾声占比、呼吸稳定性等趋势 - 标记饮酒、晚餐、压力、疲劳等生活因素 - 记录侧睡、鼻贴、加湿器等夜间尝试，比较变化 - 通过 iCloud 同步和导出报告，保留长期记录 高级版一次购买永久使用，可解锁完整录音复盘、深度趋势洞察、专业报告和疗法实验对比。 免责声明：本 App 仅用于个人睡眠声音记录和趋势参考，不是医疗器械，不能用于诊断、治疗或监测睡眠呼吸暂停等疾病。如有持续严重打鼾、憋醒、白天嗜睡或其他健康担忧，请咨询医生。",
-          "icon": "./media/com-snoresleepsyc-app/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-snoresleepsyc-app/ios/shot-0.jpg",
-            "./media/com-snoresleepsyc-app/ios/shot-1.jpg",
-            "./media/com-snoresleepsyc-app/ios/shot-2.jpg",
-            "./media/com-snoresleepsyc-app/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-idphotomaker-app",
-      "name": "证件照大师-免冠寸照签证照制作换底色",
-      "summary": "证件照大师】是一款完全本地处理的证件照制作工具。无需注册登录、无需联网上传，拍照或从相册导入一张生活照，自动抠图、一键换底色、按规格裁剪，几秒钟生成可直接提交的标准证件照，并…",
-      "icon": "./media/com-idphotomaker-app/ios/icon.jpg",
-      "updatedAt": "2026-07-02T18:42:03Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%A4%A7%E5%B8%88-%E5%85%8D%E5%86%A0%E5%AF%B8%E7%85%A7%E7%AD%BE%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E6%8D%A2%E5%BA%95%E8%89%B2/id6761751168?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "证件照大师-免冠寸照签证照制作换底色",
-          "description": "证件照大师】是一款完全本地处理的证件照制作工具。无需注册登录、无需联网上传，拍照或从相册导入一张生活照，自动抠图、一键换底色、按规格裁剪，几秒钟生成可直接提交的标准证件照，并支持保存到相册与打印排版。 ◆ 为什么选择证件照大师 • 全程本地处理：人脸检测、人像抠图、换底、合成均在你的手机上完成，照片绝不上传服务器 • 无需登录：打开即用，不要账号、不要手机号 • 免费可用：拍摄/导入、基础抠图、常用规格、基础换底、单张生成与保存全部免费 • 质量校验：自动检测人脸姿态、清晰度与构图，不合格会明确提示原因 ◆ 核心功能 • 智能人像抠图：本地 AI 分割，边缘干净自然 • 一键换底色：白底、蓝底、红底即时切换，Pro 支持任意自定义颜色 • 海量规格：一寸、二寸、小一寸、大一寸、身份证、驾驶证、社保卡、公务员考试、教师资格证、四六级、考研、护照、美国签证、申根签证、日本签证、韩国签证等数十种常见规格 • 自定义规格：按毫米与 DPI 自由设置宽高，满足特殊要求 • 精细调整：拖动、缩放、旋转，支持全屏像素级精调 • 自动构图：智能识别头肩位置，避免",
-          "icon": "./media/com-idphotomaker-app/ios/icon.jpg",
-          "screenshots": [
-            "./media/com-idphotomaker-app/ios/shot-0.jpg",
-            "./media/com-idphotomaker-app/ios/shot-1.jpg",
-            "./media/com-idphotomaker-app/ios/shot-2.jpg",
-            "./media/com-idphotomaker-app/ios/shot-3.jpg"
-          ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
       "id": "com-numberquest-app",
       "name": "奇趣启蒙岛",
       "summary": "奇趣启蒙岛是一款面向低龄儿童的原创启蒙学习游戏。孩子可以在数字岛、字母岛、阅读岛和拼词岛之间自由切换，通过拖动圆点、字母、短句和单词块完成互动挑战，在轻松的动画、声音反馈和奖…",
@@ -811,29 +881,6 @@
             "./media/com-numberquest-app/ios/shot-2.jpg",
             "./media/com-numberquest-app/ios/shot-3.jpg"
           ],
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store"
-        }
-      }
-    },
-    {
-      "id": "com-falconmenu-app",
-      "name": "FalconMenu Quick",
-      "summary": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，…",
-      "icon": "./media/com-falconmenu-app/ios/icon.jpg",
-      "updatedAt": "2026-06-17T20:06:03Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/falconmenu-%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B/id6768915910?mt=12&uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "FalconMenu Quick",
-          "description": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，用常用应用打开所选项目，在当前位置打开终端，管理常用文件夹，批量重命名，压缩或解压 ZIP 文件，并使用本地图片与文件效率工具。 主要功能： - 为日常文件操作设计的 Finder 右键菜单。 - 新建文件夹、空白文件和模板文件。 - 复制路径、POSIX 路径、文件 URL、文件名和 Shell 转义路径。 - 使用兼容应用或收藏应用打开所选文件。 - 在当前 Finder 位置打开终端。 - 管理常用文件夹，快速打开、复制到或移动到。 - 支持带预览思路的批量重命名流程。 - 本地转换图片并生成图标资源。 - 压缩和解压 ZIP 文件。 - 在设置中提供 Finder 扩展、沙盒和文件夹访问引导。 FalconMenu 在 Mac 本地运行，不需要账号、服务器或网络自动化。文件操作由用户主动触发，遵循沙盒访问规则，并保持 Finder 菜单生成快速响应。",
-          "icon": "./media/com-falconmenu-app/ios/icon.jpg",
-          "screenshots": [],
           "source": "App Store",
           "sourceNote": "以下文案与截图来自 App Store"
         }
