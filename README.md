@@ -13,12 +13,18 @@
 📷 **完整介绍、分平台文案与截图请看网页版：** [https://zhongaiyemaozi.github.io/app-sum/](https://zhongaiyemaozi.github.io/app-sum/)
 
 当前公开 **35** 款 · iOS 34 · 鸿蒙 9 · 双端 8  
-目录更新：2026-08-27
+目录更新：2026-08-28
 
-> 备注：App Store 与华为应用市场的文案/截图分别取自对应商店，双端应用两边素材可能不同。
+> 备注：网页版 iOS 截图打开时从 App Store 实时拉取；鸿蒙截图缓存到本站。双端两边素材可能不同。
 
 ## 应用速览
 
+- **吉日历-老黄历万年历·黄道吉日** · iOS
+  吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不…
+  [App Store](https://apps.apple.com/cn/app/%E5%90%89%E6%97%A5%E5%8E%86-%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6762102654?uo=4)
+- **青页小说阅读器·TXT/EPUB/MD** · iOS / 鸿蒙
+  青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…
+  [App Store](https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4) · [华为应用市场](https://appgallery.huawei.com/app/C6917611665788662118)
 - **Blow a Trillion** · iOS
   给你一万亿，你打算怎么花？ 花光一万亿是一款荒诞消费模拟器。你的唯一任务很简单：把一笔不可能花完的巨款，用最离谱的方式挥霍掉。 用最土豪的方式买最日常的东西。租你根本不需要的…
   [App Store](https://apps.apple.com/cn/app/%E8%8A%B1%E5%85%89%E4%B8%80%E4%B8%87%E4%BA%BF/id6789487448?uo=4)
@@ -52,9 +58,6 @@
 - **眠声鼾记:鼾声睡眠记录** · iOS
   眠声鼾记是一款本地优先的睡眠声音记录与鼾声趋势复盘工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。无需注册登录，iCloud 使用系统账号，高级版跟随…
   [App Store](https://apps.apple.com/cn/app/%E7%9C%A0%E5%A3%B0%E9%BC%BE%E8%AE%B0-%E9%BC%BE%E5%A3%B0%E7%9D%A1%E7%9C%A0%E8%AE%B0%E5%BD%95/id6761602554?uo=4)
-- **吉日历-老黄历万年历·黄道吉日** · iOS
-  吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不…
-  [App Store](https://apps.apple.com/cn/app/%E5%90%89%E6%97%A5%E5%8E%86-%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6762102654?uo=4)
 - **禅音木鱼-解压放松专注神器** · iOS / 鸿蒙
   烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打…
   [App Store](https://apps.apple.com/cn/app/%E7%A6%85%E9%9F%B3%E6%9C%A8%E9%B1%BC-%E8%A7%A3%E5%8E%8B%E6%94%BE%E6%9D%BE%E4%B8%93%E6%B3%A8%E7%A5%9E%E5%99%A8/id6762326224?uo=4) · [华为应用市场](https://appgallery.huawei.com/app/C6917611774109335319)
@@ -64,9 +67,6 @@
 - **TalkTimer-演讲计时** · iOS
   bug fix TalkTimer is a simple, focused countdown timer designed for presentations, time…
   [App Store](https://apps.apple.com/cn/app/talktimer-%E6%BC%94%E8%AE%B2%E8%AE%A1%E6%97%B6/id6795022587?mt=12&uo=4)
-- **青页小说阅读器·TXT/EPUB/MD** · iOS / 鸿蒙
-  青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…
-  [App Store](https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4) · [华为应用市场](https://appgallery.huawei.com/app/C6917611665788662118)
 - **Night Owl Games** · iOS
   Night Owl Games is a collection of interactive mini-games made for date nights, two-pla…
   [App Store](https://apps.apple.com/us/app/night-owl-games/id6762446813?uo=4)

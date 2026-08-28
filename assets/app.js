@@ -49,7 +49,7 @@ function textMatch(app, query) {
 
 function iconHtml(app) {
   if (app.icon) {
-    return `<div class="icon" aria-hidden="true"><img src="${app.icon}" alt="" loading="lazy" width="64" height="64" /></div>`;
+    return `<div class="icon" aria-hidden="true"><img src="${app.icon}" alt="" loading="lazy" width="64" height="64" referrerpolicy="no-referrer" /></div>`;
   }
   const ch = (app.name || "?").trim().charAt(0) || "?";
   return `<div class="icon" aria-hidden="true">${ch}</div>`;
@@ -61,7 +61,7 @@ function shotsHtml(urls) {
   return `<div class="shots">${shots
     .map(
       (u) =>
-        `<a href="${u}" target="_blank" rel="noopener noreferrer"><img src="${u}" alt="" loading="lazy" height="140" /></a>`
+        `<a href="${u}" target="_blank" rel="noopener noreferrer"><img src="${u}" alt="" loading="lazy" height="140" referrerpolicy="no-referrer" /></a>`
     )
     .join("")}</div>`;
 }
@@ -71,7 +71,7 @@ function listingBlock(plat, listing) {
   const note =
     listing.sourceNote ||
     (plat === "ios"
-      ? "以下文案与截图来自 App Store"
+      ? "以下文案与截图来自 App Store（打开页面时拉取最新图）"
       : "以下文案与截图来自华为应用市场");
   const desc = listing.description || "";
   return `
@@ -208,6 +208,114 @@ function bindToolbar() {
   });
 }
 
+function appleIdFromApp(app) {
+  const listed = app.listings?.ios?.appleId;
+  if (listed) return String(listed);
+  const url = app.downloads?.ios || "";
+  const m = url.match(/\/id(\d+)/);
+  return m ? m[1] : null;
+}
+
+function storeCountryFromApp(app) {
+  const listed = app.listings?.ios?.storeCountry;
+  if (listed) return String(listed).toLowerCase();
+  const url = app.downloads?.ios || "";
+  const m = url.match(/apps\.apple\.com\/([a-z]{2})\//i);
+  return (m ? m[1] : "us").toLowerCase();
+}
+
+function itunesJsonp(ids, country) {
+  return new Promise((resolve, reject) => {
+    const cb = `itunesCb${Date.now()}${Math.random().toString(36).slice(2)}`;
+    const script = document.createElement("script");
+    const timer = setTimeout(() => {
+      cleanup();
+      reject(new Error("itunes timeout"));
+    }, 10000);
+    function cleanup() {
+      clearTimeout(timer);
+      try {
+        delete window[cb];
+      } catch {
+        window[cb] = undefined;
+      }
+      script.remove();
+    }
+    window[cb] = (data) => {
+      cleanup();
+      resolve(data);
+    };
+    script.onerror = () => {
+      cleanup();
+      reject(new Error("itunes jsonp"));
+    };
+    script.src = `https://itunes.apple.com/lookup?id=${ids.join(",")}&country=${country}&callback=${cb}`;
+    document.head.appendChild(script);
+  });
+}
+
+async function itunesLookup(ids, country) {
+  if (!ids.length) return [];
+  const url = `https://itunes.apple.com/lookup?id=${ids.join(",")}&country=${country}`;
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error("itunes http");
+    const data = await res.json();
+    return data.results || [];
+  } catch {
+    const data = await itunesJsonp(ids, country);
+    return data.results || [];
+  }
+}
+
+function applyItunesResult(app, result) {
+  const listing = app.listings?.ios;
+  if (!listing || !result) return;
+  if (result.artworkUrl512) {
+    listing.icon = result.artworkUrl512;
+    app.icon = result.artworkUrl512;
+  }
+  const shots = result.screenshotUrls?.length
+    ? result.screenshotUrls
+    : result.ipadScreenshotUrls;
+  if (shots?.length) {
+    listing.screenshots = shots.slice(0, 4);
+  }
+}
+
+async function enrichIosFromAppStore(catalog) {
+  const groups = new Map();
+  for (const app of catalog.apps || []) {
+    if (!app.listings?.ios || !app.downloads?.ios) continue;
+    const id = appleIdFromApp(app);
+    if (!id) continue;
+    const country = storeCountryFromApp(app);
+    if (!groups.has(country)) groups.set(country, []);
+    groups.get(country).push({ id, app });
+  }
+  const jobs = [];
+  for (const [country, items] of groups) {
+    const unique = [...new Map(items.map((x) => [x.id, x])).values()];
+    for (let i = 0; i < unique.length; i += 20) {
+      const chunk = unique.slice(i, i + 20);
+      jobs.push(
+        itunesLookup(
+          chunk.map((x) => x.id),
+          country
+        ).then((results) => {
+          const byId = new Map(
+            results.map((r) => [String(r.trackId), r])
+          );
+          for (const item of chunk) {
+            applyItunesResult(item.app, byId.get(item.id));
+          }
+        }).catch(() => {})
+      );
+    }
+  }
+  await Promise.all(jobs);
+}
+
 async function boot() {
   bindToolbar();
   const res = await fetch("./data/catalog.json", { cache: "no-store" });
@@ -227,10 +335,16 @@ async function boot() {
   if (noteEl) {
     noteEl.textContent =
       notes.assets ||
-      "各平台文案/截图分别取自对应商店；双端应用两边素材可能不同。";
+      "iOS 截图打开页面时从 App Store 实时拉取；鸿蒙商店链接会过期，截图已缓存到本站。";
   }
   document.title = `${brand.name || "AppTool"} · 全栈工程师作品集`;
   render();
+  try {
+    await enrichIosFromAppStore(state.catalog);
+    render();
+  } catch {
+    // Keep catalog fallback images (Apple CDN URLs from last scan).
+  }
 }
 
 boot().catch((err) => {
