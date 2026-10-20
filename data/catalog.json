@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T00:38:02Z",
+  "updatedAt": "2026-10-20T08:38:29Z",
   "brand": {
     "name": "AppTool",
     "title": "全栈工程师",
@@ -13,18 +13,107 @@
     "detail": "完整介绍与截图见 GitHub Pages。"
   },
   "stats": {
-    "products": 37,
-    "ios": 36,
-    "harmony": 10,
-    "both": 9
+    "products": 42,
+    "ios": 42,
+    "harmony": 8,
+    "both": 8
   },
   "apps": [
     {
+      "id": "liuhaizancun-gushici",
+      "name": "红圈诗文",
+      "summary": "愿你在红圈诗文里，读见山河，也读见自己。 红圈诗文，是一座可以随身携带的古诗文书房。 我们相信，古诗文不该只停留在背诵与考题里。它可以是清晨读到的一句风月，是疲惫时重新拾起的…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ea/65/acea65df-7474-773a-0a04-58c04ba39d9e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-20T07:40:12Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%BA%A2%E5%9C%88%E8%AF%97%E6%96%87/id6809078178?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "红圈诗文",
+          "description": "愿你在红圈诗文里，读见山河，也读见自己。 红圈诗文，是一座可以随身携带的古诗文书房。 我们相信，古诗文不该只停留在背诵与考题里。它可以是清晨读到的一句风月，是疲惫时重新拾起的心绪，也是某个瞬间恰好说出你所想的话。 在这里，你可以： - 每日读一句名句，在熟悉与陌生之间，慢慢遇见自己的共鸣； - 阅读诗词、古文与教材名篇，保留原文之美； - 查看译文、注释与赏析，让理解自然发生； - 按作者、朝代、标签与书籍探索，从李白、杜甫到更多值得重新认识的古人； - 收藏书本、文章、名句与书签，把真正打动你的文字留在身边； - 使用拼音、简繁转换、字号、字体、行距、阅读背景与翻页设置，找到适合自己的阅读节奏； - 在小组件中抬眼读一句诗，让古典文字轻轻来到日常里。 我们认真整理每一篇作品的来源、作者、内容与辅助阅读资料，也愿意承认：有些篇目暂时还没有足够可靠的译注。比起仓促填满，我们更愿意让每一次补充都经得起阅读",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ea/65/acea65df-7474-773a-0a04-58c04ba39d9e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d8/bc/f5d8bca0-bafc-497d-33fa-6e5becc0fd13/01-_U6bcf_U65e5_U540d_U53e5.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/63/f5/0263f566-3a71-edeb-931c-1e675947d173/02-_U5178_U7c4d_U4e66_U5e93.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/90/3a/c4903ad3-6a49-cd96-d8bb-6a13093f73f0/03-_U8bd7_U6587_U89e3_U8bfb.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/58/78/dc58786e-a443-795e-c93b-69f8792d3f1e/05-_U73cd_U85cf_U6240_U7231.png/320x480bb.jpg"
+          ],
+          "appleId": "6809078178",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-uglyavatar",
+      "name": "丑萌头像-随机怪趣头像",
+      "summary": "丑萌头像用程序在本机画出怪趣头像。点「随机生成」，脸型、眼睛、眉毛、嘴巴、头发、配色和表情会一起换掉。每一张脸都有一个种子数字，输入同一个数字会画出同一张脸。 可以拖动脸型比…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/07/55/96075571-f0e0-87d5-e2a5-9193d24b203f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-19T17:10:02Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E4%B8%91%E8%90%8C%E5%A4%B4%E5%83%8F-%E9%9A%8F%E6%9C%BA%E6%80%AA%E8%B6%A3%E5%A4%B4%E5%83%8F/id6822122050?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "丑萌头像-随机怪趣头像",
+          "description": "丑萌头像用程序在本机画出怪趣头像。点「随机生成」，脸型、眼睛、眉毛、嘴巴、头发、配色和表情会一起换掉。每一张脸都有一个种子数字，输入同一个数字会画出同一张脸。 可以拖动脸型比例、眼睛大小、眼睛间距、嘴巴大小、表情程度、疯狂指数和色彩风格。喜欢的脸可以收藏，也可以存进相册，或分享一张带人格描述的卡片。 免费版每天可以新生成有限次数，并使用基础五官。Pro 一次买断后，可以不限次数生成，并解锁更多五官、动态效果和高清导出。没有订阅。 头像在本机绘制。收藏只留在这台设备上。没有账号，没有广告。 联系方式、隐私政策和使用条款见设置页。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/07/55/96075571-f0e0-87d5-e2a5-9193d24b203f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/fa/92/06fa9211-0038-2408-9762-24ed898f1663/01_studio.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/5f/ea/c05feaf5-eafa-9db6-9e7d-e1cd8326ed3f/02_editor.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/fb/cf/5efbcfa3-ac31-e17b-210c-79f188cfd9ee/03_gallery.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/8d/74/8d8d742b-f5fb-c9b1-7588-31c42226d885/04_seed.png/320x480bb.jpg"
+          ],
+          "appleId": "6822122050",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-snoresleepsyc-app",
+      "name": "打鼾记录-小熊打鼾",
+      "summary": "专注鼾声检测，听见每一晚的变化。 打鼾监测通过基于全球数十万鼾声样本训练的模型，分析声音的频率、纹理与节律，识别夜间鼾声。睡前开始记录，醒来查看报告，了解自己打鼾了多久、声音…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/e9/69/bae969af-e203-f761-0181-b059323941f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-18T16:40:44Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E6%89%93%E9%BC%BE%E8%AE%B0%E5%BD%95-%E5%B0%8F%E7%86%8A%E6%89%93%E9%BC%BE/id6761602554?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "打鼾记录-小熊打鼾",
+          "description": "专注鼾声检测，听见每一晚的变化。 打鼾监测通过基于全球数十万鼾声样本训练的模型，分析声音的频率、纹理与节律，识别夜间鼾声。睡前开始记录，醒来查看报告，了解自己打鼾了多久、声音有多响。 • 模型识别鼾声 分析声音特征，自动识别并整理鼾声片段。 • 一键回听 直接播放识别出的鼾声片段，轻松找到值得关注的声音。 • 清晰的鼾声报告 查看记录时长、鼾声时长、鼾声占比与鼾声评分，通过时间线了解鼾声分布。 • 持续观察变化 查看不同夜晚的鼾声趋势，结合饮酒、疲劳、侧睡等睡前因素，了解个人变化。 • 本地分析，保护隐私 无需注册登录。声音识别在本机完成，录音与报告默认保存在本地。 免费用户可查看最近3次记录。高级版解锁完整历史记录与更长周期趋势，一次购买，永久使用。 本 App 用于个人声音记录与趋势参考，不提供疾病诊断或治疗建议。 使用条款（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/e9/69/bae969af-e203-f761-0181-b059323941f8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/82/53/c7825389-6b88-2704-8fa0-981b42e64e58/01-snore-detection-1320x2868.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c7/8d/a4/c78da441-b117-3d6e-a5ce-fc58ef976561/03-discover-patterns-1320x2868.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/57/82/4b578272-5286-1125-d02d-d46e67e4a4fa/02-hear-your-snoring-1320x2868.png/320x480bb.jpg"
+          ],
+          "appleId": "6761602554",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
       "id": "com-draftcode-editor",
       "name": "DraftCode: Code & Text Editor",
-      "summary": "DraftCode is a free, private code, text and Markdown editor for Mac, iPhone and iPad. O…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/55/9a/70559a4e-5290-3e37-e065-bc3819443d65/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-18T15:46:27Z",
+      "summary": "DraftCode is a private code, text and Markdown editor for Mac, iPhone and iPad. Open lo…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/bf/ce/bdbfceb4-6b79-2aa4-8aae-7aceacde93e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-16T21:57:08Z",
       "platforms": [
         "ios",
         "harmony"
@@ -36,13 +125,13 @@
       "listings": {
         "ios": {
           "name": "DraftCode: Code & Text Editor",
-          "description": "DraftCode is a free, private code, text and Markdown editor for Mac, iPhone and iPad. Open local files or folders, start typing immediately and keep your work in standard file formats. No ads, account, tracking, subscription or in-app purchase. EDIT CODE AND TEXT • Syntax highlighting and language detection for 57 languages • Tabs, split editing, line numbers, minimap, bookmarks and code snippets • Multi-cursor editing and select next or all matching occurrences • Auto-indent",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/55/9a/70559a4e-5290-3e37-e065-bc3819443d65/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "description": "DraftCode is a private code, text and Markdown editor for Mac, iPhone and iPad. Open local files or folders, start typing immediately and keep your work in standard file formats. One-time purchase: no ads, account, tracking, subscription or in-app purchase. EDIT CODE AND TEXT • Syntax highlighting and language detection for 57 languages • Tabs, split editing, line numbers, minimap, bookmarks and code snippets • Multi-cursor editing and select next or all matching occurrences ",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/bf/ce/bdbfceb4-6b79-2aa4-8aae-7aceacde93e0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/de/bf/12debfde-8e81-8ec0-610c-03960d10365d/01_editor.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/d1/8e/6bd18e9a-425a-43e9-e8c3-b273f280f2d1/02_markdown.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/6e/29/7c6e29cf-ff98-f1f8-8ca6-4e46b145cd7b/03_search.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/f4/df/77f4df35-f0a5-ac72-61b9-392c0efd737b/04_remote.png/320x480bb.jpg"
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/21/95/652195e4-0369-a144-21ab-3ab2832246a2/01_editor.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/70/88/7c7088c1-ca10-7dea-0695-4891421f122d/02_markdown.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/64/53/6a64532c-6935-52f5-c994-11b6f5c3f273/03_search.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/aa/51/77aa516d-61be-3e52-34dc-3b92fdc840f8/04_remote.png/320x480bb.jpg"
           ],
           "appleId": "6770432142",
           "storeCountry": "us",
@@ -68,8 +157,8 @@
       "id": "com-zhongaiyemaozi-sudokuproof",
       "name": "Sudoku Proof: Daily Logic",
       "summary": "Every move has a reason. Sudoku Proof is a clean, private Sudoku built for uninterrupte…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a8/72/e3a87249-14c2-6d2b-fd3a-a1e02c64aa76/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-18T14:55:55Z",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/ef/39/1def39d6-4ad0-99b8-00f7-0b6631c45db5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-16T18:24:44Z",
       "platforms": [
         "ios"
       ],
@@ -80,12 +169,12 @@
         "ios": {
           "name": "Sudoku Proof: Daily Logic",
           "description": "Every move has a reason. Sudoku Proof is a clean, private Sudoku built for uninterrupted play and real learning. Start a puzzle instantly, finish it offline, and understand the logic when you want help. There are no ads, no account, no lives, and no subscription. PLAY A COMPLETE SUDOKU - Unlimited Easy, Medium, and Hard puzzles - A shared Daily Challenge, including Expert and Master days - Pencil notes with automatic cleanup - Unlimited undo and redo - Optional error checking",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a8/72/e3a87249-14c2-6d2b-fd3a-a1e02c64aa76/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/ef/39/1def39d6-4ad0-99b8-00f7-0b6631c45db5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f9/db/02f9db8d-ad3e-7399-9a2a-d6757e6f4bb8/01_today.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/1d/0b/031d0bbb-e34e-ecfd-e30a-21036b042c8d/02_game.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/fc/88/76fc88b6-51fb-0302-d0e7-ab553a972c84/03_learn.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d5/11/b1/d511b107-3b12-83db-2592-311cc473c625/04_proof.png/320x480bb.jpg"
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/10/78/c41078ce-00da-e238-9614-8be04e24890d/01_today.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/62/b4/d962b4c6-5e58-3fd5-9d72-92982d284a89/02_game.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2b/72/f4/2b72f48b-3a84-cc4a-2329-cc23f5f771ab/03_learn.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a4/c2/cea4c288-aca8-7c12-074f-f66104fba2ca/04_proof.png/320x480bb.jpg"
           ],
           "appleId": "6810521523",
           "storeCountry": "us",
@@ -95,10 +184,608 @@
       }
     },
     {
+      "id": "com-diesfaustussyc-app",
+      "name": "老黄历万年历·吉日历",
+      "summary": "把传统黄历融入日常安排：查看农历、节气与宜忌，为重要事项挑选参考日期，记住家人的农历生日。 【今日黄历】 公历与农历、干支、生肖、每日宜忌、时辰与综合评分集中呈现。点按传统术…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/de/71/d6de71c7-f04e-eb74-95ff-eea7d104f7b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-16T10:41:35Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E5%90%89%E6%97%A5%E5%8E%86/id6762102654?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "老黄历万年历·吉日历",
+          "description": "把传统黄历融入日常安排：查看农历、节气与宜忌，为重要事项挑选参考日期，记住家人的农历生日。 【今日黄历】 公历与农历、干支、生肖、每日宜忌、时辰与综合评分集中呈现。点按传统术语查看说明，了解评分依据。 【月历与择日】 翻月查看农历、节气、节日与已有年度法定假期。按结婚、搬家、开业、出行等事项查找参考日期，阅读推荐理由；基础择吉可查未来30天。 【我的日子】 记录待办、生日和纪念日，支持农历重复与提醒。可选择加入系统日历，导出ICS或JSON；导出不含备注。 【随处查看】 主屏与锁屏小组件、实况活动、Apple Watch与iMessage扩展，让常用日期更易查看。支持Siri与快捷指令。窗口大小变化时，保留所选月份、日期及未保存的事项。 【本地优先】 黄历离线可查，无需注册，无广告。日历、定位和通知均按需启用；数据可通过自己的iCloud同步。支持明暗外观。 【吉日历Pro】 可选一次性买断，无订阅：未来一年择吉、高级筛选与全年分布、完整时辰详批和吉时提醒、无限吉日收藏、自定义简报时间、专属主题、分享模板与民俗工具。我的日子记录、基础提醒与全部小",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/de/71/d6de71c7-f04e-eb74-95ff-eea7d104f7b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/17/3e/fc173e2a-d0bd-fb7f-1655-34ef72b84937/01_today.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/8c/23/b98c236c-a928-6128-93d9-6b71852b14ae/02_calendar.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/0d/59/bc0d59fd-fd3b-dc4f-b251-1137789359cd/03_selection.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bc/77/bf/bc77bf7d-538f-518e-08ea-e8fbb9b94ed1/04_year.png/320x480bb.jpg"
+          ],
+          "appleId": "6762102654",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-physicsbench",
+      "name": "物理实验台-电路光学力学",
+      "summary": "不是连线拼图，是真的在算物理。PhysicsBench 用真实求解跑电路、光路和力矩，通关后把公式和你这一关的数字摆给你看。 接上电池、合上开关，电流流起来，灯泡亮了。用镜子…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/11/ce/fc11ce56-59e9-29a3-d67d-f396256649c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-16T06:30:18Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%89%A9%E7%90%86%E5%AE%9E%E9%AA%8C%E5%8F%B0-%E7%94%B5%E8%B7%AF%E5%85%89%E5%AD%A6%E5%8A%9B%E5%AD%A6/id6813391010?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "物理实验台-电路光学力学",
+          "description": "不是连线拼图，是真的在算物理。PhysicsBench 用真实求解跑电路、光路和力矩，通关后把公式和你这一关的数字摆给你看。 接上电池、合上开关，电流流起来，灯泡亮了。用镜子把光折到靶心。放对砝码让杠杆停稳。每通一关都弹出一张原理卡：这一关用的定律、公式，以及你的真实数值代入。 【主要功能】 • 七学科 108 关：电路、光路、力学、动力学、电磁学、热与流体、波动与声学 • 每学科三档难度：入门、进阶、烧脑 • 真求解：直流电路走节点法（含二极管、电容），光走逐格追踪，杠杆走力矩平衡，运动、感应、热与声音走解析模型 • 通关必给原理卡，数字来自你这一关 • 每日实验与连续天数 • 按知识点组卷的课程、错题重练、掌握度雷达 • 提示无限次，永不做成消耗品 • 导入朋友分享的关卡码或 .physlab 文件 • 主屏小组件、Apple Pencil 笔记标注、实验台录屏 • 完全离线可玩，无广告、无账号、无追踪 【Pro 一次买断解锁】 • 全部 108 关，含所有烧脑关 • 原理卡完整逐步推导 • 逐帧回放与速度/受力矢量，RC 充电曲线可拖动读数",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/11/ce/fc11ce56-59e9-29a3-d67d-f396256649c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/0c/03/710c030e-2afd-62ab-2b11-7bd9975fa7c5/01_result.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/62/be/d362bebd-dffd-50b2-88ab-ee4993681f90/02_play.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/53/1c/2c531c72-b89e-d9d2-c192-ef7f1e62dd6c/03_result_numbers.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/16/b5/f7/16b5f7a2-6ea2-1e5a-909a-4d5ac428599c/04_optics.png/320x480bb.jpg"
+          ],
+          "appleId": "6813391010",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-chembench",
+      "name": "化学实验台-化学方程式配平",
+      "summary": "ChemBench 把化学题做成可操作的推理练习：调整反应条件、搭建结构、输入计算证据，再核对结论。计量关要求比较试剂并求产量；气体关先预测状态量与分压；盖斯拼图先组合反应，…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4f/bb/3b4fbb37-943b-adb3-c583-08084ea2acc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-16T06:22:40Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E5%8C%96%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%8F%B0-%E5%8C%96%E5%AD%A6%E6%96%B9%E7%A8%8B%E5%BC%8F%E9%85%8D%E5%B9%B3/id6813808389?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "化学实验台-化学方程式配平",
+          "description": "ChemBench 把化学题做成可操作的推理练习：调整反应条件、搭建结构、输入计算证据，再核对结论。计量关要求比较试剂并求产量；气体关先预测状态量与分压；盖斯拼图先组合反应，再计算带符号焓变。关键读数在对应计算通过后揭示。 【八学科，157关】 配平与计量、溶液与酸碱、气体与热化学、氧化还原与电化学、有机结构、化学平衡、离子与沉淀、分子与晶体。63关免费，94关需Pro；每学科含入门、进阶和烧脑难度。 【练习与探索】 • 每日一题免费轮换，包含来自Pro题目的每日挑战 • 课程、待复习题和分学科学习记录；辅助解题与独立完成分开记录 • 通关反应卡使用本题条件与数值解释定律 • 13项速算工具，含摩尔质量、配平、半反应、平衡常数、离子共存和溶解度曲线；结果不限次，提示不消耗 • 周期律参考与比较、晶体三维模型与堆积计算、关联知识点 • iPad分栏与手写草稿，保存未完成的现场 【Pro，一次买断】 解锁全部157关、通关后反应卡完整推导、速算逐步过程、可配置并保存的自由实验台，以及自建题目与离线导出。可以改变方程式、配液条件或混合气体组分，重新检验",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/4f/bb/3b4fbb37-943b-adb3-c583-08084ea2acc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/e2/a5/62e2a5a9-4d27-fd8c-a184-7ce4e7076963/01_result.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/de/f4/fedef477-8319-24a7-3189-360dd3bd8403/02_play.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/b3/a2/4eb3a26c-05b8-f7b3-a9c6-d2077d47d39b/03_result_numbers.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/69/1a/38691a63-d420-427c-7acb-21cc6feb626a/04_solutions.png/320x480bb.jpg"
+          ],
+          "appleId": "6813808389",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-sycmarkdown-app",
+      "name": "MDQuill：Markdown编辑器",
+      "summary": "MDQuill 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看清爽预览，也可…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/05/a7/d005a769-a8a4-cc8e-5ab1-605122f6b1d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-15T13:40:04Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/mdquill-markdown%E7%BC%96%E8%BE%91%E5%99%A8/id6762508307?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917603630742734228"
+      },
+      "listings": {
+        "ios": {
+          "name": "MDQuill：Markdown编辑器",
+          "description": "MDQuill 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看清爽预览，也可以随时切回编辑，继续整理笔记、文档、清单、技术说明和个人知识库。 为什么选择 MDQuill？ • 本地优先：文档保存在你的设备上，不强制注册账号，不把写作内容上传到服务器。 • 打开即预览：从 Files、分享菜单或其他 App 打开 Markdown 文件，先进入预览页面，阅读确认后再切回编辑。 • 原生编辑体验：支持 Markdown 常用语法、工具栏快捷插入、查找替换、大纲导航和最近文档管理。 • 实时预览：标题、列表、引用、代码块、表格、任务列表、链接和图片都能清楚呈现。 • 多设备体验：iPhone 轻量记录，iPad 分栏写作，Mac 使用桌面窗口和文档工作流。 • 导出分享：可导出 Markdown、TXT、HTML 和 PDF，适合归档、打印、邮件发送和跨平台分享。 • 模板与工作流：使用内置模板快速开始，也可以保存自己的常用结构。 • 离线语音 Markd",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/05/a7/d005a769-a8a4-cc8e-5ab1-605122f6b1d4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/cc/93/0dcc9338-918e-8daf-ab75-855f2477a543/01_home.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/f8/b7/72f8b707-baae-64cd-a463-a9eb395cd9ba/02_editor.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/96/b3/d296b34f-2407-c1ec-4c86-b7e3105b1d61/03_preview.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/2d/0c/af2d0c83-c082-6a8a-143d-c7eabfe2f290/04_templates.png/320x480bb.jpg"
+          ],
+          "appleId": "6762508307",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        },
+        "harmony": {
+          "name": "MDQuill Studio",
+          "description": "MDQuill Studio 是一款面向写作、笔记、技术文档和 Markdown 学习的本地编辑器。应用支持文档管理、Markdown 编辑、实时预览和多格式导出，适合在手机、平板和二合一设备上整理灵感、草稿、会议纪要和技术笔记。 核心功能： 新建、导入、保存、重命名、删除 Markdown/TXT 文档 Markdown 快捷工具栏、自动配对、列表续行和模板新建 实时预览，支持标题、列表、任务列表、表格、代码块等常用语法 手机/平板/二合一自适应布局，支持编辑、预览和分栏 导出 MD、TXT、HTML、PDF 最近列表、收藏、集合、导出历史和清缓存 无账号体系，文档默认保存在本地",
+          "icon": "./media/com-sycmarkdown-app/harmony/icon.jpg?v=5bf8644dc0",
+          "screenshots": [
+            "./media/com-sycmarkdown-app/harmony/shot-0.jpg?v=6ba7dbb6ef",
+            "./media/com-sycmarkdown-app/harmony/shot-1.jpg?v=d7ba3a098b",
+            "./media/com-sycmarkdown-app/harmony/shot-2.jpg?v=418421a445",
+            "./media/com-sycmarkdown-app/harmony/shot-3.jpg?v=90447ceaaa"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "siyecao-qidongtai08",
+      "name": "启动台",
+      "summary": "LaunchPro，更熟悉、更强大的 Mac 应用启动台。 延续你熟悉的启动台体验，让打开、查找和整理应用更顺手。 - 自由拖动变换app位置，组织文件夹 - 隐藏不常用的应…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/88/99/19889937-8e2c-026a-54bb-bea9930b37e1/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+      "updatedAt": "2026-10-14T16:22:51Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E5%90%AF%E5%8A%A8%E5%8F%B0/id6776916016?mt=12&uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "启动台",
+          "description": "LaunchPro，更熟悉、更强大的 Mac 应用启动台。 延续你熟悉的启动台体验，让打开、查找和整理应用更顺手。 - 自由拖动变换app位置，组织文件夹 - 隐藏不常用的应用 - 自定义app名称与搜索词，让查找更符合你的习惯。 - 自由创建分组与工作区，将工作、学习和娱乐应用分开整理。 - 通过快捷键、触发角或桌面悬浮球等方式快速启动 - 使用桌面小组件，让常用应用触手可及。 - 可调整图标大小、背景与外观，打造自己的启动台。 熟悉的操作，更灵活的整理，更直接的启动。 terms of use （EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/88/99/19889937-8e2c-026a-54bb-bea9930b37e1/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/db/3f/bedb3f2f-0094-e6b7-e84f-c7b67387b249/Xnip2026-10-06_14-28-50.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/5d/ab/135dab04-2418-ec04-583f-f5e598436b4d/Xnip2026-10-06_14-29-22.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/c6/40/58c640ef-9189-7ba1-45d3-bbde27cb1377/Xnip2026-10-06_14-29-42.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/fa/d8/52fad87a-0542-a9d4-0464-2824fe63143b/Xnip2026-10-06_14-29-58.jpg/320x480bb.jpg"
+          ],
+          "appleId": "6776916016",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-textbookshelf",
+      "name": "课本书架-电子课本阅读器",
+      "summary": "课本书架把你手上的课本变成好读的文字，并按学段、学科、版本整理在一个书架里。 【导入即归类】 内置两千多本小学、初中、高中课本的书目（只有书名等公开信息，不含课本内容）。导入…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/17/2f/3f172fa6-b574-ca25-a377-fca5163704b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-14T11:44:07Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E8%AF%BE%E6%9C%AC%E4%B9%A6%E6%9E%B6-%E7%94%B5%E5%AD%90%E8%AF%BE%E6%9C%AC%E9%98%85%E8%AF%BB%E5%99%A8/id6821245633?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "课本书架-电子课本阅读器",
+          "description": "课本书架把你手上的课本变成好读的文字，并按学段、学科、版本整理在一个书架里。 【导入即归类】 内置两千多本小学、初中、高中课本的书目（只有书名等公开信息，不含课本内容）。导入你合法取得的课本 PDF，或用相机扫描自己的纸质课本，课本书架会自动对号入座，按学段筛选一目了然。支持五·四学制版本，并支持按版本归档。 【本机转成文字】 有文字层的 PDF 直接提取；扫描页由 iOS 系统文字识别在本机完成，全程离线，文件不上传。公式、插图、表格保留原样裁图，点按可放大。可以边识别边读，关掉 App 也会从断点继续。 【舒服地读】 • 字号、行距随心调，明暗跟随系统 • 文字与原页一键切换 • 正文简体、繁体一键转换 • 目录、章节、书签，阅读位置自动保存 • 书内搜索，简繁关键词互通 • 分享本页摘录（附出处） 【Pro 一次买断】 • 不限数量导入、扫描并识别课本（基础版 3 本） • 全书架搜索，结果直达页面 • 整本朗读，语速可调 没有订阅、没有广告、不需要账号。 【版权说明】 课本书架不提供教材、古诗文、图书或杂志内容，不提供内容下载或整本导出。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/17/2f/3f172fa6-b574-ca25-a377-fca5163704b0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/da/50/06da507c-8778-9c10-7472-d398c5d89786/01_reader.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/47/8b/21478bdd-aba0-fc6e-751e-30f02cb8afa6/02_import.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/59/d7/0059d7dd-31ff-d8fb-232d-df4c33da3d8d/03_shelf.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/78/b7/d278b7a3-62f9-604e-83c4-bf36d333edbb/04_catalog.png/320x480bb.jpg"
+          ],
+          "appleId": "6821245633",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-focuslist",
+      "name": "四叶草打卡",
+      "summary": "四叶草打卡，陪你把坚持变成日常。 从每天读几页书，到规律运动、喝水、学习，好的习惯来自一次次小小的行动。四叶草打卡帮你安排习惯、记录完成情况，用清晰的日历与统计看见自己的进步…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/75/71/357571cc-202d-7299-6bef-1938213484cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-13T18:34:34Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E5%9B%9B%E5%8F%B6%E8%8D%89%E6%89%93%E5%8D%A1/id6760835368?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611318297759728"
+      },
+      "listings": {
+        "ios": {
+          "name": "四叶草打卡",
+          "description": "四叶草打卡，陪你把坚持变成日常。 从每天读几页书，到规律运动、喝水、学习，好的习惯来自一次次小小的行动。四叶草打卡帮你安排习惯、记录完成情况，用清晰的日历与统计看见自己的进步。 【按自己的节奏建立习惯】 自定义习惯名称、图标与颜色，选择执行日期，设置每日打卡次数和提醒时间。每天一次，或一天多次，都能按你的目标安排。 【记录每一次坚持】 快速完成打卡，查看每天的记录、累计打卡次数与最长连续天数。支持习惯归档，让进行中的目标保持清晰。 【用统计看见进步】 通过周统计回顾日常完成情况。月、年统计展示达标率、打卡次数与打卡天数，搭配打卡日历和趋势图，帮助你了解长期变化。打卡地图以热力图和每日明细呈现记录分布。 【连接 Apple 健康】 授权后，可读取 Apple 健康中的步数、爬楼层数等数据，根据设定目标更新相关习惯的打卡状态，减少手动记录。 【让记录更合心意】 选择木纹、玫瑰手账、深空银河等场景主题与外观颜色，让每天打开应用更有仪式感。支持导出习惯记录图片，保存或分享你的坚持。 【从今天开始，慢慢积累】 支持游客模式，也可登录后启用 iCloud 同",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/75/71/357571cc-202d-7299-6bef-1938213484cf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/f4/84/05f48449-bbb3-772e-6bab-373b0f42556e/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-03_at_09.38.56.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/7b/2f/597b2f0b-2947-b300-5570-065044f26269/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-03_at_09.39.00.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/9d/0b/6f9d0ba9-d27c-37c4-d8c1-6e932c2ee64c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-03-30_at_16.07.54.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/16/a3/d316a39e-a064-2820-8844-cfe6dccebcfb/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-03-30_at_16.08.03.png/320x480bb.jpg"
+          ],
+          "appleId": "6760835368",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        },
+        "harmony": {
+          "name": "日签打卡",
+          "description": "专注清单是一款简洁、私密的习惯打卡与统计工具。你可以从常用模板快速开始，也可以自定义频率、周期、提醒和记录字段，在日历中补录历史打卡，并通过周、月、年视图回顾变化。 核心数据默认保存在本机，无需注册账号即可创建、打卡、统计、导入、导出和备份。需要换机时，可导出完整备份并在另一台设备恢复，全程不需要账号。 主要能力： 创建、编辑、归档、恢复和删除习惯 每天、每周和自定义星期计划，以及固定起止周期 快速打卡与详细打卡，支持备注、数值和血压字段 最多 10 个按需开启的本地提醒 日历补录、连续打卡、完成率和周/月/年统计 CSV 与兼容 Excel 的 XML 数据导入导出 本地备份、恢复与全部数据删除 无账号完整备份迁移，方便换机恢复打卡数据 步数、饮水等健康习惯的手动记录 跟随系统深浅色与多种现代主题色 专注清单不包含广告、行为追踪、强制登录或订阅，首版主题色和数据能力全部免费。",
+          "icon": "./media/com-apptool-focuslist/harmony/icon.jpg?v=edd470aab9",
+          "screenshots": [
+            "./media/com-apptool-focuslist/harmony/shot-0.jpg?v=d8a37a7d5b",
+            "./media/com-apptool-focuslist/harmony/shot-1.jpg?v=7273ddbfb5",
+            "./media/com-apptool-focuslist/harmony/shot-2.jpg?v=9de09534b9",
+            "./media/com-apptool-focuslist/harmony/shot-3.jpg?v=b1dd3b43d4"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-sycjizhangben-app",
+      "name": "极简记账本-记账理财预算",
+      "summary": "极简记账本是一款界面极简、上手即用的个人记账本。无需注册、无需登录，打开就能 3 秒记一笔，自动带出你最近用过的分类和账户，把每天的收入支出快速记清楚。 为什么选极简记账本？…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/b6/e8/7fb6e84e-15cf-11f7-1068-6b4c46300be0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-13T18:21:10Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E6%9E%81%E7%AE%80%E8%AE%B0%E8%B4%A6%E6%9C%AC-%E8%AE%B0%E8%B4%A6%E7%90%86%E8%B4%A2%E9%A2%84%E7%AE%97/id6762165253?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "极简记账本-记账理财预算",
+          "description": "极简记账本是一款界面极简、上手即用的个人记账本。无需注册、无需登录，打开就能 3 秒记一笔，自动带出你最近用过的分类和账户，把每天的收入支出快速记清楚。 为什么选极简记账本？ · 截图记账：导入支付宝/微信账单截图，自动识别金额、时间与备注，确认即入账（文字识别在本机完成，不上传图片）。 · 极速记账：首页一键记支出/记收入，常用金额一键填入，金额、分类、账户一屏完成。 · 看得懂的统计：本月结余、收支趋势、分类占比环形图、消费洞察，一眼看清钱花在哪。 · 月度预算：给本月支出设上限，首页实时显示已用与剩余；按当前消费速度预测月末支出，会超支提前告诉你。 · 账单管理：按日期自动分组，支持搜索备注与金额，左滑即可编辑或删除。 · 每日提醒：自定义提醒时间，养成天天记账的习惯，提醒由系统本地通知发送。 · 账户与分类：现金、银行卡、支付宝、微信、信用卡随心管理，分类可自定义。 · 主题与货币：多套主题配色可选，货币单位跟随所在地区，也可手动指定（只改显示符号，不兑换金额）。 · iCloud 备份：账本可备份到你自己的 iCloud，换机或重装后一",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/b6/e8/7fb6e84e-15cf-11f7-1068-6b4c46300be0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/42/91/b842916d-fee3-e2c3-47cd-acf7d9972357/01-Home.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/b9/57/aeb95708-9c77-3a9d-9175-04e818426a1e/02-Bills.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/b1/ce/e7b1ce18-7307-fc9a-6e56-fcc26cd0cad8/03-Statistics.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/6b/35/306b35f9-f8de-84d5-d854-74f5e94c869b/04-Settings.png/320x480bb.jpg"
+          ],
+          "appleId": "6762165253",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "siyecao-huaguang",
+      "name": "Blow a Trillion",
+      "summary": "给你一万亿，你打算怎么花？ 花光一万亿是一款荒诞消费模拟器。你的唯一任务很简单：把一笔不可能花完的巨款，用最离谱的方式挥霍掉。 用最土豪的方式买最日常的东西。租你根本不需要的…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/4e/4fd34e59-7bed-abff-d24d-0a840a48c002/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-12T18:44:42Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E8%8A%B1%E5%85%89%E4%B8%80%E4%B8%87%E4%BA%BF-%E8%8A%B1%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B4%A2%E5%AF%8C/id6789487448?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "Blow a Trillion",
+          "description": "给你一万亿，你打算怎么花？ 花光一万亿是一款荒诞消费模拟器。你的唯一任务很简单：把一笔不可能花完的巨款，用最离谱的方式挥霍掉。 用最土豪的方式买最日常的东西。租你根本不需要的房子。收藏可能永远用不上的奢侈品。给奇怪的创业项目砸钱。把普通生活升级成亿万富翁式的胡闹。如果你想象力不够，应用会很乐意帮你把事情搞得更糟。 这不是真实购物应用。不会花掉任何真钱。每一笔订单都是虚构的，每一个故事都是为了让「浪费假钱」这件事变得异常爽快。 功能： • 花掉虚构的一万亿余额 • 在不同挥霍世界里浏览荒诞商品 • 随着财富消失解锁成就 • 完成每日挥霍挑战 • 看余额上涨、下跌、然后失控 • 分享离谱的订单故事 • 探索破产式暴富、小心眼复仇、科技泡沫、军事玩具和行星级胡闹等内容包 乐趣不只是买贵的东西。 真正好玩的是：暴富之后，你会发现自己的梦想小得令人尴尬。 你能把这一万亿全部花光吗？ 还是会被旧习惯、假装有的理财纪律，以及可疑的正常品味拖后腿？ 下载花光一万亿，开始浪费你绝对没有的钱。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/d3/4e/4fd34e59-7bed-abff-d24d-0a840a48c002/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/b9/7e/29b97eeb-a5f0-20db-8a5d-a90b6db96d93/01-assets.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/18/92/871892cf-1750-65ee-ff75-25e3680869fa/02-spend.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/65/b2/e765b280-4ddd-69ba-e993-c74a598e577a/03-choice.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/8f/cb/5c8fcb1b-7aaf-3f38-19d6-08efc9c1384d/04-calculator.jpg/320x480bb.jpg"
+          ],
+          "appleId": "6789487448",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-falconmenu-app",
+      "name": "FalconMenu - 右键菜单与新建文件",
+      "summary": "FalconMenu 为 Finder（访达）右键菜单加入常用效率操作。常用功能可以直接放在右键第一级，一次点击即可完成，不用再一层层找菜单。 【一键新建文件】 • 在当前文…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/5f/87/d55f872e-618d-f8d0-79d0-86ce9eb11c05/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+      "updatedAt": "2026-10-10T14:48:32Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/falconmenu-%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95%E4%B8%8E%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6/id6768915910?mt=12&uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "FalconMenu - 右键菜单与新建文件",
+          "description": "FalconMenu 为 Finder（访达）右键菜单加入常用效率操作。常用功能可以直接放在右键第一级，一次点击即可完成，不用再一层层找菜单。 【一键新建文件】 • 在当前文件夹直接新建 Word、Excel、PPT 文档 • 文本、Markdown、RTF、CSV、JSON、HTML、Swift、Python、Shell、YAML 等常用文件 • 支持自定义模板，可导入与导出 【复制路径与信息】 • 复制路径、POSIX 路径、文件 URL、Shell 转义路径 • 复制文件名（带或不带扩展名）、所在文件夹路径 • 无需打开即可复制文本或代码文件内容 • 复制 MD5、SHA-1、SHA-256、SHA-512 哈希值 【终端与常用应用】 • 在当前位置打开终端，支持终端、iTerm2、Ghostty、Warp，可设置默认终端 • 用常用应用打开所选文件，例如 VS Code、Xcode 等 【文件管理】 • 剪切与粘贴文件 • 创建副本、制作替身、锁定 / 解锁、隐藏文件、显示隐藏文件 • 显示或隐藏扩展名、移到废纸篓 • 常用文件夹：快速打",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/5f/87/d55f872e-618d-f8d0-79d0-86ce9eb11c05/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/4f/2c/514f2c3b-4c0b-541a-b938-a1f19156611f/01-hero.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/01/e7/0301e7eb-c6c4-28fe-1f60-9aa31b1b5dde/02-new-file.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/cb/62/c1cb625c-e56d-e098-a7a9-a2cdc485b09c/03-copy.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f1/3d/eff13ddf-8f8e-c5aa-9781-e42c545ca759/04-tools.png/320x480bb.jpg"
+          ],
+          "appleId": "6768915910",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-idphotomaker-app",
+      "name": "证件照大师-免冠寸照签证照制作换底色",
+      "summary": "证件照大师是一款在 iPhone 和 iPad 本地处理照片的证件照工具。无需注册登录或上传照片，从拍摄、相册导入到人像抠图、换底、构图、保存与分享都可在设备上完成。 核心功…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/4b/2f/2b4b2fb9-4042-00ef-15bd-1b370456ad1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-09T15:24:49Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%A4%A7%E5%B8%88-%E5%85%8D%E5%86%A0%E5%AF%B8%E7%85%A7%E7%AD%BE%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E6%8D%A2%E5%BA%95%E8%89%B2/id6761751168?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "证件照大师-免冠寸照签证照制作换底色",
+          "description": "证件照大师是一款在 iPhone 和 iPad 本地处理照片的证件照工具。无需注册登录或上传照片，从拍摄、相册导入到人像抠图、换底、构图、保存与分享都可在设备上完成。 核心功能 • 拍摄或从相册导入照片 • 本地人像抠图与自动构图 • 白、蓝、红等常用背景色 • 一寸、二寸、考试报名、学籍、简历、护照和签证等常见规格 • 拖动、缩放、旋转与精细调整 • 自定义规格、本地历史、收藏与筛选 • iPhone 与 iPad 适配 免费版可完整制作、保存和分享单张证件照。 证件照大师 Pro 为一次性买断，不含订阅，可解锁批量制作、打印排版、高级导出、自定义背景、专业规格、更多历史管理及本地资料备份恢复。 隐私 照片在设备上处理，不用于训练或广告画像。详细说明见应用内隐私政策。 提示 不同机构的要求可能变化，请在提交前核对对方公布的最新尺寸、背景与构图要求。本应用不承诺官方审核结果。 支持与反馈：QQ 群 605016458",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/4b/2f/2b4b2fb9-4042-00ef-15bd-1b370456ad1e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/75/e1/7a75e147-1cf6-1ec3-53f5-2f35c2c3e03e/01-workbench.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4c/1e/4d4c1e85-94da-e786-fc8e-9e25019b28af/02-specs.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/5b/8e/155b8e17-512f-106b-25bd-4c2a3fe74c60/03-editor.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/35/f7/2435f7e7-e513-e23e-a4da-7071cf693139/04-result.png/320x480bb.jpg"
+          ],
+          "appleId": "6761751168",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-countday",
+      "name": "纪念日*倒计日",
+      "summary": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/3f/72/4b3f7267-5914-2a4d-8cbb-7954c644df6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-05T12:02:22Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%BA%AA%E5%BF%B5%E6%97%A5-%E5%80%92%E8%AE%A1%E6%97%A5/id6761182380?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611667880659579"
+      },
+      "listings": {
+        "ios": {
+          "name": "纪念日*倒计日",
+          "description": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什么选择我们】 • 倒计 + 正数双模式：未来的日子帮你倒计时，过去的日子帮你数着过（在一起 365 天）。 • 桌面小组件：多种尺寸小组件，重要日子直接显示在主屏幕，一眼可见。 • Apple Watch：抬腕即可查看最近的倒计时，重要日子随身带。 【强大好用的功能】 • 重复提醒：生日、纪念日支持每月 / 每年自动循环，永远不会算错日子。 • 分类与笔记本：恋爱、生日、节日、学习、工作、生活随心归类，清爽不乱。 • 日记与照片：为每个日子写下心情、贴上照片，留住值得纪念的瞬间。 • 通知提醒：临近重要日子自动提醒，按你的节奏推送。 • iCloud 同步：登录 Apple 账户即可把数据安全同步到 iCloud，换机不丢失。 • 本地优先 & 备份导出：游客模式数据存本机，支持一键导入 / 导出备份。 【适合这些场景】 恋爱纪念日、结婚周年、宝宝生日、生日倒计时、考试倒计时",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/3f/72/4b3f7267-5914-2a4d-8cbb-7954c644df6e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/4c/dc/154cdc7e-2257-3c7f-e2aa-fc8ff71c10e9/7e03d895a2b586b288fdd25f83841491.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/a5/c9/3ca5c9fd-0785-fbd0-6660-4135cf4ebcac/33b0238c5efe5c26374ba478cfb2188a.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/83/19/048319f4-06f3-ffae-5739-13ae9be86a9b/a6121858c0b19d62a7b01db1864dec0d.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/a4/56/25a456df-8aa4-86dd-141e-66bbb8f8b066/fb6d321de519791079697d74db4c63e6.png/320x480bb.jpg"
+          ],
+          "appleId": "6761182380",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        },
+        "harmony": {
+          "name": "盼日",
+          "description": "盼日帮你守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日还剩几天？ 核心功能： 倒计 + 正数双模式，一屏看清还剩几天 / 已过几天 公历 / 农历目标日；单次 / 每月 / 每年重复 按需同步到系统日历，可设置当天或提前 1 / 3 / 7 天提醒 本子分类、封面图、备注与多条文本笔记 常用日子模板（六分类、搜索、大卡/双列） 本地备份导出 / 导入 / 恢复最近备份 无广告、无在线内容源、无需登录",
+          "icon": "./media/com-apptool-countday/harmony/icon.jpg?v=162cc1a0d8",
+          "screenshots": [
+            "./media/com-apptool-countday/harmony/shot-0.jpg?v=7b7d5ddc63",
+            "./media/com-apptool-countday/harmony/shot-1.jpg?v=f6b544db2b",
+            "./media/com-apptool-countday/harmony/shot-2.jpg?v=7dbd600a59",
+            "./media/com-apptool-countday/harmony/shot-3.jpg?v=ee2a172273"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-sjgjuhui-app",
+      "name": "情侣游戏Pro",
+      "summary": "Make the most of your time together with Night Owl: Couples Games — a collection of int…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/97/15/d49715eb-2fdd-780a-bd9c-4a01109a9793/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-10-04T23:13:42Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/night-owl-couples-games/id6762446813?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "情侣游戏Pro",
+          "description": "Make the most of your time together with Night Owl: Couples Games — a collection of interactive games for date nights and small groups. Start with an easy icebreaker, then follow the conversation wherever it goes. PICK A GAME • Truth or Dare: spin, choose, and take turns with questions and challenges. • Boundary Exploration: move through a series of prompts at a pace that suits you. • I've Done It, Have You?: share an experience and see who else has done it. • I Am King: draw",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/97/15/d49715eb-2fdd-780a-bd9c-4a01109a9793/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1e/2b/8a/1e2b8a68-065b-5e84-fa42-61a049712fe2/01-home.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/8d/5f/6b8d5fc4-1439-910c-735c-1ab9652fd4ee/04-truth-or-dare-wheel.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/af/56/08af563e-a6ba-d864-7d1e-83c07e112e1d/05-truth-result.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/45/91/f34591c0-5b25-ca9d-a849-81e1369a3994/03-intensity.png/320x480bb.jpg"
+          ],
+          "appleId": "6762446813",
+          "storeCountry": "us",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-webclean",
+      "name": "WebClean: Ad Blocker and Dark",
+      "summary": "Make Safari feel clean. WebClean uses Safari's content-blocking and extension APIs to r…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a5/19/f6a51914-00f7-8479-615a-b278230df970/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-09-29T16:49:16Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/webclean-ad-blocker-and-dark/id6782481453?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "WebClean: Ad Blocker and Dark",
+          "description": "Make Safari feel clean. WebClean uses Safari's content-blocking and extension APIs to reduce known ads and trackers, hide selected page annoyances, and add dark or eye-care styles without routing your traffic through a server. One-time purchase. No subscription. FEATURES - Local Safari rules for known ad and tracker domains - Optional cleanup for pop-ups, cookie banners, and open-in-app prompts - Dark mode for websites - Separate per-site exceptions for blocking and website s",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/a5/19/f6a51914-00f7-8479-615a-b278230df970/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/21/53/92215377-61e2-b982-58d8-0e1b362cf0bd/01_console.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/07/17/4b0717b5-2001-81f0-f0ff-fd8aea430a6c/02_stats.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/4b/68/4a4b6894-d842-04a2-3a03-303f892be24a/03_sites.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/63/e1/6c63e187-c906-900f-33b4-28cffc606353/04_paywall.png/320x480bb.jpg"
+          ],
+          "appleId": "6782481453",
+          "storeCountry": "us",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-zhongaiyemaozi-marbleparlor",
+      "name": "WallMark: AR Wall Planner",
+      "summary": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/0f/53/660f53b0-2b84-847d-f666-f07ac3de8ac1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-09-24T10:03:39Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/us/app/wallmark-ar-wall-planner/id6790336494?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "WallMark: AR Wall Planner",
+          "description": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation points, attach wall photos, create rule-based planning insights, and export PDF reports. FEATURES - AR wall measurement and reference markers - Drill, TV, shelf, curtain, and custom points - Drill planning checklists - RoomPlan scanning on supported LiDAR devices, with manual fallback - Rule-based room insights and risk summaries processed on device - Projects, rooms, walls, photos, and his",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/0f/53/660f53b0-2b84-847d-f666-f07ac3de8ac1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e2/46/b0e24620-98a4-dd97-a66b-96b20f862c81/01_home.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/4c/90/1f4c9078-9e98-1a88-14a5-dd8cf6be8d4f/02_measure.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/fe/c6/06fec6b3-3c03-bf7e-3e7e-b93c4c65687c/03_marker.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/b9/e3/f5b9e3c5-c184-4874-dfd1-ece1f40cd311/04_scan.png/320x480bb.jpg"
+          ],
+          "appleId": "6790336494",
+          "storeCountry": "us",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "siyecao-ppttime",
+      "name": "TalkTimer-演讲计时",
+      "summary": "它解决一个具体的问题：全屏演讲时页面没有明显的计时或倒计时 这款应用他悬浮在演示之上的计时器 全把它拖到幻灯片的任何角落，时间始终可见，不遮挡内容。随意控制大小和位置 无论你…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/32/17/2532176e-0482-c10a-4786-b71defdfa2bd/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+      "updatedAt": "2026-09-23T15:29:01Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E6%BC%94%E8%AE%B2%E8%AE%A1%E6%97%B6/id6795022587?mt=12&uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "TalkTimer-演讲计时",
+          "description": "它解决一个具体的问题：全屏演讲时页面没有明显的计时或倒计时 这款应用他悬浮在演示之上的计时器 全把它拖到幻灯片的任何角落，时间始终可见，不遮挡内容。随意控制大小和位置 无论你是登台演讲、主持答辩、控场会议还是教学授课这都是你的好帮手",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/32/17/2532176e-0482-c10a-4786-b71defdfa2bd/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/28/3d/8f283db3-720e-af14-02c5-bd2226c4f25c/_U9875_U9762_2.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/99/dc/8499dce1-9f53-934d-d8e6-4b8412d7381e/_U9875_U97623.png/320x480bb.jpg"
+          ],
+          "appleId": "6795022587",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
+      "id": "com-apptool-leafread",
+      "name": "青页小说阅读器·TXT/EPUB/MD",
+      "summary": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/29/91/c9299115-8e9e-f24c-2130-c0440412d83c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-09-21T20:28:53Z",
+      "platforms": [
+        "ios",
+        "harmony"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4",
+        "harmony": "https://appgallery.huawei.com/app/C6917611665788662118"
+      },
+      "listings": {
+        "ios": {
+          "name": "青页小说阅读器·TXT/EPUB/MD",
+          "description": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识别编码，海量长篇也能秒开 • EPUB 电子书，保留章节目录与排版 • Markdown（.md）文档，按标题自动分章 【听书朗读】 • 内置语音朗读，自动选择合适的声音，解放双眼 • 可调节朗读语速，支持定时停止，睡前听书不费电 • 朗读时同步高亮当前语句，并自动翻页 【沉浸阅读】 • 多种翻页方式：仿真、滑动、上下滚动、淡入等（部分为 Pro） • 日间 / 夜间 / 护眼多主题，可调亮度，长时间阅读更护眼 • 丰富字体与字号、行间距、段间距、页边距自由调整 • iPad 支持双栏阅读，平板大屏更高效 【贴心功能】 • 自动记忆阅读进度，随时续读，绝不丢页 • 章节目录快速跳转，全文搜索定位 • 书签收藏、文字高亮与笔记标注（分类与导出为 Pro） • 阅读时长与字数统计，量化你的阅读习惯 • 桌面小组件，一眼看到正在读的书与进度 【隐私优先】 • 完全离线，书籍只存在你",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/29/91/c9299115-8e9e-f24c-2130-c0440412d83c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/61/31/e66131d0-d7f9-818e-434d-ee95aa7afee4/01_shelf.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/f1/1f/12f11fab-f7b0-01c6-e1d0-ef5632ad6c2e/02_reader.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/6f/b06f6f27-4da7-f647-87d9-2f168e045220/03_toc.jpg/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/a6/05/cca6056b-e7d3-b240-26d6-baee031165f9/04_reading_settings.jpg/320x480bb.jpg"
+          ],
+          "appleId": "6767811417",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        },
+        "harmony": {
+          "name": "青页",
+          "description": "青页是一款简洁、私密的本机小说与文档阅读器。通过系统文件选择器导入 TXT、EPUB 或 Markdown，阅读进度与统计保存在本机。 主要能力：EPUB 解包并提取 XHTML 正文；书架列表或网格及三种排序；书籍详情、续读和重命名；目录、搜索、书签和进度；系统朗读与自动阅读；9 套主题、上下滚动、左右滑动、直接切换与阅读亮度；阅读统计、无登录备份、文件管理、缓存清理与设置重置。 青页不接入在线书源、下载站或爬虫，不含广告、行为追踪、强制登录、订阅或购买界面。",
+          "icon": "./media/com-apptool-leafread/harmony/icon.jpg?v=9ca03ef5ba",
+          "screenshots": [
+            "./media/com-apptool-leafread/harmony/shot-0.jpg?v=955fcebb8a",
+            "./media/com-apptool-leafread/harmony/shot-1.jpg?v=4e5771cfcb",
+            "./media/com-apptool-leafread/harmony/shot-2.jpg?v=f5b2bdfde1",
+            "./media/com-apptool-leafread/harmony/shot-3.jpg?v=02addcb0a7"
+          ],
+          "source": "华为应用市场",
+          "sourceNote": "以下文案与截图来自华为应用市场"
+        }
+      }
+    },
+    {
+      "id": "com-sycxiaoxue-app",
+      "name": "物有凭-家电保修发票管理",
+      "summary": "物有凭帮你为家里的家电和数码产品建立本地售后档案。先写名称，再附上购买凭证或铭牌，并记下保修或保养日期。维修、退换或转交时，打开这一件即可查看和分享原件。 文字识别、文档扫描…",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/b4/8c/05b48cf0-2033-5e14-e658-d2ab8dbbb6fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "updatedAt": "2026-09-19T14:26:19Z",
+      "platforms": [
+        "ios"
+      ],
+      "downloads": {
+        "ios": "https://apps.apple.com/cn/app/%E7%89%A9%E6%9C%89%E5%87%AD-%E5%AE%B6%E7%94%B5%E4%BF%9D%E4%BF%AE%E5%8F%91%E7%A5%A8%E7%AE%A1%E7%90%86/id6762500286?uo=4"
+      },
+      "listings": {
+        "ios": {
+          "name": "物有凭-家电保修发票管理",
+          "description": "物有凭帮你为家里的家电和数码产品建立本地售后档案。先写名称，再附上购买凭证或铭牌，并记下保修或保养日期。维修、退换或转交时，打开这一件即可查看和分享原件。 文字识别、文档扫描和条码读取都在本机完成。品牌、型号、序列号、金额和日期只有在你点选后才会写入。保修时长预设按购买日算出到期日，不代表已确认保修。 专业版一次买断，去掉 20 件上限，并解锁连续建档、一张凭证挂多件，以及凭证全文检索。免费版已包含提醒、识别、扫描、单件资料包和完整备份。2.1 没有账号，也没有云同步。记录留在这台设备上。 本应用不核实保修资格，也不内置第三方文件库。",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/b4/8c/05b48cf0-2033-5e14-e658-d2ab8dbbb6fb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "screenshots": [
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/1e/47/c81e4709-a325-5645-f348-d132bdced4de/01-library.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/85/99/b7859907-8d44-96d4-6bda-f2195e64dd79/02-details.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/03/bb/e703bbd2-596e-1af9-6a68-74f86e74bc2b/03-service-history.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/70/64/9a7064f3-5530-f540-2058-8958b5c7e563/04-document-pack.png/320x480bb.jpg"
+          ],
+          "appleId": "6762500286",
+          "storeCountry": "cn",
+          "source": "App Store",
+          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
+        }
+      }
+    },
+    {
       "id": "com-sycyouerqim-app",
       "name": "Kids Learning Park: Preschool",
       "summary": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7c/aa/237caa36-055e-ff33-845c-3690d337af4b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/07/3a/49073a56-fcd6-63b1-f8ed-ff023c089af8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-18T00:49:00Z",
       "platforms": [
         "ios",
@@ -112,7 +799,7 @@
         "ios": {
           "name": "Kids Learning Park: Preschool",
           "description": "Kids Learning Park is a privacy-first preschool learning app for ages 3-8. Kids explore ABC phonics, early math, Mandarin, handwriting, stories, and playful learning games with Lucky, a friendly clover mascot. WHY PARENTS TRUST IT • Core learning works offline • No ads and no account required • No third-party analytics or tracking SDKs • Child progress stays on the device • Parent Area protects external links, purchases, documents, and content downloads LEARN AND PLAY • ABC, ",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/7c/aa/237caa36-055e-ff33-845c-3690d337af4b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/07/3a/49073a56-fcd6-63b1-f8ed-ff023c089af8/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/a0/6d/dca06d25-79f0-b160-84b9-97529d164619/01_offline_preschool_learning.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/cc/e0/31cce063-4916-6304-603b-8deb77a9dd53/03_counting_math_time.png/320x480bb.jpg",
@@ -143,7 +830,7 @@
       "id": "com-zhongaiyemaozi-pausearcade",
       "name": "Pause Arcade: Offline Games",
       "summary": "Take a real break with twelve polished mini games in one private, offline arcade. Jump…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/48/65/c2486529-dcd3-cd2a-1cd6-edc6810b1e59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9c/8f/829c8fda-a1a7-c8f2-9dc1-7a10c25e8f44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:55:13Z",
       "platforms": [
         "ios"
@@ -155,7 +842,7 @@
         "ios": {
           "name": "Pause Arcade: Offline Games",
           "description": "Take a real break with twelve polished mini games in one private, offline arcade. Jump through shifting skies, build a perfect skyline, solve number and gem puzzles, follow original beats, clear bricks, test your focus, and master daily challenges. Every game has its own rules, difficulty, scoring, visual style, and saved progress. PLAY YOUR WAY - 12 handcrafted action, puzzle, rhythm, pattern, and reflex games - Daily challenges with the same seeded conditions for everyone -",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/48/65/c2486529-dcd3-cd2a-1cd6-edc6810b1e59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/9c/8f/829c8fda-a1a7-c8f2-9dc1-7a10c25e8f44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/4e/19/fb4e199b-daf6-da92-6f29-5dca6015d10e/01_beat_grid.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/37/07/3e3707e8-ea90-f1e7-497e-dd133ad91e87/02_gem_circuit.png/320x480bb.jpg",
@@ -173,7 +860,7 @@
       "id": "com-zhongaiyemaozi-cutoutkit",
       "name": "CutoutKit: Background Remover",
       "summary": "Remove or replace photo backgrounds and create clean product shots with on-device proce…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/4f/ce/fb4fce56-920d-1afc-a687-77677ed17419/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/01/277a011c-411b-87ed-40c4-48f8691ada81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:50:53Z",
       "platforms": [
         "ios"
@@ -185,7 +872,7 @@
         "ios": {
           "name": "CutoutKit: Background Remover",
           "description": "Remove or replace photo backgrounds and create clean product shots with on-device processing. Photos are not uploaded, and the core workflow works offline. BACKGROUND REMOVAL - One-tap cutout with edge feathering and brush touch-up - Transparent, white, colored, gradient, photo or blurred backgrounds - Product canvases with automatic margins, batch input, templates and adjustable shadow EXPORT - Watermark-free standard JPEG export for everyone - Full-resolution and transparen",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/4f/ce/fb4fce56-920d-1afc-a687-77677ed17419/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/27/7a/01/277a011c-411b-87ed-40c4-48f8691ada81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/ca/f7/37caf7ef-fb05-8e0c-b4e1-20e8db785220/01_main.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/09/6c/62096c75-a877-4a0d-4237-df435699aa08/02_product.png/320x480bb.jpg",
@@ -203,7 +890,7 @@
       "id": "com-zhongaiyemaozi-scanlite",
       "name": "ScanLite: Scanner and OCR",
       "summary": "Turn paper documents, receipts, IDs and book pages into clean PDFs. Recognize text on d…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/29/4b/41294b46-d853-c136-d021-ef7daa94e89d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/88/cb3a88f6-d69e-6859-7ff5-41494a4fb5a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:47:26Z",
       "platforms": [
         "ios"
@@ -215,7 +902,7 @@
         "ios": {
           "name": "ScanLite: Scanner and OCR",
           "description": "Turn paper documents, receipts, IDs and book pages into clean PDFs. Recognize text on device, organize scans and export without a watermark. FEATURES - Multi-page capture with Apple’s document camera or image import - Grayscale, black-and-white and ink-saver enhancement - On-device OCR in 12 languages, including Chinese, English, Japanese, Korean and major European languages - Searchable PDF, text and image export - Titles, folders, tags, sorting and OCR text search - PDF mer",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/29/4b/41294b46-d853-c136-d021-ef7daa94e89d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/3a/88/cb3a88f6-d69e-6859-7ff5-41494a4fb5a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/82/a5/e382a5a2-c46b-d78e-7de9-d5d6e1346eac/01_main.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/f4/a0/59f4a0e8-725a-abc1-3321-ad2a0e677b9b/02_ocr.png/320x480bb.jpg",
@@ -233,7 +920,7 @@
       "id": "com-zhongaiyemaozi-coverforge",
       "name": "CoverForge: Thumbnail Maker",
       "summary": "Make scroll-stopping covers, thumbnails, and clean product photos in 3 steps: import a…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f7/40/91f740a3-f974-ce82-f309-ff1ce3b7ed0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/89/67/c78967b1-f09a-84c6-82e2-fd43c81da0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:45:58Z",
       "platforms": [
         "ios"
@@ -245,7 +932,7 @@
         "ios": {
           "name": "CoverForge: Thumbnail Maker",
           "description": "Make scroll-stopping covers, thumbnails, and clean product photos in 3 steps: import a photo, pick a size, and export. CoverForge is a focused on-device editor for creators, social sellers, and online shops. FEATURES - Presets for vertical, square, landscape, social, marketplace, and custom sizes - Crop, padding, scale, positioning, blur, white, solid, and gradient backgrounds - Title and subtitle styling with outlines, shadows, glow, and poster effects - On-device subject cu",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/f7/40/91f740a3-f974-ce82-f309-ff1ce3b7ed0f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/89/67/c78967b1-f09a-84c6-82e2-fd43c81da0e9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/e2/b6/ffe2b6dc-f5ac-0750-e9be-a5edd90444ac/01_main.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/06/a0/b006a0cf-ba0c-d531-78a8-bfbb36df96be/02_text.png/320x480bb.jpg",
@@ -263,7 +950,7 @@
       "id": "com-d7w87bycpk-skillforge",
       "name": "SkillForge - Agent Skills",
       "summary": "SkillForge is a native, privacy-first app for discovering and managing open-source Agen…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/8f/8e/478f8eab-114b-0ea3-711f-0d131261e91a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/24/f3/5724f3e3-9672-a020-6471-12494bc6f77f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:45:31Z",
       "platforms": [
         "ios"
@@ -275,7 +962,7 @@
         "ios": {
           "name": "SkillForge - Agent Skills",
           "description": "SkillForge is a native, privacy-first app for discovering and managing open-source Agent Skills — reusable SKILL.md building blocks for AI coding agents. Updated for iOS 27.0 and macOS 27.0. Works with Claude Code, Codex, Cursor, Copilot and Gemini CLI. BROWSE BY PROFESSION • Jump straight to skills for frontend, backend, mobile, data, design, product, marketing, writing, security, legal, finance, office work and more. • Or browse by category: documents, development, creative",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/8f/8e/478f8eab-114b-0ea3-711f-0d131261e91a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/24/f3/5724f3e3-9672-a020-6471-12494bc6f77f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/76/d7/c276d758-202e-5f74-5dba-4251156670b2/iphone-01-browse.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/b5/0e/a8b50e3e-0301-8867-ea1d-cbefec4a5e7d/iphone-02-facet.png/320x480bb.jpg",
@@ -293,7 +980,7 @@
       "id": "com-sparksapp-couplegames",
       "name": "Sparks: Couple Games",
       "summary": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/b1/ce/cfb1ceac-9eaa-8dde-0db4-26bce751910c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/10/e0/1d10e051-1d84-1344-0c97-72282e697564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:45:30Z",
       "platforms": [
         "ios"
@@ -305,7 +992,7 @@
         "ios": {
           "name": "Sparks: Couple Games",
           "description": "Sparks is a playful game app made just for couples. No account, no sign-up — pair with your partner using a single 6-digit code, and everything syncs in real time across both phones via iCloud. Perfect for date nights AND long-distance relationships. Whether you just got together or have been side by side for years, Sparks helps you spark new conversations, create little surprises, and understand each other better the more you play. WAYS TO PLAY — AND GROWING Truth or Dare Th",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/b1/ce/cfb1ceac-9eaa-8dde-0db4-26bce751910c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/10/e0/1d10e051-1d84-1344-0c97-72282e697564/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/3b/a1/5b3ba160-5304-d38c-c841-bc5863e54a49/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-06-29_at_15.52.40_iPhone_1242x2688.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/5c/8a/e15c8a7c-1fdf-ab85-a6f1-d74a606aab1e/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-06-29_at_15.52.32_iPhone_1242x2688.png/320x480bb.jpg",
@@ -323,7 +1010,7 @@
       "id": "com-zhongaiyemaozi-habitpulse",
       "name": "HabitPulse: Habit Tracker",
       "summary": "Build better habits with streaks, and turn your sleep, steps, heart rate, and activity…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/53/87/b6538778-637e-cce1-ebcb-4071f0b03f5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/92/54/3a9254b2-e2bc-4493-cd9f-a970f98af13a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:44:50Z",
       "platforms": [
         "ios"
@@ -335,7 +1022,7 @@
         "ios": {
           "name": "HabitPulse: Habit Tracker",
           "description": "Build better habits with streaks, and turn your sleep, steps, heart rate, and activity into a clear weekly report. HabitPulse helps you check in, review patterns, and keep your routine visible. Processing stays on your devices and in your private iCloud. One-time purchase. No subscription. FEATURES - Habit check-ins with streaks, flexible schedules, count goals, reminders, and groups - Calendar heatmap, month view, backfill, moods, and notes - Read-only Apple Health cards for",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b6/53/87/b6538778-637e-cce1-ebcb-4071f0b03f5b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/92/54/3a9254b2-e2bc-4493-cd9f-a970f98af13a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/5a/db/6d5adb2d-33a4-e568-afe3-c4ab42629d90/01_today.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/37/ff/7237ff9d-beed-9fb4-e771-b42414206bb8/02_report.png/320x480bb.jpg",
@@ -353,7 +1040,7 @@
       "id": "com-apptool-woodenfish",
       "name": "禅音木鱼-解压放松专注神器",
       "summary": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/d2/1b/ccd21b28-3772-4045-c5f9-e01279d1fba7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/1c/82/e81c829c-d2e7-0fb3-aa42-fffd27ded078/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T14:44:27Z",
       "platforms": [
         "ios",
@@ -367,7 +1054,7 @@
         "ios": {
           "name": "禅音木鱼-解压放松专注神器",
           "description": "烦躁、焦虑、停不下来的时候，敲一敲木鱼，把杂念敲走。 禅音木鱼是一款为解压、专注与日常静心设计的轻量木鱼。轻敲屏幕中央的木鱼，立刻获得清脆音效与轻柔震动反馈；想安静入睡时，打开白噪音音色，让节律带你慢下来。界面安静、克制、有高级感，每一次轻敲都更有仪式感。 - 真实木鱼音色，低延迟、可连击，敲起来就上瘾 - 1/3/5 分钟快速练习，打开就能开始一小段 - 多种木鱼样式、音色与节奏，自由切换主题与显示语言 - 自动模式保持稳定节奏，专注、冥想、念诵都合适 - 白噪音 / 助眠场景，睡前安静收心 - 单次、今日、累计计数，随时看见自己的坚持 - 连续打卡与 7 日趋势，把习惯变得看得见 - 支持 Apple Watch 与锁屏小组件，随手就能敲 - 可分享到 iMessage，和朋友一起积功德 核心木鱼体验永久免费。当你想要更深入的练习，可一次性买断解锁 Pro：高级每日目标（500 / 1000）与 10–99999 的自定义目标次数，付费只服务于需要更多控制的用户，绝不影响免费体验。 无论是工作间隙解压、睡前助眠，还是每日静心功课，禅音木鱼都陪",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/d2/1b/ccd21b28-3772-4045-c5f9-e01279d1fba7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/1c/82/e81c829c-d2e7-0fb3-aa42-fffd27ded078/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fd/8d/da/fd8dda6d-ba14-6b57-b1cb-f470f26ba412/01_practice.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/c9/0c/51c90cc8-8ae5-dfae-1ba9-9282b45439db/02_library.png/320x480bb.jpg",
@@ -395,40 +1082,10 @@
       }
     },
     {
-      "id": "com-falconmenu-app",
-      "name": "FalconMenu Quick",
-      "summary": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6f/78/1e6f7898-6a96-8d08-dbd0-ed8452986cd9/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
-      "updatedAt": "2026-09-17T08:48:07Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/falconmenu-%E5%8F%B3%E9%94%AE%E5%8A%A9%E6%89%8B/id6768915910?mt=12&uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "FalconMenu Quick",
-          "description": "FalconMenu 为 Finder 增加实用的右键工具箱，让常见文件操作少走几步。 你可以从 Finder 右键菜单中新建文件和文件夹，复制路径、文件 URL 和文件名，用常用应用打开所选项目，在当前位置打开终端，管理常用文件夹，批量重命名，压缩或解压 ZIP 文件，并使用本地图片与文件效率工具。 主要功能： - 为日常文件操作设计的 Finder 右键菜单。 - 新建文件夹、空白文件和模板文件。 - 复制路径、POSIX 路径、文件 URL、文件名和 Shell 转义路径。 - 使用兼容应用或收藏应用打开所选文件。 - 在当前 Finder 位置打开终端。 - 管理常用文件夹，快速打开、复制到或移动到。 - 支持带预览思路的批量重命名流程。 - 本地转换图片并生成图标资源。 - 压缩和解压 ZIP 文件。 - 在设置中提供 Finder 扩展、沙盒和文件夹访问引导。 FalconMenu 在 Mac 本地运行，不需要账号、服务器或网络自动化。文件操作由用户主动触发，遵循沙盒访问规则，并保持 Finder 菜单生成快速响应。",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/6f/78/1e6f7898-6a96-8d08-dbd0-ed8452986cd9/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/7c/37/c27c3744-1226-909b-f631-08d93ca5f30b/FalconMenu_zh-Hans_01_2880x1800.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/92/7b/12927b08-9055-b9ec-39eb-85c9326d364e/FalconMenu_zh-Hans_05_2880x1800.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/30/89/e8308974-49cc-04e2-94d3-5db60be31ae3/FalconMenu_zh-Hans_04_2880x1800.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/e9/a0/f7e9a01e-2379-d845-bc92-6435e523dcce/FalconMenu_zh-Hans_03_2880x1800.png/800x500bb.jpg"
-          ],
-          "appleId": "6768915910",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
       "id": "com-zhongaiyemaozi-imagebatch",
       "name": "ImageBatch: Resize & Compress",
       "summary": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/f1/21/3ef121b1-ea4a-3f32-6993-0d52f119531d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/2f/12/e72f12ec-6575-bfa6-00fe-12a9c45cea07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "updatedAt": "2026-09-17T05:46:36Z",
       "platforms": [
         "ios"
@@ -440,7 +1097,7 @@
         "ios": {
           "name": "ImageBatch: Resize & Compress",
           "description": "Process a whole stack of photos at once: batch compress, resize, convert formats, strip private metadata, and rename. Everything runs on your device — nothing uploaded. One-time purchase. Yours forever. No subscription. FEATURES - Batch compress by quality, target file size, or longest-edge pixels - Quick setups for email, web upload, and private sharing - Batch resize by pixels / percent / common presets, keeping aspect ratio - Convert to JPEG / PNG / HEIC / GIF / BMP - One-",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3e/f1/21/3ef121b1-ea4a-3f32-6993-0d52f119531d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/2f/12/e72f12ec-6575-bfa6-00fe-12a9c45cea07/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
           "screenshots": [
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/43/19/56/43195606-b603-d87f-cb7a-49b5547ffef2/01_main.png/320x480bb.jpg",
             "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/bf/07/93bf077c-3b68-a16f-2b91-30dd6fef95eb/02_operations.png/320x480bb.jpg",
@@ -449,361 +1106,6 @@
           ],
           "appleId": "6782480697",
           "storeCountry": "us",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-zhongaiyemaozi-marbleparlor",
-      "name": "WallMark: AR Wall Planner",
-      "summary": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/16/7a/6d167ac3-2ded-2d3b-8e13-91f3c7680c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-17T01:25:39Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/wallmark-ar-wall-planner/id6790336494?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "WallMark: AR Wall Planner",
-          "description": "Plan rooms and walls with AR. Measure reference distances, mark drill and installation points, attach wall photos, create rule-based planning insights, and export PDF reports. FEATURES - AR wall measurement and reference markers - Drill, TV, shelf, curtain, and custom points - Drill planning checklists - RoomPlan scanning on supported LiDAR devices, with manual fallback - Rule-based room insights and risk summaries processed on device - Projects, rooms, walls, photos, and his",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/16/7a/6d167ac3-2ded-2d3b-8e13-91f3c7680c57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/c4/2c/e0c42c26-da65-0453-66e7-5f668156b411/01_home.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/6e/5c/9f6e5c00-478a-7ebf-7641-954cf9647121/03_marker.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/5c/f5/2d5cf568-0369-4369-491f-504da41bd81f/05_ai.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/b2/d3/ebb2d39b-bdb0-5ccc-ec22-f04b18a12e36/04_scan.png/320x480bb.jpg"
-          ],
-          "appleId": "6790336494",
-          "storeCountry": "us",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-sjgjuhui-app",
-      "name": "情侣游戏Pro",
-      "summary": "一款专为情侣设计的互动游戏合集。 探索情侣感情升温的快速通道",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/0c/c9/610cc90e-5a68-a8e3-f456-a5e1dcc17c08/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T21:25:14Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/%E6%83%85%E4%BE%A3%E6%B8%B8%E6%88%8Fpro/id6762446813?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "情侣游戏Pro",
-          "description": "一款专为情侣设计的互动游戏合集。 探索情侣感情升温的快速通道",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/0c/c9/610cc90e-5a68-a8e3-f456-a5e1dcc17c08/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/c9/6f/6bc96f3b-8cd9-b59f-8cc5-f26bcdedf846/appstore-promo-01-_U7834_U51b0_U5230_U6df1_U5165_U4ea4_U6d41.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0b/35/33/0b353308-d337-72b4-18dc-d1850ded3e73/appstore-promo-02-_U9690_U79d8_U5e7b_U60f3.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/39/55/b53955fc-3c5e-7708-7472-1b86c26d0592/appstore-promo-03-_U771f_U5fc3_U8bdd_U5927_U5192_U9669.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/99/22/6999226e-e5f0-9173-21a8-aed4d52da63f/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-15_at_17.24.52.png/320x480bb.jpg"
-          ],
-          "appleId": "6762446813",
-          "storeCountry": "us",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-zhongaiyemaozi-webclean",
-      "name": "WebClean: Ad Blocker and Dark",
-      "summary": "Make Safari feel clean. WebClean uses Safari's content-blocking and extension APIs to r…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/91/df/8891dfa3-a85d-655d-43dd-6a319c194678/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T15:40:29Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/us/app/webclean-ad-blocker-and-dark/id6782481453?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "WebClean: Ad Blocker and Dark",
-          "description": "Make Safari feel clean. WebClean uses Safari's content-blocking and extension APIs to reduce known ads and trackers, hide selected page annoyances, and add dark or eye-care styles without routing your traffic through a server. One-time purchase. No subscription. FEATURES - Local Safari rules for known ad and tracker domains - Optional cleanup for pop-ups, cookie banners, and open-in-app prompts - Dark mode for websites - Separate per-site exceptions for blocking and website s",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/91/df/8891dfa3-a85d-655d-43dd-6a319c194678/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/21/53/92215377-61e2-b982-58d8-0e1b362cf0bd/01_console.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/07/17/4b0717b5-2001-81f0-f0ff-fd8aea430a6c/02_stats.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/4b/68/4a4b6894-d842-04a2-3a03-303f892be24a/03_sites.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/63/e1/6c63e187-c906-900f-33b4-28cffc606353/04_paywall.png/320x480bb.jpg"
-          ],
-          "appleId": "6782481453",
-          "storeCountry": "us",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-sycmarkdown-app",
-      "name": "MDQuill Markdown编辑器",
-      "summary": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e6/55/80e65531-cc77-060e-7b14-7880b3e1214e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T13:36:57Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/mdquill-markdown%E7%BC%96%E8%BE%91%E5%99%A8/id6762508307?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917603630742734228"
-      },
-      "listings": {
-        "ios": {
-          "name": "MDQuill Markdown编辑器",
-          "description": "MDQuill Studio 是为 iPhone、iPad 和 Mac 打造的本地 Markdown 写作工具。打开 .md、.markdown 或 .txt 文件后即可查看清爽预览，也可以随时切回编辑，继续整理笔记、文档、清单、技术说明和个人知识库。 为什么选择 MDQuill Studio？ • 本地优先：文档保存在你的设备上，不强制注册账号，不把写作内容上传到服务器。 • 打开即预览：从 Files、分享菜单或其他 App 打开 Markdown 文件，先进入预览页面，阅读确认后再切回编辑。 • 原生编辑体验：支持 Markdown 常用语法、工具栏快捷插入、查找替换、大纲导航和最近文档管理。 • 实时预览：标题、列表、引用、代码块、表格、任务列表、链接和图片都能清楚呈现。 • 多设备体验：iPhone 轻量记录，iPad 分栏写作，Mac 使用桌面窗口和文档工作流。 • 导出分享：可导出 Markdown、TXT、HTML 和 PDF，适合归档、打印、邮件发送和跨平台分享。 • 模板与工作流：使用内置模板快速开始，也可以保存自己的常用结构",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/e6/55/80e65531-cc77-060e-7b14-7880b3e1214e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/8a/8c/be8a8c03-006c-b30f-a282-fd0bfd18523c/01_home.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/fb/49/52fb4955-0393-8c75-1745-362101d7f243/02_editor.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/a5/b1/0aa5b16c-0950-94f7-858f-eda9fb22d715/03_preview.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/58/c5/1f58c594-af9d-13a4-c20b-f28e89ff6cb1/04_templates.png/320x480bb.jpg"
-          ],
-          "appleId": "6762508307",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        },
-        "harmony": {
-          "name": "MDQuill Studio",
-          "description": "MDQuill Studio 是一款面向写作、笔记、技术文档和 Markdown 学习的本地编辑器。应用支持文档管理、Markdown 编辑、实时预览和多格式导出，适合在手机、平板和二合一设备上整理灵感、草稿、会议纪要和技术笔记。 核心功能： 新建、导入、保存、重命名、删除 Markdown/TXT 文档 Markdown 快捷工具栏、自动配对、列表续行和模板新建 实时预览，支持标题、列表、任务列表、表格、代码块等常用语法 手机/平板/二合一自适应布局，支持编辑、预览和分栏 导出 MD、TXT、HTML、PDF 最近列表、收藏、集合、导出历史和清缓存 无账号体系，文档默认保存在本地",
-          "icon": "./media/com-sycmarkdown-app/harmony/icon.jpg?v=5bf8644dc0",
-          "screenshots": [
-            "./media/com-sycmarkdown-app/harmony/shot-0.jpg?v=6ba7dbb6ef",
-            "./media/com-sycmarkdown-app/harmony/shot-1.jpg?v=d7ba3a098b",
-            "./media/com-sycmarkdown-app/harmony/shot-2.jpg?v=418421a445",
-            "./media/com-sycmarkdown-app/harmony/shot-3.jpg?v=90447ceaaa"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-idphotomaker-app",
-      "name": "证件照大师-免冠寸照签证照制作换底色",
-      "summary": "证件照大师是一款在 iPhone 和 iPad 本地处理照片的证件照工具。无需注册登录或上传照片，从拍摄、相册导入到人像抠图、换底、构图、保存与分享都可在设备上完成。 核心功…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/e6/4a/9de64a1c-d0e7-e132-2365-e1393d07fa08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T13:36:04Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E8%AF%81%E4%BB%B6%E7%85%A7%E5%A4%A7%E5%B8%88-%E5%85%8D%E5%86%A0%E5%AF%B8%E7%85%A7%E7%AD%BE%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E6%8D%A2%E5%BA%95%E8%89%B2/id6761751168?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "证件照大师-免冠寸照签证照制作换底色",
-          "description": "证件照大师是一款在 iPhone 和 iPad 本地处理照片的证件照工具。无需注册登录或上传照片，从拍摄、相册导入到人像抠图、换底、构图、保存与分享都可在设备上完成。 核心功能 • 拍摄或从相册导入照片 • 本地人像抠图与自动构图 • 白、蓝、红等常用背景色 • 一寸、二寸、考试报名、学籍、简历、护照和签证等常见规格 • 拖动、缩放、旋转与精细调整 • 自定义规格、本地历史、收藏与筛选 • iPhone 与 iPad 适配 免费版可完整制作、保存和分享单张证件照。 证件照大师 Pro 为一次性买断，不含订阅，可解锁批量制作、打印排版、高级导出、自定义背景、专业规格、更多历史管理及本地资料备份恢复。 隐私 照片在设备上处理，不用于训练或广告画像。详细说明见应用内隐私政策。 提示 不同机构的要求可能变化，请在提交前核对对方公布的最新尺寸、背景与构图要求。本应用不承诺官方审核结果。 支持与反馈：QQ 群 605016458",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/e6/4a/9de64a1c-d0e7-e132-2365-e1393d07fa08/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/75/e1/7a75e147-1cf6-1ec3-53f5-2f35c2c3e03e/01-workbench.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4d/4c/1e/4d4c1e85-94da-e786-fc8e-9e25019b28af/02-specs.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/5b/8e/155b8e17-512f-106b-25bd-4c2a3fe74c60/03-editor.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/35/f7/2435f7e7-e513-e23e-a4da-7071cf693139/04-result.png/320x480bb.jpg"
-          ],
-          "appleId": "6761751168",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-diesfaustussyc-app",
-      "name": "吉日历-老黄历万年历·黄道吉日",
-      "summary": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b5/aa/a2b5aa6f-d320-52b2-07c8-bcf0c27a8274/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T13:35:40Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E5%90%89%E6%97%A5%E5%8E%86-%E8%80%81%E9%BB%84%E5%8E%86%E4%B8%87%E5%B9%B4%E5%8E%86-%E9%BB%84%E9%81%93%E5%90%89%E6%97%A5/id6762102654?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917615385927294203"
-      },
-      "listings": {
-        "ios": {
-          "name": "吉日历-老黄历万年历·黄道吉日",
-          "description": "吉日历，一查就准的老黄历。 结婚领证、搬家入宅、开业签约、提车出行——人生大事都想挑个好日子。吉日历把传统老黄历做成了现代人顺手好用的工具：打开就是今日宜忌，三秒看懂今天适不适合办事。 【今日黄历】 · 公历、农历、干支、生肖、星座一屏看全 · 今日宜忌大字呈现，吉神凶神、冲煞、五行、纳音、值神、胎神、彭祖百忌等传统字段完整可查 · 时辰吉凶实时更新，当前时辰吉凶随手可见 · 今日综合评分一眼看清，宜动还是宜静不用猜 【黄道吉日·择吉】 · 选好事项（嫁娶、搬迁、开市、动土、出行等17类），自动从日期范围内筛出好日子 · 每个推荐日附评分与理由，点开即看完整黄历详情 · Pro 支持一年内任意范围与高级过滤（避开周末、仅看优选） · Pro 全年吉日分布：一屏看清哪个月好日子最多，提前定档 【万年历·月历】 · 农历、节气、法定节假日、传统节日直观标注 · 任意日期点开即查宜忌，长按快速添加日程 【吉日倒数与提醒】 · 收藏心仪吉日，自动倒数还有几天 · 日程、待办、生日、纪念日提醒，支持每天/每周/每月/每年与农历每年重复 · 农历生日提醒：按",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/b5/aa/a2b5aa6f-d320-52b2-07c8-bcf0c27a8274/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/bb/73/87bb73e3-6316-1e29-7eee-2d575f1fce43/01_today.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/25/b6/8825b6b8-f984-134d-810f-6a26c6f145cb/02_calendar.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/e4/0f/ffe40f3d-4420-e09b-3137-da7864815ef2/03_selection.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f7/64/8c/f7648c0c-4d97-3822-eefe-ee0bc147c0b8/04_year.png/320x480bb.jpg"
-          ],
-          "appleId": "6762102654",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        },
-        "harmony": {
-          "name": "吉日历",
-          "description": "",
-          "icon": null,
-          "screenshots": [],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-leafread",
-      "name": "青页小说阅读器·TXT/EPUB/MD",
-      "summary": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/10/65/0e1065f5-40fc-99ad-e9aa-4c0eeaa7305c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-16T13:33:27Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E9%9D%92%E9%A1%B5%E5%B0%8F%E8%AF%B4%E9%98%85%E8%AF%BB%E5%99%A8-txt-epub-md/id6767811417?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611665788662118"
-      },
-      "listings": {
-        "ios": {
-          "name": "青页小说阅读器·TXT/EPUB/MD",
-          "description": "青页小说阅读器是一款专注、纯净的本地阅读器，把你收藏的电子书变成舒适的阅读体验。无需联网、无广告打扰，导入文件即可随时随地畅读。 【支持多种格式】 • TXT 纯文本，自动识别编码，海量长篇也能秒开 • EPUB 电子书，保留章节目录与排版 • Markdown（.md）文档，按标题自动分章 【听书朗读】 • 内置语音朗读，自动选择合适的声音，解放双眼 • 可调节朗读语速，支持定时停止，睡前听书不费电 • 朗读时同步高亮当前语句，并自动翻页 【沉浸阅读】 • 多种翻页方式：仿真、滑动、上下滚动、淡入等（部分为 Pro） • 日间 / 夜间 / 护眼多主题，可调亮度，长时间阅读更护眼 • 丰富字体与字号、行间距、段间距、页边距自由调整 • iPad 支持双栏阅读，平板大屏更高效 【贴心功能】 • 自动记忆阅读进度，随时续读，绝不丢页 • 章节目录快速跳转，全文搜索定位 • 书签收藏、文字高亮与笔记标注（分类与导出为 Pro） • 阅读时长与字数统计，量化你的阅读习惯 • 桌面小组件，一眼看到正在读的书与进度 【隐私优先】 • 完全离线，书籍只存在你",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/10/65/0e1065f5-40fc-99ad-e9aa-4c0eeaa7305c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/61/31/e66131d0-d7f9-818e-434d-ee95aa7afee4/01_shelf.jpg/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/f1/1f/12f11fab-f7b0-01c6-e1d0-ef5632ad6c2e/02_reader.jpg/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/6f/6f/b06f6f27-4da7-f647-87d9-2f168e045220/03_toc.jpg/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/a6/05/cca6056b-e7d3-b240-26d6-baee031165f9/04_reading_settings.jpg/320x480bb.jpg"
-          ],
-          "appleId": "6767811417",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        },
-        "harmony": {
-          "name": "青页",
-          "description": "青页是一款简洁、私密的本机小说与文档阅读器。通过系统文件选择器导入 TXT、EPUB 或 Markdown，阅读进度与统计保存在本机。 主要能力：EPUB 解包并提取 XHTML 正文；书架列表或网格及三种排序；书籍详情、续读和重命名；目录、搜索、书签和进度；系统朗读与自动阅读；9 套主题、上下滚动、左右滑动、直接切换与阅读亮度；阅读统计、无登录备份、文件管理、缓存清理与设置重置。 青页不接入在线书源、下载站或爬虫，不含广告、行为追踪、强制登录、订阅或购买界面。",
-          "icon": "./media/com-apptool-leafread/harmony/icon.jpg?v=9ca03ef5ba",
-          "screenshots": [
-            "./media/com-apptool-leafread/harmony/shot-0.jpg?v=955fcebb8a",
-            "./media/com-apptool-leafread/harmony/shot-1.jpg?v=4e5771cfcb",
-            "./media/com-apptool-leafread/harmony/shot-2.jpg?v=f5b2bdfde1",
-            "./media/com-apptool-leafread/harmony/shot-3.jpg?v=02addcb0a7"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "siyecao-huaguang",
-      "name": "Blow a Trillion",
-      "summary": "给你一万亿，你打算怎么花？ 花光一万亿是一款荒诞消费模拟器。你的唯一任务很简单：把一笔不可能花完的巨款，用最离谱的方式挥霍掉。 用最土豪的方式买最日常的东西。租你根本不需要的…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ef/60/7aef60f0-e928-79c3-e0b3-aa00b7278593/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-14T21:31:33Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E8%8A%B1%E5%85%89%E4%B8%80%E4%B8%87%E4%BA%BF-%E8%8A%B1%E5%85%89%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B4%A2%E5%AF%8C/id6789487448?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "Blow a Trillion",
-          "description": "给你一万亿，你打算怎么花？ 花光一万亿是一款荒诞消费模拟器。你的唯一任务很简单：把一笔不可能花完的巨款，用最离谱的方式挥霍掉。 用最土豪的方式买最日常的东西。租你根本不需要的房子。收藏可能永远用不上的奢侈品。给奇怪的创业项目砸钱。把普通生活升级成亿万富翁式的胡闹。如果你想象力不够，应用会很乐意帮你把事情搞得更糟。 这不是真实购物应用。不会花掉任何真钱。每一笔订单都是虚构的，每一个故事都是为了让「浪费假钱」这件事变得异常爽快。 功能： • 花掉虚构的一万亿余额 • 在不同挥霍世界里浏览荒诞商品 • 随着财富消失解锁成就 • 完成每日挥霍挑战 • 看余额上涨、下跌、然后失控 • 分享离谱的订单故事 • 探索破产式暴富、小心眼复仇、科技泡沫、军事玩具和行星级胡闹等内容包 乐趣不只是买贵的东西。 真正好玩的是：暴富之后，你会发现自己的梦想小得令人尴尬。 你能把这一万亿全部花光吗？ 还是会被旧习惯、假装有的理财纪律，以及可疑的正常品味拖后腿？ 下载花光一万亿，开始浪费你绝对没有的钱。",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/ef/60/7aef60f0-e928-79c3-e0b3-aa00b7278593/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e4/4d/8a/e44d8af5-0219-b08b-358d-612f8b37f3e8/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-14_at_17.22.33.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/06/f4/4106f4cf-6941-90c1-d261-6522d3bed3f1/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-14_at_17.22.41.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/6a/35/396a35df-0d75-c21d-1e55-e093b9bbf979/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-14_at_17.24.27.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/b7/f4/aab7f4bf-c196-da04-885d-f9f48a1465ac/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-09-14_at_17.24.36.png/320x480bb.jpg"
-          ],
-          "appleId": "6789487448",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-countday",
-      "name": "盼日·纪念日倒计时",
-      "summary": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/fa/f0/6ffaf0a4-c55b-8b2d-70b4-b569d32986e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-14T13:24:06Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E7%9B%BC%E6%97%A5-%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6/id6761182380?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611667880659579"
-      },
-      "listings": {
-        "ios": {
-          "name": "盼日·纪念日倒计时",
-          "description": "「盼日 · 纪念日倒计时」帮你记录并守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日、宝宝出生、发薪日还剩几天？一屏看清，再也不会错过。 【为什么选择我们】 • 倒计 + 正数双模式：未来的日子帮你倒计时，过去的日子帮你数着过（在一起 365 天）。 • 桌面小组件：多种尺寸小组件，重要日子直接显示在主屏幕，一眼可见。 • Apple Watch：抬腕即可查看最近的倒计时，重要日子随身带。 【强大好用的功能】 • 重复提醒：生日、纪念日支持每月 / 每年自动循环，永远不会算错日子。 • 分类与笔记本：恋爱、生日、节日、学习、工作、生活随心归类，清爽不乱。 • 日记与照片：为每个日子写下心情、贴上照片，留住值得纪念的瞬间。 • 通知提醒：临近重要日子自动提醒，按你的节奏推送。 • iCloud 同步：登录 Apple 账户即可把数据安全同步到 iCloud，换机不丢失。 • 本地优先 & 备份导出：游客模式数据存本机，支持一键导入 / 导出备份。 【适合这些场景】 恋爱纪念日、结婚周年、宝宝生日、生日倒计时、考试倒计时",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/fa/f0/6ffaf0a4-c55b-8b2d-70b4-b569d32986e7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/15/4c/dc/154cdc7e-2257-3c7f-e2aa-fc8ff71c10e9/7e03d895a2b586b288fdd25f83841491.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/a5/c9/3ca5c9fd-0785-fbd0-6660-4135cf4ebcac/33b0238c5efe5c26374ba478cfb2188a.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/83/19/048319f4-06f3-ffae-5739-13ae9be86a9b/a6121858c0b19d62a7b01db1864dec0d.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/a4/56/25a456df-8aa4-86dd-141e-66bbb8f8b066/fb6d321de519791079697d74db4c63e6.png/320x480bb.jpg"
-          ],
-          "appleId": "6761182380",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        },
-        "harmony": {
-          "name": "盼日",
-          "description": "盼日帮你守护生活里每一个重要日子——还有多少天到生日？在一起多少天了？距离考试、纪念日还剩几天？ 核心功能： 倒计 + 正数双模式，一屏看清还剩几天 / 已过几天 公历 / 农历目标日；单次 / 每月 / 每年重复 按需同步到系统日历，可设置当天或提前 1 / 3 / 7 天提醒 本子分类、封面图、备注与多条文本笔记 常用日子模板（六分类、搜索、大卡/双列） 本地备份导出 / 导入 / 恢复最近备份 无广告、无在线内容源、无需登录",
-          "icon": "./media/com-apptool-countday/harmony/icon.jpg?v=162cc1a0d8",
-          "screenshots": [
-            "./media/com-apptool-countday/harmony/shot-0.jpg?v=7b7d5ddc63",
-            "./media/com-apptool-countday/harmony/shot-1.jpg?v=f6b544db2b",
-            "./media/com-apptool-countday/harmony/shot-2.jpg?v=7dbd600a59",
-            "./media/com-apptool-countday/harmony/shot-3.jpg?v=ee2a172273"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "com-sycxiaoxue-app",
-      "name": "物有凭-家电保修发票管理",
-      "summary": "物有凭把家里耐用品的售后资料集中到一处。维修、退换或转交物品时，打开这一件就能取齐发票、型号、序列号和日期。 记录只保存在这台设备上。无账号，无服务器，不上传。 【建档只要一…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/bc/0c/1abc0c7e-fa6f-17db-dde0-99983f1621d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-14T01:23:55Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E7%89%A9%E6%9C%89%E5%87%AD-%E5%AE%B6%E7%94%B5%E4%BF%9D%E4%BF%AE%E5%8F%91%E7%A5%A8%E7%AE%A1%E7%90%86/id6762500286?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "物有凭-家电保修发票管理",
-          "description": "物有凭把家里耐用品的售后资料集中到一处。维修、退换或转交物品时，打开这一件就能取齐发票、型号、序列号和日期。 记录只保存在这台设备上。无账号，无服务器，不上传。 【建档只要一步】 只填名称就能保存，其余随时补。中途离开，草稿仍在。 【拍下凭证，本机识别】 拍照或导入图片与 PDF，本机识别品牌、型号、序列号、金额、购买日和保修日。识别结果是候选，你点选后才写入，绝不替你猜。 【日期看得见，提醒收得到】 退换截止、整机保修、零件保修、保养日期分别记录。即使关闭通知，提醒页仍然显示真实日期。点通知直接打开对应物品。 【找得到】 按名称、品牌、型号、序列号、位置搜索；按分类、状态、日期筛选。 【一件一条时间线】 安装、保养、维修、换件逐条记录。修改服务记录不会改动购买信息。 【资料包，交出去之前先遮住】 生成单件资料包时，金额、完整序列号、商家和备注默认不包含。需要附上原件时，可逐张手工遮盖，遮盖是整页重新栅格化，不是画个黑框留着底层文字。 【数据带得走】 全量备份与恢复，另可导出原始 CSV。备份恢复永远免费。 【可选应用锁】 用面容或设备密码锁住记",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1a/bc/0c/1abc0c7e-fa6f-17db-dde0-99983f1621d4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/1e/47/c81e4709-a325-5645-f348-d132bdced4de/01-library.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/85/99/b7859907-8d44-96d4-6bda-f2195e64dd79/02-details.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/03/bb/e703bbd2-596e-1af9-6a68-74f86e74bc2b/03-service-history.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/70/64/9a7064f3-5530-f540-2058-8958b5c7e563/04-document-pack.png/320x480bb.jpg"
-          ],
-          "appleId": "6762500286",
-          "storeCountry": "cn",
           "source": "App Store",
           "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
         }
@@ -836,169 +1138,6 @@
           "storeCountry": "cn",
           "source": "App Store",
           "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-focuslist",
-      "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
-      "summary": "【日签打卡 FocusList — 待办、打卡、专注，一个 App 全搞定】 日签打卡把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/95/81/cf9581ff-dbec-b51c-67db-efd85f5fbfb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-09-06T00:35:11Z",
-      "platforms": [
-        "ios",
-        "harmony"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E6%97%A5%E7%AD%BE%E6%89%93%E5%8D%A1-%E5%BE%85%E5%8A%9E%E6%89%93%E5%8D%A1%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E7%95%AA%E8%8C%84%E9%92%9F%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%97%A5%E7%A8%8B/id6760835368?uo=4",
-        "harmony": "https://appgallery.huawei.com/app/C6917611318297759728"
-      },
-      "listings": {
-        "ios": {
-          "name": "日签打卡-待办打卡习惯养成番茄钟时间管理日程",
-          "description": "【日签打卡 FocusList — 待办、打卡、专注，一个 App 全搞定】 日签打卡把「待办清单 + 习惯打卡 + 专注番茄钟 + 数据统计」融为一体，帮你把每天的计划、专注与自律都安排得明明白白。界面简洁清爽，上手零门槛，越用越高效。 ■ 待办清单 & 任务管理 · 快速记录待办事项，设置优先级、截止日期与提醒 · 按日 / 周 / 月查看日程，合理规划时间 · 完成即打勾，清空清单的成就感拉满 ■ 习惯养成 & 每日打卡 · 自定义习惯，灵活设置打卡频率与提醒时间 · 连续打卡天数（Streak）一目了然，坚持更有动力 · 喝水、早睡、运动、学习、阅读……养成好习惯，告别拖延 ■ 专注番茄钟 & 计时器 · 内置番茄工作法计时器，专注与休息自由切换 · 倒计时 + 专注统计，培养深度专注力 · 学习、工作、写作，进入心流不被打扰 ■ 数据统计 & 可视化 · 打卡日历、完成率、专注时长全方位统计 · 趋势图表清晰呈现你的成长轨迹 · 支持导出图片，记录与分享你的坚持 ■ 多端同步 & 贴心体验 · iCloud 多设备自动同步，换机不丢数据",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/95/81/cf9581ff-dbec-b51c-67db-efd85f5fbfb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/f4/84/05f48449-bbb3-772e-6bab-373b0f42556e/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-03_at_09.38.56.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/59/7b/2f/597b2f0b-2947-b300-5570-065044f26269/Simulator_Screenshot_-_iPhone_17_Pro_-_2026-04-03_at_09.39.00.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/9d/0b/6f9d0ba9-d27c-37c4-d8c1-6e932c2ee64c/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-03-30_at_16.07.54.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/16/a3/d316a39e-a064-2820-8844-cfe6dccebcfb/Simulator_Screenshot_-_iPhone_17_Pro_Max_-_2026-03-30_at_16.08.03.png/320x480bb.jpg"
-          ],
-          "appleId": "6760835368",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        },
-        "harmony": {
-          "name": "日签打卡",
-          "description": "专注清单是一款简洁、私密的习惯打卡与统计工具。你可以从常用模板快速开始，也可以自定义频率、周期、提醒和记录字段，在日历中补录历史打卡，并通过周、月、年视图回顾变化。 核心数据默认保存在本机，无需注册账号即可创建、打卡、统计、导入、导出和备份。需要换机时，可导出完整备份并在另一台设备恢复，全程不需要账号。 主要能力： 创建、编辑、归档、恢复和删除习惯 每天、每周和自定义星期计划，以及固定起止周期 快速打卡与详细打卡，支持备注、数值和血压字段 最多 10 个按需开启的本地提醒 日历补录、连续打卡、完成率和周/月/年统计 CSV 与兼容 Excel 的 XML 数据导入导出 本地备份、恢复与全部数据删除 无账号完整备份迁移，方便换机恢复打卡数据 步数、饮水等健康习惯的手动记录 跟随系统深浅色与多种现代主题色 专注清单不包含广告、行为追踪、强制登录或订阅，首版主题色和数据能力全部免费。",
-          "icon": "./media/com-apptool-focuslist/harmony/icon.jpg?v=edd470aab9",
-          "screenshots": [
-            "./media/com-apptool-focuslist/harmony/shot-0.jpg?v=d8a37a7d5b",
-            "./media/com-apptool-focuslist/harmony/shot-1.jpg?v=7273ddbfb5",
-            "./media/com-apptool-focuslist/harmony/shot-2.jpg?v=9de09534b9",
-            "./media/com-apptool-focuslist/harmony/shot-3.jpg?v=b1dd3b43d4"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
-        }
-      }
-    },
-    {
-      "id": "siyecao-ppttime",
-      "name": "TalkTimer-演讲计时",
-      "summary": "这是一款为「站在台上的人」设计的 macOS 计时器。它解决一个具体的问题：演讲时你需要看时间，但投影上的幻灯片不能被打断。 悬浮在演示之上的计时器 按下开始，演讲计时app…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/4d/12/d54d12a6-d3f2-5652-e893-42350ee3fa71/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
-      "updatedAt": "2026-08-31T09:07:18Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E6%BC%94%E8%AE%B2%E8%AE%A1%E6%97%B6/id6795022587?mt=12&uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "TalkTimer-演讲计时",
-          "description": "这是一款为「站在台上的人」设计的 macOS 计时器。它解决一个具体的问题：演讲时你需要看时间，但投影上的幻灯片不能被打断。 悬浮在演示之上的计时器 按下开始，演讲计时app 从设置面板切换为无边框悬浮窗，始终置顶、跟随所有 Space 和全屏应用。把它拖到幻灯片的任何角落，时间始终可见。矩形与圆形两种形态、六种配色主题，融入任何幻灯片风格。 悬停时浮现控制按钮，移开鼠标自动隐去，不遮挡内容。圆形模式可沿边缘拖拽改变大小，矩形保持完美宽高比。 四种计时模式 倒计时——经典模式，可自动循环重复。临近结束前自定义提前提醒（精确到秒），超时自动转为超时计时并醒目警示。 闹钟——支持「多久后提醒」或「指定时刻提醒」两种方式。触发时弹出置顶提醒窗口并播放提示音，可一键「稍后提醒」按 1–30 分钟间隔重复，直到你确认为止。 多人轮讲——为每位演讲者计时，时间到自动切换下一位。支持自定义姓名名单，轮流发言、辩论赛、圆桌分享的理想工具。 分阶段流程——把演讲拆成多个阶段（如演讲 10 分钟 → 问答 5 分钟 → 休息 2 分钟），每阶段可有独立的时长与提醒阈",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/4d/12/d54d12a6-d3f2-5652-e893-42350ee3fa71/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/b2/ce/ebb2ceec-08ee-f863-f261-1b4a67522054/04-edit-controls.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/2a/6a/992a6af0-1a92-8bce-780a-377378017857/01-rectangle-presentation.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/f8/77/08f8771e-af0b-2fdf-1ff6-dc9cbbe74c94/02-circle-presentation.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/7a/0a/667a0a90-bff4-a0da-7444-23b66b5cc16f/03-final-reminder.png/800x500bb.jpg"
-          ],
-          "appleId": "6795022587",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-sycjizhangben-app",
-      "name": "极简记账本-记账理财预算",
-      "summary": "极简记账本是一款界面极简、上手即用的个人记账本。无需注册、无需登录，打开就能 3 秒记一笔，自动带出你最近用过的分类和账户，把每天的收入支出快速记清楚。 为什么选极简记账本？…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c2/68/60c26858-5d8b-586e-c38e-f35436620e26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-08-27T04:49:29Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E6%9E%81%E7%AE%80%E8%AE%B0%E8%B4%A6%E6%9C%AC-%E8%AE%B0%E8%B4%A6%E7%90%86%E8%B4%A2%E9%A2%84%E7%AE%97/id6762165253?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "极简记账本-记账理财预算",
-          "description": "极简记账本是一款界面极简、上手即用的个人记账本。无需注册、无需登录，打开就能 3 秒记一笔，自动带出你最近用过的分类和账户，把每天的收入支出快速记清楚。 为什么选极简记账本？ · 截图记账：导入支付宝/微信账单截图，自动识别金额、时间与备注，确认即入账（文字识别在本机完成，不上传图片）。 · 极速记账：首页一键记支出/记收入，常用金额一键填入，金额、分类、账户一屏完成。 · 看得懂的统计：本月结余、收支趋势、分类占比环形图、消费洞察，一眼看清钱花在哪。 · 月度预算：给本月支出设上限，首页实时显示已用与剩余；按当前消费速度预测月末支出，会超支提前告诉你。 · 账单管理：按日期自动分组，支持搜索备注与金额，左滑即可编辑或删除。 · 每日提醒：自定义提醒时间，养成天天记账的习惯，提醒由系统本地通知发送。 · 账户与分类：现金、银行卡、支付宝、微信、信用卡随心管理，分类可自定义。 · 主题与货币：多套主题配色可选，货币单位跟随所在地区，也可手动指定（只改显示符号，不兑换金额）。 · iCloud 备份：账本可备份到你自己的 iCloud，换机或重装后一",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/60/c2/68/60c26858-5d8b-586e-c38e-f35436620e26/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b8/42/91/b842916d-fee3-e2c3-47cd-acf7d9972357/01-Home.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/b9/57/aeb95708-9c77-3a9d-9175-04e818426a1e/02-Bills.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/b1/ce/e7b1ce18-7307-fc9a-6e56-fcc26cd0cad8/03-Statistics.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/6b/35/306b35f9-f8de-84d5-d854-74f5e94c869b/04-Settings.png/320x480bb.jpg"
-          ],
-          "appleId": "6762165253",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-snoresleepsyc-app",
-      "name": "眠声鼾记:鼾声睡眠记录",
-      "summary": "眠声鼾记是一款本地优先的睡眠声音记录与鼾声趋势复盘工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。无需注册登录，iCloud 使用系统账号，高级版跟随…",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/00/9d/88009da4-adcb-791d-b132-153a503db2a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "updatedAt": "2026-08-26T18:25:45Z",
-      "platforms": [
-        "ios"
-      ],
-      "downloads": {
-        "ios": "https://apps.apple.com/cn/app/%E7%9C%A0%E5%A3%B0%E9%BC%BE%E8%AE%B0-%E9%BC%BE%E5%A3%B0%E7%9D%A1%E7%9C%A0%E8%AE%B0%E5%BD%95/id6761602554?uo=4"
-      },
-      "listings": {
-        "ios": {
-          "name": "眠声鼾记:鼾声睡眠记录",
-          "description": "眠声鼾记是一款本地优先的睡眠声音记录与鼾声趋势复盘工具。睡前打开记录，醒来查看整晚声音变化、鼾声强度、关键片段和睡眠报告。无需注册登录，iCloud 使用系统账号，高级版跟随 App Store 购买。它用于个人记录和趋势参考，不是医疗器械，也不提供疾病诊断或治疗建议。 你可以用它： - 整夜记录环境声音，回看明显鼾声与梦话片段 - 查看睡眠分数、鼾声占比、呼吸稳定性等趋势 - 录音前检查麦克风、输入、存储和电量，减少失败 - 标记饮酒、晚餐、压力、疲劳等生活因素 - 记录侧睡、鼻贴、加湿器等夜间尝试，比较变化 - 查看每周摘要：变化方向、最佳一晚和主要相关因素 - 通过 iCloud 同步和导出报告，保留长期记录 多语言：简体中文、繁体中文、日语、韩语、英语、马来语。 高级版一次购买永久使用，可解锁完整录音复盘、深度趋势洞察、专业报告和疗法实验对比。 免责声明：本 App 仅用于个人睡眠声音记录和趋势参考，不能用于诊断、治疗或监测睡眠呼吸暂停等疾病。如有持续严重打鼾、憋醒、白天嗜睡，请咨询医生。 如有问题或建议，欢迎加入 QQ 群：605016",
-          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/00/9d/88009da4-adcb-791d-b132-153a503db2a3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-          "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/88/21/eb8821fa-1e0b-2197-1365-213c988243a6/01-Home.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/2a/b8/812ab84d-f970-1d59-5b5c-da197eeb2a4c/02-Trends.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/a2/f8/f4a2f8df-988c-2d08-16db-e6cc07a6f8ad/03-Reports.png/320x480bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/b9/85/72b98586-76c0-2c3a-30a6-923ac1db54d7/04-Report.png/320x480bb.jpg"
-          ],
-          "appleId": "6761602554",
-          "storeCountry": "cn",
-          "source": "App Store",
-          "sourceNote": "以下文案与截图来自 App Store（打开页面时拉取最新图）"
-        }
-      }
-    },
-    {
-      "id": "com-apptool-promptleaf",
-      "name": "映词提词器",
-      "summary": "映词提词器（PromptLeaf）是一款面向视频口播、课程录制、直播讲解、会议演示和演讲彩排的提词工具。 你可以在文稿库中整理脚本，导入文本与常见文稿格式，也可以通过局域网上…",
-      "icon": "./media/com-apptool-promptleaf/harmony/icon.jpg?v=ccc09ac5d7",
-      "updatedAt": "2026-08-14T09:45:36Z",
-      "platforms": [
-        "harmony"
-      ],
-      "downloads": {
-        "harmony": "https://appgallery.huawei.com/app/C6917613368024624501"
-      },
-      "listings": {
-        "harmony": {
-          "name": "映词提词器",
-          "description": "映词提词器（PromptLeaf）是一款面向视频口播、课程录制、直播讲解、会议演示和演讲彩排的提词工具。 你可以在文稿库中整理脚本，导入文本与常见文稿格式，也可以通过局域网上传把电脑里的成稿快速发送到手机或平板。进入提词或拍摄工作台时，可调节滚动速度、字号、行距、镜像和透明度，帮助你看镜头时也能稳定表达。 核心功能（V1，与实装一致）： - 文稿库：创建、编辑、搜索与复用脚本 - 提词：悬浮提词与全屏提词板，可调速度/字号/行距/镜像/透明度 - 拍摄工作台：深色练习台叠字提词；按需申请相机与麦克风（会话就绪 / 后续采集）；会话以本机笔记记录（本版不生成视频文件） - 导入：支持文件导入；局域网上传承接跨设备传稿 - 导出/分享：本地导出与系统分享，便于备份与换机 - 无账号：数据默认保存在本机；设置页提供数据、法律与支持入口 - 界面中文；外观跟随系统浅色/深色 - 免费全功能：全部能力免费开放，无需购买 不做：强制注册、未接好的真录像成片宣传、应用内语言切换。 适用场景：短视频口播、在线课程、直播流程、企业培训、销售演示、会议发言与演讲彩排",
-          "icon": "./media/com-apptool-promptleaf/harmony/icon.jpg?v=ccc09ac5d7",
-          "screenshots": [
-            "./media/com-apptool-promptleaf/harmony/shot-0.jpg?v=2970cb3213",
-            "./media/com-apptool-promptleaf/harmony/shot-1.jpg?v=974d8e3656",
-            "./media/com-apptool-promptleaf/harmony/shot-2.jpg?v=8ed092f623",
-            "./media/com-apptool-promptleaf/harmony/shot-3.jpg?v=89b6dc41ba"
-          ],
-          "source": "华为应用市场",
-          "sourceNote": "以下文案与截图来自华为应用市场"
         }
       }
     },
@@ -1124,10 +1263,10 @@
           "description": "AppTidy 帮你整理杂乱的应用视图，让你更快找到并打开需要的工具。 不用再从冗长的应用列表里翻找。AppTidy 会扫描已安装应用，显示真实图标，支持本地化名称，并让你通过分页、文件夹、拖拽排序、隐藏应用和即时搜索，建立一个清爽的应用工作区。 为什么值得把 AppTidy 加入工作流： - 减少寻找低频工具的时间 - 按工作、设计、工具、媒体和个人用途自由分组 - 隐藏干扰项，但不需要卸载应用 - 搜索后按回车即可打开第一个匹配结果 - 真实图标和名称本地缓存，启动更快 - 可随时从 Window 菜单重新打开主窗口 主要功能： - 扫描常见本地应用目录中的已安装应用包 - 根据系统语言、英文或简体中文显示本地化应用名称 - 显示真实应用图标，并使用本地缓存 - 清爽分页应用工作区，采用稳定的 5 x 7 网格 - 支持拖拽排序、创建文件夹、文件夹管理和隐藏应用 - 安装或移除应用后可手动刷新 AppTidy 在你的电脑本地运行，不需要账号，也不会上传你的应用列表。",
           "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/09/57/ee0957e9-1144-7135-e024-dc60e14fea04/AppIcon-0-0-85-220-0-5-0-2x.png/512x512bb.png",
           "screenshots": [
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/5c/36/bd5c3686-dc56-5c92-820b-36e8168c4b1a/03.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/14/98/7114984b-efa1-1d73-5f87-5c49f198252e/01.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/68/ad/5268adf4-33a1-a8a0-fc51-f0b75d16f890/04.png/800x500bb.jpg",
-            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/cb/77/8ccb779c-9065-b1ff-9743-f0a5fa4d65ef/02.png/800x500bb.jpg"
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/5c/36/bd5c3686-dc56-5c92-820b-36e8168c4b1a/03.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/71/14/98/7114984b-efa1-1d73-5f87-5c49f198252e/01.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/68/ad/5268adf4-33a1-a8a0-fc51-f0b75d16f890/04.png/320x480bb.jpg",
+            "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/cb/77/8ccb779c-9065-b1ff-9743-f0a5fa4d65ef/02.png/320x480bb.jpg"
           ],
           "appleId": "6774478341",
           "storeCountry": "cn",
