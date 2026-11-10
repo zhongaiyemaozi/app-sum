@@ -122,6 +122,14 @@ function badges(app) {
   if (p.includes("ios") && app.downloads?.ios) {
     bits.push(`<span class="badge ios">App Store</span>`);
   }
+  const china = app.chinaMainland;
+  if (china?.label) {
+    bits.push(
+      `<span class="badge ${china.available ? "cn-yes" : "cn-no"}">${escapeHtml(
+        china.label
+      )}</span>`
+    );
+  }
   if (app.downloads?.testflight) {
     bits.push(`<span class="badge ios">TestFlight</span>`);
   }
@@ -330,6 +338,7 @@ async function boot() {
   $("#stat-products").textContent = String(stats.products ?? "—");
   $("#stat-ios").textContent = String(stats.ios ?? "—");
   $("#stat-harmony").textContent = String(stats.harmony ?? "—");
+  $("#stat-ios-cn").textContent = String(stats.iosChinaMainland ?? "—");
   $("#generated-at").textContent = formatTime(state.catalog.updatedAt);
   const noteEl = $("#asset-note");
   if (noteEl) {

@@ -338,6 +338,18 @@ a:hover {
   border-color: rgba(31, 107, 87, 0.45);
 }
 
+.badge.cn-yes {
+  border-color: rgba(31, 107, 87, 0.55);
+  background: rgba(31, 107, 87, 0.1);
+  color: var(--moss-deep);
+}
+
+.badge.cn-no {
+  border-color: rgba(160, 60, 40, 0.45);
+  background: rgba(160, 60, 40, 0.08);
+  color: #7a2e1d;
+}
+
 .badge.warn {
   border-color: rgba(201, 133, 42, 0.55);
   background: rgba(201, 133, 42, 0.12);
